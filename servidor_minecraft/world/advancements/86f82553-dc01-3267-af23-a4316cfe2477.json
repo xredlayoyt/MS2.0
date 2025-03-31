@@ -191,7 +191,9 @@
       "minecraft:birch_forest": "2025-03-30 04:07:41 +0000",
       "minecraft:dark_forest": "2025-03-30 04:06:28 +0000",
       "minecraft:river": "2025-03-30 04:06:55 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-30 04:00:57 +0000"
+      "minecraft:stony_shore": "2025-03-31 03:00:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-30 04:00:57 +0000",
+      "minecraft:plains": "2025-03-31 02:59:51 +0000"
     },
     "done": false
   },
@@ -245,6 +247,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-03-31 03:00:09 +0000",
       "pine_taiga": "2025-03-30 04:09:05 +0000",
       "temperate_grove": "2025-03-30 04:09:24 +0000"
     },
@@ -252,6 +255,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-03-31 03:00:09 +0000",
       "pine_taiga": "2025-03-30 04:09:05 +0000",
       "temperate_grove": "2025-03-30 04:09:24 +0000"
     },
@@ -319,9 +323,21 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-03-31 03:05:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-31 02:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-31 03:05:20 +0000"
     },
     "done": true
   },
