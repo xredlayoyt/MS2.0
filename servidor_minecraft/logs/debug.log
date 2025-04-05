@@ -11668,3 +11668,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 02:59:23.907] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@570fe6c1[id=<null>,name=RakanCharming,properties={},legacy=false] (/127.86.93.177:49975) lost connection: Disconnected
 [05Apr2025 03:01:17.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 03:01:17.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:06:17.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:06:17.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:11:17.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:11:17.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
