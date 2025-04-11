@@ -87,3 +87,18 @@
 [21:24:13] [Server thread/INFO]: RakanCharming issued server command: /op MarieD4rk
 [21:24:13] [Server thread/INFO]: [RakanCharming: Made MarieD4rk a server operator]
 [21:26:25] [Server thread/INFO]: MarieD4rk has made the advancement [Stone Age]
+[21:28:31] [Server thread/INFO]: MarieD4rk has made the advancement [Getting an Upgrade]
+[21:36:32] [Server thread/INFO]: RakanCharming issued server command: /locate biome minecraft:cherry_grove
+[21:36:33] [Server thread/INFO]: Locating element minecraft:cherry_grove took 534 ms
+[21:36:36] [Server thread/INFO]: RakanCharming issued server command: /tp @s 838 77 -781
+[21:36:36] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 838.500000, 77.000000, -780.500000]
+[21:36:41] [Server thread/INFO]: RakanCharming issued server command: /gamemodec
+[21:36:41] [Server thread/INFO]: RakanCharming suffocated in a wall
+[21:36:47] [Server thread/INFO]: RakanCharming issued server command: /tp @s 838 77 -781
+[21:36:47] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 838.500000, 77.000000, -780.500000]
+[21:36:50] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[21:36:50] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
+[21:36:58] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
+[21:36:58] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
+[21:37:08] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
+[21:37:08] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
