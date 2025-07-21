@@ -1,149 +1,282 @@
-[21:06:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[21:06:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[21:06:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:06:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[21:06:45] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[21:06:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:06:53] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:06:53] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[21:06:54] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8866ms.
-[21:06:55] [ServerMain/INFO]: No existing world data, creating new world
-[21:06:55] [ServerMain/INFO]: Loaded 1337 recipes
-[21:06:55] [ServerMain/INFO]: Loaded 1448 advancements
-[21:06:56] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[21:06:56] [Server thread/INFO]: Loading properties
-[21:06:56] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[21:06:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:06:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:06:56] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:06:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:06:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:06:57] [Server thread/INFO]: Default game type: SURVIVAL
-[21:06:57] [Server thread/INFO]: Generating keypair
-[21:06:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:06:57] [Server thread/INFO]: Using epoll channel type
-[21:06:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:06:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:06:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:06:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:06:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:06:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:06:57] [Server thread/INFO]: Preparing level "world"
-[21:07:03] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[21:07:03] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 266.3ms
-[21:07:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:07:07] [Server thread/INFO]: Preparing spawn area: 2%
-[21:07:08] [Server thread/INFO]: Preparing spawn area: 2%
-[21:07:08] [Server thread/INFO]: Preparing spawn area: 2%
-[21:07:09] [Server thread/INFO]: Preparing spawn area: 6%
-[21:07:09] [Server thread/INFO]: Preparing spawn area: 14%
-[21:07:10] [Server thread/INFO]: Preparing spawn area: 18%
-[21:07:10] [Server thread/INFO]: Preparing spawn area: 18%
-[21:07:11] [Server thread/INFO]: Preparing spawn area: 48%
-[21:07:11] [Server thread/INFO]: Preparing spawn area: 51%
-[21:07:12] [Server thread/INFO]: Preparing spawn area: 65%
-[21:07:12] [Server thread/INFO]: Time elapsed: 4826 ms
-[21:07:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:07:12] [Server thread/INFO]: Preparing spawn area: 2%
-[21:07:12] [Server thread/INFO]: Preparing spawn area: 18%
-[21:07:13] [Server thread/INFO]: Preparing spawn area: 51%
-[21:07:13] [Server thread/INFO]: Preparing spawn area: 77%
-[21:07:14] [Server thread/INFO]: Time elapsed: 1548 ms
-[21:07:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:07:14] [Server thread/INFO]: Preparing spawn area: 2%
-[21:07:14] [Server thread/INFO]: Time elapsed: 436 ms
-[21:07:14] [Server thread/INFO]: [spark] Starting background profiler...
-[21:07:14] [Server thread/INFO]: Done preparing level "world" (16.826s)
-[21:07:14] [Server thread/INFO]: Running delayed init tasks
-[21:07:14] [Server thread/INFO]: Done (30.634s)! For help, type "help"
-[21:07:14] [Server thread/INFO]: *************************************************************************************
-[21:07:14] [Server thread/INFO]: This is the first time you're starting this server.
-[21:07:14] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[21:07:14] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[21:07:14] [Server thread/INFO]: *************************************************************************************
-[21:10:14] [User Authenticator #0/INFO]: UUID of player MarieD4rk is cb9816e9-91c2-3000-a267-a2333ae1351a
-[21:10:15] [Server thread/INFO]: MarieD4rk joined the game
-[21:10:15] [Server thread/INFO]: MarieD4rk[/127.149.145.162:59233] logged in with entity id 37 at ([world]23.5, 81.0, 10.5)
-[21:18:43] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[21:18:44] [Server thread/INFO]: RakanCharming joined the game
-[21:18:44] [Server thread/INFO]: RakanCharming[/127.86.93.177:48253] logged in with entity id 1178 at ([world]19.5, 80.0, 10.5)
-[21:19:15] [Server thread/INFO]: MarieD4rk lost connection: Disconnected
-[21:19:15] [Server thread/INFO]: MarieD4rk left the game
-[21:20:16] [User Authenticator #2/INFO]: UUID of player MarieD4rk is cb9816e9-91c2-3000-a267-a2333ae1351a
-[21:20:17] [Server thread/INFO]: MarieD4rk joined the game
-[21:20:17] [Server thread/INFO]: MarieD4rk[/127.149.145.162:45037] logged in with entity id 1372 at ([world]16.517790216129303, 82.0, 13.256660646497245)
-[21:21:07] [Server thread/INFO]: MarieD4rk has made the advancement [Monster Hunter]
-[21:21:16] [Server thread/INFO]: RakanCharming has made the advancement [Monster Hunter]
-[21:21:29] [Server thread/INFO]: RakanCharming hit the ground too hard
-[21:21:46] [Server thread/INFO]: MarieD4rk was slain by Zombie
-[21:22:27] [Server thread/INFO]: RakanCharming was blown up by Creeper
-[21:22:35] [Server thread/INFO]: Made RakanCharming a server operator
-[21:22:43] [Server thread/INFO]: MarieD4rk was slain by Zombie
-[21:22:43] [Server thread/INFO]: RakanCharming issued server command: /time set 1
-[21:22:43] [Server thread/INFO]: [RakanCharming: Set the time to 1]
-[21:23:10] [Server thread/INFO]: MarieD4rk was slain by Enderman
-[21:23:46] [Server thread/INFO]: RakanCharming has made the advancement [Stone Age]
-[21:24:07] [Server thread/INFO]: RakanCharming has made the advancement [Getting an Upgrade]
-[21:24:13] [Server thread/INFO]: RakanCharming issued server command: /op MarieD4rk
-[21:24:13] [Server thread/INFO]: [RakanCharming: Made MarieD4rk a server operator]
-[21:26:25] [Server thread/INFO]: MarieD4rk has made the advancement [Stone Age]
-[21:28:31] [Server thread/INFO]: MarieD4rk has made the advancement [Getting an Upgrade]
-[21:36:32] [Server thread/INFO]: RakanCharming issued server command: /locate biome minecraft:cherry_grove
-[21:36:33] [Server thread/INFO]: Locating element minecraft:cherry_grove took 534 ms
-[21:36:36] [Server thread/INFO]: RakanCharming issued server command: /tp @s 838 77 -781
-[21:36:36] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 838.500000, 77.000000, -780.500000]
-[21:36:41] [Server thread/INFO]: RakanCharming issued server command: /gamemodec
-[21:36:41] [Server thread/INFO]: RakanCharming suffocated in a wall
-[21:36:47] [Server thread/INFO]: RakanCharming issued server command: /tp @s 838 77 -781
-[21:36:47] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 838.500000, 77.000000, -780.500000]
-[21:36:50] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[21:36:50] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[21:36:58] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[21:36:58] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[21:37:08] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:37:08] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:38:01] [Server thread/INFO]: MarieD4rk issued server command: /gamemode creative
-[21:38:01] [Server thread/INFO]: [MarieD4rk: Set own game mode to Creative Mode]
-[21:38:11] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:38:11] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:38:46] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[21:38:46] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[21:39:43] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:39:43] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:40:09] [Server thread/INFO]: RakanCharming issued server command: /locate biome minecraft:cherry_grove
-[21:40:09] [Server thread/INFO]: Locating element minecraft:cherry_grove took 107 ms
-[21:40:12] [Server thread/INFO]: RakanCharming issued server command: /tp @s 1355 65 -1578
-[21:40:12] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 1355.500000, 65.000000, -1577.500000]
-[21:40:36] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[21:40:36] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[21:40:44] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[21:40:44] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[21:41:04] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:41:04] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:41:23] [Server thread/INFO]: RakanCharming has made the advancement [Sweet Dreams]
-[21:42:27] [Server thread/INFO]: MarieD4rk issued server command: /gamemode survival
-[21:42:27] [Server thread/INFO]: [MarieD4rk: Set own game mode to Survival Mode]
-[21:42:45] [Server thread/INFO]: MarieD4rk was slain by Zombie
-[21:43:00] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:43:00] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:43:57] [Server thread/INFO]: RakanCharming issued server command: /tp MarieD4rk RakanCharming
-[21:43:57] [Server thread/INFO]: [RakanCharming: Teleported MarieD4rk to RakanCharming]
-[21:44:37] [Server thread/INFO]: MarieD4rk hit the ground too hard
-[21:44:54] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[21:44:54] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[21:47:06] [Async Chat Thread - #0/INFO]: [Not Secure] <MarieD4rk> estan
-[21:47:11] [Async Chat Thread - #0/INFO]: [Not Secure] <MarieD4rk> fornikando
-[21:47:14] [Async Chat Thread - #0/INFO]: [Not Secure] <MarieD4rk> ijosdeprr
-[21:48:30] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[21:48:30] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[21:48:44] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[21:48:44] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[21:48:52] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[21:48:52] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[21:49:03] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[21:49:03] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[21:49:12] [Server thread/INFO]: MarieD4rk issued server command: /gamemode creative
-[21:49:12] [Server thread/INFO]: [MarieD4rk: Set own game mode to Creative Mode]
-[21:53:39] [Server thread/INFO]: MarieD4rk has made the advancement [Sweet Dreams]
-[21:53:41] [Async Chat Thread - #2/INFO]: [Not Secure] <RakanCharming> zzzzzzzzzzzzzzzzzzzzzzzzzz
-[21:56:02] [Server thread/INFO]: RakanCharming has made the advancement [Acquire Hardware]
+[21Jul2025 20:29:08.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Jul2025 20:29:08.603] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[21Jul2025 20:29:08.685] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/MS2.0/servidor_minecraft/config/fml.toml is not correct. Correcting
+[21Jul2025 20:29:08.687] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[21Jul2025 20:29:08.687] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[21Jul2025 20:29:08.688] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[21Jul2025 20:29:08.688] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[21Jul2025 20:29:08.702] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Jul2025 20:29:08.745] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Jul2025 20:29:08.924] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jul2025 20:29:08.925] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jul2025 20:29:08.927] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jul2025 20:29:08.928] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jul2025 20:29:09.008] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Jul2025 20:29:10.624] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Jul2025 20:29:16.122] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Jul2025 20:29:16.126] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Jul2025 20:29:17.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Jul2025 20:29:17.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[21Jul2025 20:29:17.947] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Jul2025 20:29:18.057] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[21Jul2025 20:29:18.058] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[21Jul2025 20:29:18.233] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack paper
+[21Jul2025 20:29:20.048] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[21Jul2025 20:29:20.178] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[21Jul2025 20:29:20.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Jul2025 20:29:20.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Jul2025 20:29:20.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Jul2025 20:29:20.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Jul2025 20:29:20.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Jul2025 20:29:20.779] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Jul2025 20:29:20.850] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Jul2025 20:29:20.851] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Jul2025 20:29:20.851] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Jul2025 20:29:20.851] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Jul2025 20:29:20.873] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[21Jul2025 20:29:20.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Jul2025 20:29:20.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[21Jul2025 20:29:20.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[21Jul2025 20:29:20.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[21Jul2025 20:29:20.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[21Jul2025 20:29:20.877] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[21Jul2025 20:29:20.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[21Jul2025 20:29:20.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[21Jul2025 20:29:20.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Jul2025 20:29:21.224] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence salt
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21Jul2025 20:29:21.225] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence include_sequence_id
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21Jul2025 20:29:21.226] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence sequences
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21Jul2025 20:29:21.227] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence include_world_seed
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21Jul2025 20:29:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Jul2025 20:29:25.567] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:25.594] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:25.625] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:25.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:25.848] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:26.331] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:26.377] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 11], discarding
+[21Jul2025 20:29:26.379] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 11], discarding
+[21Jul2025 20:29:26.383] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 11], discarding
+[21Jul2025 20:29:26.388] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 11], discarding
+[21Jul2025 20:29:26.392] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 11], discarding
+[21Jul2025 20:29:26.394] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 11], discarding
+[21Jul2025 20:29:26.396] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 11], discarding
+[21Jul2025 20:29:26.398] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 11], discarding
+[21Jul2025 20:29:26.411] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 11], discarding
+[21Jul2025 20:29:26.415] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 11], discarding
+[21Jul2025 20:29:26.418] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 11], discarding
+[21Jul2025 20:29:26.421] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 11], discarding
+[21Jul2025 20:29:26.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 11], discarding
+[21Jul2025 20:29:26.425] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 11], discarding
+[21Jul2025 20:29:26.428] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 11], discarding
+[21Jul2025 20:29:26.468] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 11], discarding
+[21Jul2025 20:29:26.531] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 11], discarding
+[21Jul2025 20:29:26.533] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 12], discarding
+[21Jul2025 20:29:26.534] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 12], discarding
+[21Jul2025 20:29:26.536] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 12], discarding
+[21Jul2025 20:29:26.538] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 12], discarding
+[21Jul2025 20:29:26.539] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 12], discarding
+[21Jul2025 20:29:26.541] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 12], discarding
+[21Jul2025 20:29:26.543] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 12], discarding
+[21Jul2025 20:29:26.545] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 12], discarding
+[21Jul2025 20:29:26.555] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 12], discarding
+[21Jul2025 20:29:26.557] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 12], discarding
+[21Jul2025 20:29:26.560] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 12], discarding
+[21Jul2025 20:29:26.570] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 12], discarding
+[21Jul2025 20:29:26.572] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 12], discarding
+[21Jul2025 20:29:26.573] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 12], discarding
+[21Jul2025 20:29:26.575] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 12], discarding
+[21Jul2025 20:29:26.576] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 12], discarding
+[21Jul2025 20:29:26.577] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 12], discarding
+[21Jul2025 20:29:26.579] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 13], discarding
+[21Jul2025 20:29:26.580] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 13], discarding
+[21Jul2025 20:29:26.582] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 13], discarding
+[21Jul2025 20:29:26.584] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 13], discarding
+[21Jul2025 20:29:26.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 13], discarding
+[21Jul2025 20:29:26.588] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 13], discarding
+[21Jul2025 20:29:26.590] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 13], discarding
+[21Jul2025 20:29:26.591] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 13], discarding
+[21Jul2025 20:29:26.605] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 13], discarding
+[21Jul2025 20:29:26.607] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 13], discarding
+[21Jul2025 20:29:26.609] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 13], discarding
+[21Jul2025 20:29:26.611] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 13], discarding
+[21Jul2025 20:29:26.612] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 13], discarding
+[21Jul2025 20:29:26.615] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 13], discarding
+[21Jul2025 20:29:26.618] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 13], discarding
+[21Jul2025 20:29:26.620] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 13], discarding
+[21Jul2025 20:29:26.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 13], discarding
+[21Jul2025 20:29:26.709] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 14], discarding
+[21Jul2025 20:29:26.711] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 14], discarding
+[21Jul2025 20:29:26.713] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 14], discarding
+[21Jul2025 20:29:26.715] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 14], discarding
+[21Jul2025 20:29:26.717] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 14], discarding
+[21Jul2025 20:29:26.719] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 14], discarding
+[21Jul2025 20:29:26.721] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 14], discarding
+[21Jul2025 20:29:26.729] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 14], discarding
+[21Jul2025 20:29:26.730] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 14], discarding
+[21Jul2025 20:29:26.732] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 14], discarding
+[21Jul2025 20:29:26.733] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 14], discarding
+[21Jul2025 20:29:26.735] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 14], discarding
+[21Jul2025 20:29:26.736] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 14], discarding
+[21Jul2025 20:29:26.738] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 14], discarding
+[21Jul2025 20:29:26.740] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 14], discarding
+[21Jul2025 20:29:26.742] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 14], discarding
+[21Jul2025 20:29:26.837] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:26.853] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 15], discarding
+[21Jul2025 20:29:26.856] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 15], discarding
+[21Jul2025 20:29:26.857] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 15], discarding
+[21Jul2025 20:29:26.858] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 15], discarding
+[21Jul2025 20:29:26.861] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 15], discarding
+[21Jul2025 20:29:26.864] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 15], discarding
+[21Jul2025 20:29:26.866] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 15], discarding
+[21Jul2025 20:29:26.868] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 15], discarding
+[21Jul2025 20:29:26.877] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 15], discarding
+[21Jul2025 20:29:26.879] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 15], discarding
+[21Jul2025 20:29:26.880] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 15], discarding
+[21Jul2025 20:29:26.882] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 15], discarding
+[21Jul2025 20:29:26.883] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 15], discarding
+[21Jul2025 20:29:26.886] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 15], discarding
+[21Jul2025 20:29:26.889] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: minecraft:trial_chambers
+[21Jul2025 20:29:26.889] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 15], discarding
+[21Jul2025 20:29:26.891] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 15], discarding
+[21Jul2025 20:29:26.893] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 15], discarding
+[21Jul2025 20:29:26.897] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 16], discarding
+[21Jul2025 20:29:26.898] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 16], discarding
+[21Jul2025 20:29:26.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 16], discarding
+[21Jul2025 20:29:26.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 16], discarding
+[21Jul2025 20:29:26.905] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 16], discarding
+[21Jul2025 20:29:26.914] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 16], discarding
+[21Jul2025 20:29:26.916] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 16], discarding
+[21Jul2025 20:29:26.918] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 16], discarding
+[21Jul2025 20:29:26.920] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 16], discarding
+[21Jul2025 20:29:26.922] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 16], discarding
+[21Jul2025 20:29:26.925] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 16], discarding
+[21Jul2025 20:29:26.927] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 16], discarding
+[21Jul2025 20:29:26.929] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 17], discarding
+[21Jul2025 20:29:26.931] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: minecraft:trial_chambers
+[21Jul2025 20:29:26.931] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 17], discarding
+[21Jul2025 20:29:26.934] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 17], discarding
+[21Jul2025 20:29:26.937] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 17], discarding
+[21Jul2025 20:29:26.939] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 17], discarding
+[21Jul2025 20:29:26.954] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 17], discarding
+[21Jul2025 20:29:26.956] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 17], discarding
+[21Jul2025 20:29:26.958] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 17], discarding
+[21Jul2025 20:29:26.960] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 17], discarding
+[21Jul2025 20:29:26.961] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 17], discarding
+[21Jul2025 20:29:26.964] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 17], discarding
+[21Jul2025 20:29:26.966] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 17], discarding
+[21Jul2025 20:29:26.970] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 16], discarding
+[21Jul2025 20:29:26.972] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 16], discarding
+[21Jul2025 20:29:26.973] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-15, 17], discarding
+[21Jul2025 20:29:26.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 17], discarding
+[21Jul2025 20:29:26.977] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-14, 18], discarding
+[21Jul2025 20:29:26.978] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-13, 18], discarding
+[21Jul2025 20:29:26.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-12, 18], discarding
+[21Jul2025 20:29:26.982] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-11, 18], discarding
+[21Jul2025 20:29:26.983] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-10, 18], discarding
+[21Jul2025 20:29:26.993] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 18], discarding
+[21Jul2025 20:29:26.994] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 18], discarding
+[21Jul2025 20:29:26.995] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 18], discarding
+[21Jul2025 20:29:26.997] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 18], discarding
+[21Jul2025 20:29:26.999] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 18], discarding
+[21Jul2025 20:29:27.000] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 18], discarding
+[21Jul2025 20:29:27.002] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 18], discarding
+[21Jul2025 20:29:27.004] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 18], discarding
+[21Jul2025 20:29:27.005] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-16, 16], discarding
+[21Jul2025 20:29:27.007] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 16], discarding
+[21Jul2025 20:29:27.008] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 17], discarding
+[21Jul2025 20:29:27.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 18], discarding
+[21Jul2025 20:29:27.057] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 19], discarding
+[21Jul2025 20:29:27.058] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 19], discarding
+[21Jul2025 20:29:27.059] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 19], discarding
+[21Jul2025 20:29:27.061] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 19], discarding
+[21Jul2025 20:29:27.062] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 19], discarding
+[21Jul2025 20:29:27.064] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 19], discarding
+[21Jul2025 20:29:27.066] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 19], discarding
+[21Jul2025 20:29:27.068] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 19], discarding
+[21Jul2025 20:29:27.069] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 19], discarding
+[21Jul2025 20:29:27.091] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-4, 20], discarding
+[21Jul2025 20:29:27.092] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-3, 20], discarding
+[21Jul2025 20:29:27.094] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-2, 20], discarding
+[21Jul2025 20:29:27.095] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-1, 20], discarding
+[21Jul2025 20:29:27.097] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [0, 20], discarding
+[21Jul2025 20:29:27.098] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [1, 20], discarding
+[21Jul2025 20:29:27.100] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [2, 20], discarding
+[21Jul2025 20:29:27.102] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [3, 20], discarding
+[21Jul2025 20:29:27.103] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [4, 20], discarding
+[21Jul2025 20:29:27.129] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [-17, 16], discarding
+[21Jul2025 20:29:27.333] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:27.828] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:28.326] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jul2025 20:29:28.826] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[21Jul2025 20:29:29.326] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[21Jul2025 20:29:29.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[21Jul2025 20:29:30.028] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6203 ms
+[21Jul2025 20:29:30.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.164s)! For help, type "help"
+[21Jul2025 20:29:30.043] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jul2025 20:29:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jul2025 20:29:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python /workspaces/MS2.0/msx.py<--[HERE]
