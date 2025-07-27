@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-27 23:24:33 +0000"
@@ -671,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_table": {
     "criteria": {
       "has_planks": "2025-07-27 21:51:01 +0000"
@@ -800,6 +812,12 @@
   "pfm:recipes/furniture/stripped_cherry_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-27 23:54:13 +0000"
     },
     "done": true
   },
@@ -2537,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_park_bench": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
@@ -2771,6 +2795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 23:54:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -2848,6 +2878,18 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
     },
     "done": true
   },
@@ -3903,6 +3945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -4026,6 +4074,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-27 23:54:13 +0000"
     },
     "done": true
   },
@@ -4377,6 +4431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-27 23:54:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -4560,6 +4620,12 @@
   "pfm:recipes/furniture/birch_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-27 23:54:09 +0000"
     },
     "done": true
   },
@@ -5534,6 +5600,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-07-27 23:49:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_desk": {
     "criteria": {
       "has_planks": "2025-07-27 21:51:01 +0000"
@@ -5717,6 +5789,12 @@
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-27 23:54:09 +0000"
     },
     "done": true
   },
@@ -6182,6 +6260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-27 23:54:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -6227,6 +6311,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-27 23:54:13 +0000"
     },
     "done": true
   },

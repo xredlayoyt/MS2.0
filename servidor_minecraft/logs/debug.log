@@ -8274,3 +8274,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 23:44:26.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 23:44:26.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 23:45:05.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25619, l='ServerLevel[world]', x=350.56, y=95.00, z=-3543.24] died, message: 'Villager was slain by Zombie'
+[27Jul2025 23:46:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Bloody Stream]
+[27Jul2025 23:49:26.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:49:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:49:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Flexible Schedule]
+[27Jul2025 23:50:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After RakanCharming was shot by Mutant Skeleton, they gave up
+[27Jul2025 23:50:41.226] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:vampire 1
+[27Jul2025 23:51:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Zombie
+[27Jul2025 23:51:25.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Take Aim]
+[27Jul2025 23:53:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [I always come back]
+[27Jul2025 23:54:26.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:54:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:55:47.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Zombie Villager
