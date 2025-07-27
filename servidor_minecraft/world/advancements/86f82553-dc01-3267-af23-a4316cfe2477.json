@@ -5683,6 +5683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
@@ -5713,9 +5719,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-27 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -5758,6 +5776,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -5809,6 +5833,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
@@ -5851,6 +5881,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
@@ -5878,6 +5914,12 @@
   "cfm:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_log": "2025-07-27 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -5947,6 +5989,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -5962,6 +6010,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6043,6 +6097,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
@@ -6052,6 +6112,12 @@
   "pfm:recipes/furniture/blackstone_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6139,6 +6205,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_table_log": {
     "criteria": {
       "has_log": "2025-07-27 22:58:28 +0000"
@@ -6148,6 +6220,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6205,6 +6283,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_jungle_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6226,6 +6316,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-07-27 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6262,6 +6358,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6337,6 +6439,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_jungle_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6352,6 +6460,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6415,6 +6529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6442,6 +6562,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6484,6 +6610,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },
@@ -6658,6 +6790,18 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2025-07-27 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:32:10 +0000"
     },
     "done": true
   },

@@ -8261,3 +8261,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 23:21:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [27Jul2025 23:24:26.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 23:24:26.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:27:02.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=93, z=-3391} BlockPos{x=360, y=91, z=-3390}
+[27Jul2025 23:27:02.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=93, z=-3391} BlockPos{x=360, y=91, z=-3390}
+[27Jul2025 23:28:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[27Jul2025 23:29:26.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:29:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 23:34:26.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:34:26.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

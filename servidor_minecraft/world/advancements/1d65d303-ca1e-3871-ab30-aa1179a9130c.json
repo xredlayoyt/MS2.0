@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-27 21:41:53 +0000"
@@ -1559,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-27 22:30:19 +0000"
@@ -1946,6 +1958,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
     },
     "done": true
   },
@@ -2684,6 +2702,12 @@
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
     },
     "done": true
   },
@@ -3558,6 +3582,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
     },
     "done": true
   },
@@ -5015,6 +5045,12 @@
   "vampirism:recipes/transportation/dark_spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-07-27 23:24:33 +0000"
     },
     "done": true
   },
