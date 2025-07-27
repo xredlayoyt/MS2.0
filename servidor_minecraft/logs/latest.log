@@ -1422,3 +1422,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 22:37:25.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=88, z=-3423} BlockPos{x=369, y=86, z=-3423}
 [27Jul2025 23:08:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Suit Up]
 [27Jul2025 23:10:12.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Sneak 100]
+[27Jul2025 23:18:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[27Jul2025 23:20:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was blown up by Creeper
+[27Jul2025 23:20:06.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Isn't It Iron Pick]
+[27Jul2025 23:20:10.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[27Jul2025 23:20:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was blown up by Creeper
+[27Jul2025 23:21:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
