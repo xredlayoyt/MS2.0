@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pewen_alexscaves_modern_stool"
+  }
+}

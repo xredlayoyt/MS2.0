@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:cursed_spruce_vampirism_red_simple_bed"
+  }
+}

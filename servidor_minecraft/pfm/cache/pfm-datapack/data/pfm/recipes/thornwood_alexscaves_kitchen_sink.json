@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:thornwood_alexscaves_kitchen_sink"
+  }
+}

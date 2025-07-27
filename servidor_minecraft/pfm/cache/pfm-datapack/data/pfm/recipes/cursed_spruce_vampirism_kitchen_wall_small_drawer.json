@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cursed_spruce_vampirism_kitchen_wall_small_drawer"
+  }
+}

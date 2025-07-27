@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:thornwood_alexscaves_kitchen_wall_small_drawer"
+  }
+}

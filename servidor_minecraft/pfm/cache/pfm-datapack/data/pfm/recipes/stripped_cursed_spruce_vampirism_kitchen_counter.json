@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_cursed_spruce_vampirism_kitchen_counter"
+  }
+}

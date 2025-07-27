@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "vampirism:dark_stone"
+    },
+    {
+      "item": "vampirism:dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dark_stone_vampirism_table_natural"
+  }
+}

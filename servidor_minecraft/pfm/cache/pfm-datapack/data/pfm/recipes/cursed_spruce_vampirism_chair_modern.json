@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cursed_spruce_vampirism_chair_modern"
+  }
+}

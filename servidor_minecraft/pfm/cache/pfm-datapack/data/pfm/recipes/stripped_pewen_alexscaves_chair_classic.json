@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_pewen_alexscaves_chair_classic"
+  }
+}

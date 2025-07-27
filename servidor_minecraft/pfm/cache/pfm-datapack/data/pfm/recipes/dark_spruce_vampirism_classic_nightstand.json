@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dark_spruce_vampirism_classic_nightstand"
+  }
+}

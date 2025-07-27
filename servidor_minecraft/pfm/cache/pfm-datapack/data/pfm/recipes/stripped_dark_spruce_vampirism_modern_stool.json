@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:stripped_dark_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_dark_spruce_log"
+    },
+    {
+      "item": "vampirism:stripped_dark_spruce_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_dark_spruce_vampirism_modern_stool"
+  }
+}

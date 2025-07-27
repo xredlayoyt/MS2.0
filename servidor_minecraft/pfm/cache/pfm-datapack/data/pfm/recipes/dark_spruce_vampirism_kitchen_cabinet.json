@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "vampirism:dark_spruce_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_spruce_vampirism_kitchen_cabinet"
+  }
+}

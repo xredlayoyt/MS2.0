@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:stripped_pewen_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_pewen_alexscaves_classic_nightstand"
+  }
+}

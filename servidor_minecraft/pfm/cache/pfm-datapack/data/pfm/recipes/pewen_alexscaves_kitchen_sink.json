@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_planks"
+    },
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "alexscaves:pewen_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:pewen_alexscaves_kitchen_sink"
+  }
+}

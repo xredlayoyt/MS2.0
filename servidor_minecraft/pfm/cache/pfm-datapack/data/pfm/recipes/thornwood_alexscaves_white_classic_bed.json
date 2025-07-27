@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "alexscaves:thornwood_fence"
+    },
+    {
+      "item": "alexscaves:thornwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:thornwood_alexscaves_white_classic_bed"
+  }
+}

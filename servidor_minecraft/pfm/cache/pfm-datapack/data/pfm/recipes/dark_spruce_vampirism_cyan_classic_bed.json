@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "vampirism:dark_spruce_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "vampirism:dark_spruce_fence"
+    },
+    {
+      "item": "vampirism:dark_spruce_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_spruce_vampirism_cyan_classic_bed"
+  }
+}

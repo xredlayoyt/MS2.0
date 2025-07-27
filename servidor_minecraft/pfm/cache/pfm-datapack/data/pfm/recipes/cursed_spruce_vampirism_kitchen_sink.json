@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_planks"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "vampirism:cursed_spruce_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:cursed_spruce_vampirism_kitchen_sink"
+  }
+}

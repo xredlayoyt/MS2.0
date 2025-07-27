@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_log"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    },
+    {
+      "item": "alexscaves:thornwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:thornwood_alexscaves_chair"
+  }
+}

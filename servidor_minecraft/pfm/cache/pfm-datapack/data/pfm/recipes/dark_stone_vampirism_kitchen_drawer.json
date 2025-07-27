@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:polished_dark_stone"
+    },
+    {
+      "item": "vampirism:dark_stone"
+    },
+    {
+      "item": "vampirism:dark_stone"
+    },
+    {
+      "item": "vampirism:dark_stone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_stone_vampirism_kitchen_drawer"
+  }
+}
