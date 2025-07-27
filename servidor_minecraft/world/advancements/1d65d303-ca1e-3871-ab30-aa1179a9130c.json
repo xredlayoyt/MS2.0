@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-27 22:05:51 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -191,9 +203,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-07-27 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -329,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -368,6 +410,12 @@
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -452,6 +500,12 @@
   "pfm:recipes/furniture/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -605,9 +659,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -659,9 +725,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:26:29 +0000"
     },
     "done": true
   },
@@ -728,6 +812,12 @@
   "pfm:recipes/furniture/pewen_alexscaves_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -803,6 +893,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -812,6 +914,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -848,6 +956,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:26:29 +0000"
     },
     "done": true
   },
@@ -1013,6 +1127,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 21:51:01 +0000"
@@ -1091,6 +1211,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-07-27 22:16:07 +0000"
@@ -1136,6 +1262,12 @@
   "pfm:recipes/furniture/stripped_birch_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -1193,6 +1325,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -1202,6 +1340,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-27 21:32:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -1343,6 +1487,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -1463,6 +1613,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/maple_biomesoplenty_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
@@ -1532,6 +1688,12 @@
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-27 22:48:52 +0000"
     },
     "done": true
   },
@@ -1655,9 +1817,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -1667,9 +1841,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -1682,6 +1868,12 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -1745,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
@@ -1766,6 +1964,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -1931,6 +2135,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_raw_table_log": {
     "criteria": {
       "has_log": "2025-07-27 21:51:01 +0000"
@@ -1964,6 +2174,12 @@
   "pfm:recipes/furniture/stone_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -2039,6 +2255,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-27 22:07:02 +0000"
@@ -2084,6 +2306,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-27 21:32:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -2231,6 +2459,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -2261,6 +2495,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -2276,6 +2516,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-27 22:26:29 +0000"
     },
     "done": true
   },
@@ -2383,6 +2629,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-27 21:31:26 +0000"
@@ -2392,6 +2644,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -2485,6 +2743,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -2500,6 +2764,12 @@
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -2749,6 +3019,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -2779,9 +3055,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-07-27 21:44:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -2797,9 +3085,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -3092,9 +3392,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -3248,6 +3560,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -3311,6 +3629,12 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -3440,6 +3764,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-27 21:37:15 +0000"
@@ -3536,6 +3866,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -3575,6 +3911,12 @@
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -3704,6 +4046,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
@@ -3782,6 +4136,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -3791,6 +4151,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-07-27 21:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -3860,6 +4226,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/cherry_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-07-27 22:48:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
@@ -3899,6 +4271,18 @@
   "pfm:recipes/furniture/hellbark_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -3956,6 +4340,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -4001,6 +4391,12 @@
   "pfm:recipes/furniture/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
     },
     "done": true
   },
@@ -4064,6 +4460,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -4088,6 +4496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-07-27 21:32:04 +0000"
@@ -4103,6 +4517,12 @@
   "pfm:recipes/furniture/oak_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -4225,6 +4645,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -4270,6 +4696,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-07-27 21:51:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -4378,6 +4810,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -4507,6 +4945,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -4555,9 +4999,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-27 21:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
@@ -4837,6 +5293,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
@@ -4945,6 +5407,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -4990,6 +5458,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-27 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-27 22:32:50 +0000"
     },
     "done": true
   },
