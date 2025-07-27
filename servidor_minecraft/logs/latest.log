@@ -1431,3 +1431,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 23:27:02.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=93, z=-3391} BlockPos{x=360, y=91, z=-3390}
 [27Jul2025 23:27:02.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=93, z=-3391} BlockPos{x=360, y=91, z=-3390}
 [27Jul2025 23:28:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[27Jul2025 23:45:05.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25619, l='ServerLevel[world]', x=350.56, y=95.00, z=-3543.24] died, message: 'Villager was slain by Zombie'

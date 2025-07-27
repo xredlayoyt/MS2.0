@@ -5569,11 +5569,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/jungle_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
@@ -5851,6 +5863,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
@@ -5959,6 +5977,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/jungle_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:24 +0000"
@@ -6042,6 +6066,12 @@
       "has_planks": "2025-07-27 22:58:28 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/jungle_raw_table_log": {
     "criteria": {
@@ -6283,6 +6313,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_cherry_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
@@ -6445,6 +6481,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_jungle_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6516,6 +6558,12 @@
       "has_planks": "2025-07-27 23:23:45 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/cherry_simple_bunk_ladder": {
     "criteria": {
@@ -6823,6 +6871,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
@@ -6838,6 +6892,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-27 23:42:57 +0000"
     },
     "done": true
   },
