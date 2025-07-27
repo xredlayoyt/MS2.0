@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-27 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -599,6 +611,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -686,6 +704,12 @@
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-07-27 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -1283,6 +1307,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
@@ -1418,6 +1448,12 @@
   "pfm:recipes/furniture/dark_oak_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -1583,9 +1619,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-07-27 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -1634,6 +1682,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -1853,6 +1907,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_chair": {
     "criteria": {
       "has_planks": "2025-07-27 22:30:19 +0000"
@@ -1907,6 +1967,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -1940,6 +2006,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-07-27 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -2471,6 +2543,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -2575,6 +2653,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
@@ -2620,6 +2704,18 @@
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -3073,6 +3169,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_trampoline": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
@@ -3188,6 +3290,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -3299,6 +3407,12 @@
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-07-27 21:37:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -3632,6 +3746,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-07-27 22:32:50 +0000"
@@ -3641,6 +3761,12 @@
   "pfm:recipes/furniture/empyreal_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -3797,6 +3923,12 @@
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -4040,6 +4172,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -4178,6 +4316,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
@@ -4289,6 +4433,12 @@
   "pfm:recipes/furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -4481,6 +4631,12 @@
   "pfm:recipes/furniture/birch_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -4759,6 +4915,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-27 21:33:19 +0000"
@@ -4843,6 +5005,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
@@ -4870,6 +5038,12 @@
   "pfm:recipes/furniture/redwood_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -4993,6 +5167,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -5029,6 +5209,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -5038,6 +5224,12 @@
   "pfm:recipes/furniture/birch_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
@@ -5110,6 +5302,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
     "criteria": {
       "has_red_tulip": "2025-07-27 21:44:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
   },
