@@ -1,55 +1,222 @@
-[28Jul2025 00:00:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire Hunter
-[28Jul2025 00:00:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:01:14.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:01:37.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=73, z=-3337} BlockPos{x=145, y=71, z=-3337}
-[28Jul2025 00:02:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:06:06.907] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
-[28Jul2025 00:06:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:06:23.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=469, y=78, z=-3343} BlockPos{x=468, y=76, z=-3343}
-[28Jul2025 00:07:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:08:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:13:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
-[28Jul2025 00:15:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 880.500000, 78.500000, -3360.500000]
-[28Jul2025 00:15:36.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:15:38.244] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
-[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
-[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
-[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
-[28Jul2025 00:15:38.256] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
-[28Jul2025 00:19:22.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire
-[28Jul2025 00:19:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:20:14.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:20:16.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire
-[28Jul2025 00:20:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:22:19.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:23:08.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was shot by Skeleton
-[28Jul2025 00:23:15.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:23:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:24:06.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 377.500000, 88.500000, -3437.500000]
-[28Jul2025 00:24:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
-[28Jul2025 00:25:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1025.500000, 67.500000, -3662.500000]
-[28Jul2025 00:28:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:31:29.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 00:43:04.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Enchanter]
-[28Jul2025 00:49:34.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Disconnected
-[28Jul2025 00:49:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
-[28Jul2025 00:49:34.164] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Jul2025 00:49:48.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.116.82.32:47437] logged in with entity id 66011 at (393.13968255124684, 88.0, -3429.3432946151775)
-[28Jul2025 00:49:48.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
-[28Jul2025 00:55:21.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Disconnected
-[28Jul2025 00:55:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
-[28Jul2025 01:01:49.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:52733] logged in with entity id 67879 at (376.50388257731504, 88.0, -3444.1361228678197)
-[28Jul2025 01:01:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
-[28Jul2025 01:02:19.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Timed out
-[28Jul2025 01:02:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
-[28Jul2025 01:02:55.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:44927] logged in with entity id 68040 at (376.50388257731504, 88.0, -3444.1361228678197)
-[28Jul2025 01:02:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
-[28Jul2025 01:09:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Zombie
-[28Jul2025 01:30:57.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Timed out
-[28Jul2025 01:30:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
-[28Jul2025 01:39:45.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:42203] logged in with entity id 73467 at (371.1472406017383, -5.0, -3553.300000011921)
-[28Jul2025 01:39:45.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
-[28Jul2025 01:40:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RakanCharming> esta muy alta la musica aqui hablare cuando acabe si o le bajen
-[28Jul2025 01:43:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
-[28Jul2025 01:49:00.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=384, y=89, z=-3430} BlockPos{x=385, y=88, z=-3431}
-[28Jul2025 01:53:51.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RakanCharming> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[28Jul2025 03:03:38.924] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28Jul2025 03:03:38.928] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[28Jul2025 03:03:40.191] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Jul2025 03:03:40.250] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MS2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28Jul2025 03:03:40.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 03:03:40.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 03:03:40.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 03:03:40.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MS2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 03:03:40.883] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[28Jul2025 03:03:43.360] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Jul2025 03:03:43.397] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[28Jul2025 03:03:43.399] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[28Jul2025 03:03:43.464] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Jul2025 03:03:43.532] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 03:03:43.671] [main/INFO] [Puzzles Lib/]: Loading 40 mods:
+	- accessories 1.0.0-beta46+1.20.1
+		|-- fabric_api_base 0.4.31+ef105b4977
+		|-- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+		|-- fabric_entity_events_v1 1.6.0+6274ab9d77
+		\-- fabric_object_builder_api_v1 11.1.3+2174fc8477
+	- alexscaves 1.1.5
+	- alexsmobs 1.22.9
+	- architectury 9.2.14
+	- artifacts 9.5.11
+		\-- expandability 9.0.4
+	- balm 7.3.31
+		\-- kuma_api 20.1.10
+	- biomesoplenty 19.0.0.96
+	- cfm 7.0.0-pre36
+	- chococraft 0.9.12
+	- citadel 2.6.1
+	- cloth_config 11.1.136
+	- cookingforblockheads 16.0.13
+	- curios 5.14.1+1.20.1
+	- dungeoncrawl 2.3.15
+	- dungeons_arise 2.1.58-1.20.x
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- explorations 1.20.1-1.6.1
+	- forge 47.3.7
+	- framework 0.7.15
+	- glitchcore 0.0.1.1
+	- jei 15.20.0.112
+	- minecraft 1.20.1
+	- mutantmonsters 8.0.7
+	- pfm 1.3
+	- puzzleslib 8.1.32
+		|-- mixinextras 0.4.1
+		\-- puzzlesaccessapi 20.1.1
+	- refurbished_furniture 1.0.12
+	- terrablender 3.0.1.10
+	- terralith 2.5.4
+	- travelersbackpack 9.1.39
+	- vampirism 1.10.13
+		\-- teamlapenlib 1.10.13
+	- xaerominimap 25.2.6
+	- xaeroworldmap 1.39.9
+[28Jul2025 03:03:43.677] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 03:03:43.692] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 86 options available, 0 override(s) found
+[28Jul2025 03:03:44.729] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[28Jul2025 03:03:44.730] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[28Jul2025 03:03:44.730] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found accessories-common.mixins.json:LevelRendererAccessor
+[28Jul2025 03:03:44.981] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[28Jul2025 03:03:45.124] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28Jul2025 03:03:49.618] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin::handler$zfb000$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[28Jul2025 03:03:50.589] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[28Jul2025 03:03:52.096] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[28Jul2025 03:03:52.665] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[28Jul2025 03:03:52.679] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Jul2025 03:03:52.682] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[28Jul2025 03:03:52.690] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[28Jul2025 03:03:52.694] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[28Jul2025 03:03:52.699] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[28Jul2025 03:03:52.701] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[28Jul2025 03:03:52.702] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[28Jul2025 03:03:52.703] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[28Jul2025 03:03:53.250] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[28Jul2025 03:03:53.316] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28Jul2025 03:03:53.316] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28Jul2025 03:03:53.375] [ForkJoinPool.commonPool-worker-2/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[28Jul2025 03:03:53.392] [ForkJoinPool.commonPool-worker-2/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] New update detected, showing update message!
+[28Jul2025 03:03:53.462] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[28Jul2025 03:03:58.786] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[28Jul2025 03:04:00.257] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[28Jul2025 03:04:00.258] [Thread-3/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[28Jul2025 03:04:00.259] [Thread-3/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[28Jul2025 03:04:00.423] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[28Jul2025 03:04:00.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[28Jul2025 03:04:00.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[28Jul2025 03:04:00.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[28Jul2025 03:04:00.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[28Jul2025 03:04:00.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[28Jul2025 03:04:00.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[28Jul2025 03:04:00.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[28Jul2025 03:04:00.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[28Jul2025 03:04:00.646] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[28Jul2025 03:04:00.669] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[28Jul2025 03:04:00.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[28Jul2025 03:04:00.713] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23162!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23162!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[28Jul2025 03:04:00.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[28Jul2025 03:04:00.747] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[28Jul2025 03:04:00.786] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[28Jul2025 03:04:00.787] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 4 for type OVERWORLD
+[28Jul2025 03:04:00.788] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
+[28Jul2025 03:04:00.811] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[28Jul2025 03:04:00.811] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[28Jul2025 03:04:00.815] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[28Jul2025 03:04:00.815] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[28Jul2025 03:04:00.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
+[28Jul2025 03:04:00.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[28Jul2025 03:04:00.868] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23162!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23162!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[28Jul2025 03:04:00.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[28Jul2025 03:04:00.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[28Jul2025 03:04:00.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[28Jul2025 03:04:00.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[28Jul2025 03:04:00.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Jul2025 03:04:00.934] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[28Jul2025 03:04:00.935] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
+[28Jul2025 03:04:01.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28Jul2025 03:04:04.304] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Jul2025 03:04:04.445] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+customskinloader (version 14.24 -> MISSING)
+Things may not work well.
+[28Jul2025 03:04:06.779] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/assets/.mcassetsroot' uses unexpected schema
+[28Jul2025 03:04:06.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MS2.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/data/.mcassetsroot' uses unexpected schema
+[28Jul2025 03:04:06.843] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:customskinloader
+[28Jul2025 03:04:09.885] [main/INFO] [PFM-DataGen/]: Starting PFM Data Generation
+[28Jul2025 03:04:13.469] [main/INFO] [PFM-DataGen/]: Data providers took: 2796 ms
+[28Jul2025 03:04:16.001] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[28Jul2025 03:04:17.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[28Jul2025 03:04:17.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[28Jul2025 03:04:17.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[28Jul2025 03:04:17.432] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[28Jul2025 03:04:17.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6809 advancements
+[28Jul2025 03:04:17.673] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[28Jul2025 03:04:17.678] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[28Jul2025 03:04:17.687] [main/INFO] [Dungeon Crawl/]: Loading data...
+[28Jul2025 03:04:17.935] [main/INFO] [Dungeon Crawl/]: Done.
+[28Jul2025 03:04:17.947] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[28Jul2025 03:04:17.952] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[28Jul2025 03:04:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28Jul2025 03:04:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Jul2025 03:04:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Jul2025 03:04:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Jul2025 03:04:20.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Jul2025 03:04:20.186] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Jul2025 03:04:20.286] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Jul2025 03:04:20.286] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Jul2025 03:04:20.287] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Jul2025 03:04:20.287] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Jul2025 03:04:20.319] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[28Jul2025 03:04:20.794] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
+[28Jul2025 03:04:20.796] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
+[28Jul2025 03:04:20.797] [Server thread/INFO] [Framework/]: Loading server configs...
+[28Jul2025 03:04:20.814] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[28Jul2025 03:04:21.536] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[28Jul2025 03:04:21.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Jul2025 03:04:22.110] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[28Jul2025 03:04:25.825] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Jul2025 03:04:28.227] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Jul2025 03:04:28.535] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Jul2025 03:04:28.871] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[28Jul2025 03:04:28.884] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[28Jul2025 03:04:28.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Jul2025 03:04:30.638] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Jul2025 03:04:32.703] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.731] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.734] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.737] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.739] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.743] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.789] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.805] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:32.894] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:33.386] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jul2025 03:04:33.886] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[28Jul2025 03:04:33.945] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Jul2025 03:04:34.386] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[28Jul2025 03:04:34.886] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[28Jul2025 03:04:35.123] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6238 ms
+[28Jul2025 03:04:35.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.818s)! For help, type "help"
+[28Jul2025 03:04:35.167] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Jul2025 03:04:35.172] [Server thread/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Paladin's Furniture 1.4.2 has released, for MinecraftForge, NeoForge and Fabric, on 1.16.5-1.21.4 adding new furniture, fixing many bugs and optimizing data and assets. Download it from: Modrinth
+[28Jul2025 03:04:41.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:44323] logged in with entity id 84 at (391.86361498316774, 93.0, -3432.485926864779)
+[28Jul2025 03:04:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
+[28Jul2025 03:04:43.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[28Jul2025 03:04:44.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.116.82.32:48159] logged in with entity id 85 at (386.0114427061604, 91.5, -3432.5186579489723)
+[28Jul2025 03:04:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[28Jul2025 03:07:44.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/248, l='ServerLevel[world]', x=366.65, y=88.23, z=-3529.36] died, message: 'Farmer was slain by Zombie'

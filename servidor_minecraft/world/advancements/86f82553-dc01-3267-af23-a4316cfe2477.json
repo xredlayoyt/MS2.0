@@ -1912,6 +1912,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-27 21:38:57 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
+      "minecraft:creeper": "2025-07-28 02:43:19 +0000",
       "minecraft:zombie": "2025-07-27 21:41:19 +0000"
     },
     "done": false
@@ -7894,6 +7895,1038 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-28 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-28 02:43:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-07-28 02:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2025-07-28 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_spruce_vampirism_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_spruce_vampirism_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_spruce_vampirism_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_spruce_vampirism_pink_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_pink_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-07-28 02:44:17 +0000"
     },
     "done": true
   },
