@@ -8241,3 +8241,43 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [28Jul2025 22:21:27.901] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
 [28Jul2025 22:21:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
 [28Jul2025 22:22:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 22:23:16.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Zombie, they gave up
+[28Jul2025 22:23:18.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[28Jul2025 22:23:19.286] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:23:36.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1019.500000, 75.500000, -3475.500000]
+[28Jul2025 22:24:09.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire
+[28Jul2025 22:24:11.742] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 3
+[28Jul2025 22:24:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 22:25:09.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:25:09.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:26:14.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire Hunter
+[28Jul2025 22:26:14.483] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-22.26.14.dat
+[28Jul2025 22:26:16.450] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:26:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1021.500000, 81.500000, -3560.500000]
+[28Jul2025 22:28:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire Hunter
+[28Jul2025 22:28:02.082] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-22.28.02.dat
+[28Jul2025 22:28:04.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:28:12.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire Hunter
+[28Jul2025 22:28:14.594] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 3
+[28Jul2025 22:28:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1011.500000, 85.500000, -3578.500000]
+[28Jul2025 22:28:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 996.500000, 85.500000, -3578.500000]
+[28Jul2025 22:29:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire Hunter
+[28Jul2025 22:29:20.979] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:29:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1018.500000, 83.500000, -3568.500000]
+[28Jul2025 22:30:09.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:30:09.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:30:57.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was shot by Vampire Hunter, they gave up
+[28Jul2025 22:30:59.236] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:31:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 995.500000, 85.500000, -3577.500000]
+[28Jul2025 22:31:44.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was shot by Vampire Hunter, they gave up
+[28Jul2025 22:31:46.038] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 4
+[28Jul2025 22:31:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 996.500000, 85.500000, -3582.500000]
+[28Jul2025 22:32:05.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire
+[28Jul2025 22:32:07.291] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 3
+[28Jul2025 22:32:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 921.500000, 75.500000, -3482.500000]
+[28Jul2025 22:32:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 22:32:31.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[28Jul2025 22:32:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:33:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has completed the challenge [Regicide]
+[28Jul2025 22:33:28.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/71814, l='ServerLevel[world]', x=921.39, y=76.00, z=-3489.39] died: Vampire Baron Level 1 was slain by mafe17_
+[28Jul2025 22:33:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Cover Me with Diamonds]
