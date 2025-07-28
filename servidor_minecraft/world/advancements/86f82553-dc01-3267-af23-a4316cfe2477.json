@@ -9592,6 +9592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-28 21:38:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10099,6 +10105,12 @@
   "pfm:recipes/furniture/dark_wood_chair_classic": {
     "criteria": {
       "dark_wood_chair_classic": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-28 21:38:44 +0000"
     },
     "done": true
   },

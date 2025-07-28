@@ -8094,3 +8094,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 21:30:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
 [28Jul2025 21:30:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
 [28Jul2025 21:31:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:33:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 880.500000, 72.500000, -3868.500000]
+[28Jul2025 21:34:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[28Jul2025 21:35:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jul2025 21:35:06.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[28Jul2025 21:35:09.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 21:35:09.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 21:35:42.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 601.500000, 93.500000, -3626.500000]
+[28Jul2025 21:35:54.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 0.500000, 77.500000, -3355.500000]
+[28Jul2025 21:36:56.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=91, z=-3318} BlockPos{x=370, y=91, z=-3319}
+[28Jul2025 21:36:56.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=91, z=-3318} BlockPos{x=370, y=91, z=-3319}
+[28Jul2025 21:36:59.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=88, z=-3315} BlockPos{x=367, y=88, z=-3314}
+[28Jul2025 21:37:09.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=90, z=-3317} BlockPos{x=353, y=90, z=-3316}
+[28Jul2025 21:37:14.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 21:37:15.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=351, y=92, z=-3324} BlockPos{x=352, y=91, z=-3324}
+[28Jul2025 21:37:15.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=351, y=92, z=-3324} BlockPos{x=352, y=91, z=-3324}
+[28Jul2025 21:37:30.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=94, z=-3310} BlockPos{x=344, y=93, z=-3309}
+[28Jul2025 21:37:30.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=94, z=-3310} BlockPos{x=344, y=93, z=-3309}
+[28Jul2025 21:37:30.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=342, y=93, z=-3310} BlockPos{x=344, y=93, z=-3309}
+[28Jul2025 21:37:31.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=95, z=-3307} BlockPos{x=341, y=93, z=-3306}
+[28Jul2025 21:37:31.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=95, z=-3307} BlockPos{x=341, y=93, z=-3306}
+[28Jul2025 21:37:32.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=341, y=95, z=-3307} BlockPos{x=341, y=93, z=-3306}
+[28Jul2025 21:37:57.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[28Jul2025 21:38:03.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=92, z=-3331} BlockPos{x=301, y=90, z=-3331}
+[28Jul2025 21:38:03.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=92, z=-3331} BlockPos{x=301, y=90, z=-3331}
+[28Jul2025 21:38:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[28Jul2025 21:39:46.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:40:09.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 21:40:09.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -8631,6 +8631,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-28 21:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
@@ -8995,6 +9001,12 @@
   "pfm:recipes/furniture/acacia_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-28 21:37:57 +0000"
     },
     "done": true
   },
