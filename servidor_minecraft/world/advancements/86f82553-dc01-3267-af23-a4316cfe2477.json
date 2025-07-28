@@ -9006,9 +9006,10 @@
   },
   "vampirism:hunter/stake": {
     "criteria": {
-      "main": "2025-07-28 03:28:04 +0000"
+      "main": "2025-07-28 03:28:04 +0000",
+      "flower": "2025-07-28 22:09:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -9454,6 +9455,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
@@ -9481,6 +9488,12 @@
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -9610,6 +9623,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 20:07:17 +0000"
@@ -9715,6 +9734,24 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -9916,6 +9953,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -9931,6 +9974,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -10015,6 +10064,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -10126,6 +10181,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -10141,6 +10202,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -10258,6 +10325,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_tile_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
@@ -10291,6 +10364,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -10702,9 +10781,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -10753,6 +10844,12 @@
   "pfm:recipes/furniture/light_wood_table_natural": {
     "criteria": {
       "light_wood_table_natural": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },
@@ -11023,6 +11120,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2025-07-28 22:16:40 +0000"
     },
     "done": true
   },

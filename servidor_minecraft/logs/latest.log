@@ -466,3 +466,18 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [28Jul2025 21:57:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
 [28Jul2025 21:57:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [The Parrots and the Bats]
 [28Jul2025 21:58:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:05:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[28Jul2025 22:07:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[28Jul2025 22:07:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 977.500000, 85.500000, -3550.500000]
+[28Jul2025 22:09:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has completed the challenge [Through the Heart]
+[28Jul2025 22:12:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:13:22.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 996.500000, 91.500000, -3533.500000]
+[28Jul2025 22:13:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:14:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 22:15:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 22:17:38.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[28Jul2025 22:19:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:21:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire Hunter
+[28Jul2025 22:21:25.833] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-22.21.25.dat
+[28Jul2025 22:21:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:22:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]

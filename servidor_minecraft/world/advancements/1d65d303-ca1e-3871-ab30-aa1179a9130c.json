@@ -8841,6 +8841,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-07-28 22:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-28 21:27:11 +0000"
@@ -9303,6 +9309,12 @@
       "has_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-28 22:14:56 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/fox_smithing": {
     "criteria": {
