@@ -42,7 +42,9 @@
       "minecraft:sunflower_plains": "2025-07-27 22:04:37 +0000",
       "minecraft:birch_forest": "2025-07-28 00:23:10 +0000",
       "minecraft:badlands": "2025-07-27 21:55:11 +0000",
+      "minecraft:savanna_plateau": "2025-07-28 15:39:01 +0000",
       "minecraft:beach": "2025-07-27 21:25:00 +0000",
+      "minecraft:stony_peaks": "2025-07-28 15:39:04 +0000",
       "minecraft:sparse_jungle": "2025-07-27 21:47:28 +0000",
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:58 +0000",
       "minecraft:river": "2025-07-27 21:26:13 +0000",
@@ -56,6 +58,7 @@
       "minecraft:old_growth_birch_forest": "2025-07-27 21:31:28 +0000",
       "minecraft:deep_dark": "2025-07-27 23:10:25 +0000",
       "minecraft:meadow": "2025-07-27 23:16:19 +0000",
+      "minecraft:savanna": "2025-07-28 15:40:45 +0000",
       "minecraft:plains": "2025-07-27 21:53:27 +0000"
     },
     "done": false
@@ -8990,9 +8993,237 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stone_chair": {
+    "criteria": {
+      "stone_chair": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_basic": {
+    "criteria": {
+      "stone_coffee_table_basic": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-28 15:41:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_dinner": {
+    "criteria": {
+      "stone_table_dinner": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_modern_dinner": {
+    "criteria": {
+      "stone_table_modern_dinner": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_modern": {
+    "criteria": {
+      "stone_chair_modern": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-07-28 15:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_nightstand": {
+    "criteria": {
+      "stone_classic_nightstand": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_classic": {
+    "criteria": {
+      "stone_coffee_table_classic": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_natural": {
+    "criteria": {
+      "stone_table_natural": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_classic": {
+    "criteria": {
+      "stone_chair_classic": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_classic": {
+    "criteria": {
+      "stone_table_classic": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_basic": {
+    "criteria": {
+      "stone_table_basic": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_dinner": {
+    "criteria": {
+      "stone_chair_dinner": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_modern": {
+    "criteria": {
+      "stone_coffee_table_modern": "2025-07-28 15:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-28 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 15:44:42 +0000"
     },
     "done": true
   },

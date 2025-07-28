@@ -1765,3 +1765,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 15:24:44.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/161, l='ServerLevel[world]', x=365.80, y=89.00, z=-3501.46] died, message: 'Villager was slain by Zombie'
 [28Jul2025 15:24:45.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/162, l='ServerLevel[world]', x=364.79, y=89.00, z=-3500.62] died, message: 'Villager was slain by Zombie'
 [28Jul2025 15:27:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 15:36:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[28Jul2025 15:37:01.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 15:37:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[28Jul2025 15:37:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 15:38:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[28Jul2025 15:41:03.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Alex's Caves]
+[28Jul2025 15:41:45.932] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean_ruin_warm took 42 ms
+[28Jul2025 15:41:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -511.500000, 37.045044, -4351.500000]
+[28Jul2025 15:41:55.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
+[28Jul2025 15:42:58.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 15:43:03.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[28Jul2025 15:44:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 403.500000, -11.500000, -3434.500000]
+[28Jul2025 15:44:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[28Jul2025 15:47:07.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[28Jul2025 15:47:22.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
