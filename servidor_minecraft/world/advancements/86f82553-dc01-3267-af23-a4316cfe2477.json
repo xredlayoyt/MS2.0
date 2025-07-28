@@ -9293,6 +9293,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-07-28 18:50:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
