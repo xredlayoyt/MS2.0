@@ -361,3 +361,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 20:56:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [28Jul2025 20:59:31.994] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!
 [28Jul2025 21:01:38.590] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!
+[28Jul2025 21:02:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:06:19.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:06:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Spider, they gave up
+[28Jul2025 21:06:30.144] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-21.06.30.dat
+[28Jul2025 21:06:37.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:09:51.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Deceived Hopes]
+[28Jul2025 21:10:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
+[28Jul2025 21:10:40.940] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-21.10.40.dat
+[28Jul2025 21:11:29.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/45738, l='ServerLevel[world]', x=399.45, y=101.17, z=-3555.92] died, message: 'Butcher was slain by Zombie'

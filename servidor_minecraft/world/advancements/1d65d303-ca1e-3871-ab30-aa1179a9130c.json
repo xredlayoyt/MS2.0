@@ -1506,6 +1506,7 @@
       "minecraft:spider": "2025-07-27 21:37:56 +0000",
       "minecraft:creeper": "2025-07-28 02:57:52 +0000",
       "minecraft:enderman": "2025-07-28 03:22:50 +0000",
+      "minecraft:stray": "2025-07-28 21:07:05 +0000",
       "minecraft:zombie": "2025-07-27 21:41:18 +0000"
     },
     "done": false
@@ -8598,6 +8599,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-28 21:03:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_log": "2025-07-28 19:51:18 +0000"
@@ -8673,6 +8680,12 @@
   "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-28 21:03:05 +0000"
     },
     "done": true
   },
@@ -9040,6 +9053,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-28 21:03:05 +0000"
     },
     "done": true
   },
