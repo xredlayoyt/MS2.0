@@ -28,6 +28,7 @@
       "woodland": "2025-07-28 20:21:43 +0000",
       "shrubland": "2025-07-27 21:40:57 +0000",
       "rocky_shrubland": "2025-07-27 21:26:40 +0000",
+      "fungal_jungle": "2025-07-28 22:59:55 +0000",
       "field": "2025-07-27 21:26:16 +0000",
       "orchard": "2025-07-27 21:37:36 +0000",
       "overgrown_greens": "2025-07-27 21:24:42 +0000",
@@ -10011,6 +10012,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-28 22:55:56 +0000"
     },
     "done": true
   },
