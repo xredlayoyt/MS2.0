@@ -1925,6 +1925,7 @@
       "minecraft:skeleton": "2025-07-27 21:38:57 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
       "minecraft:creeper": "2025-07-28 02:43:19 +0000",
+      "minecraft:witch": "2025-07-28 21:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 21:06:34 +0000",
       "minecraft:cave_spider": "2025-07-28 21:02:40 +0000",
       "minecraft:stray": "2025-07-28 21:02:31 +0000",
@@ -9363,6 +9364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-28 21:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -9489,6 +9496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -9552,6 +9565,12 @@
   "pfm:recipes/furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
     },
     "done": true
   },
@@ -9645,6 +9664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -9654,6 +9679,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-07-28 19:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-28 21:24:27 +0000"
     },
     "done": true
   },
@@ -9837,6 +9868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -9903,6 +9940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
@@ -9918,6 +9961,12 @@
   "pfm:recipes/furniture/light_wood_table_basic": {
     "criteria": {
       "light_wood_table_basic": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
     },
     "done": true
   },
@@ -10005,6 +10054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -10086,6 +10141,12 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
     },
     "done": true
   },
@@ -10437,6 +10498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_chair": {
     "criteria": {
       "light_wood_chair": "2025-07-28 21:04:28 +0000"
@@ -10482,6 +10549,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_classic_nightstand": {
     "criteria": {
       "dark_stone_vampirism_classic_nightstand": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
     },
     "done": true
   },
@@ -10599,6 +10672,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -10662,6 +10753,12 @@
   "pfm:recipes/furniture/stripped_dark_spruce_vampirism_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
     },
     "done": true
   },
@@ -10752,6 +10849,12 @@
   "cfm:recipes/decorations/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
     },
     "done": true
   },
