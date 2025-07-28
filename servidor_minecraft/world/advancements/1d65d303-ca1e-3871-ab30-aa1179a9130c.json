@@ -1568,6 +1568,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-07-28 23:54:14 +0000",
       "baked_potato": "2025-07-28 19:23:47 +0000",
       "beef": "2025-07-28 20:52:09 +0000",
       "porkchop": "2025-07-27 21:38:28 +0000",
@@ -8668,6 +8669,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-28 23:54:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/fir_biomesoplenty_pink_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -9184,6 +9191,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 23:54:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
@@ -9307,6 +9320,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-28 21:03:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-28 23:54:12 +0000"
     },
     "done": true
   },

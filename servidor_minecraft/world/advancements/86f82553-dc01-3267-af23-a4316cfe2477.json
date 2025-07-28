@@ -9385,6 +9385,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-28 23:43:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"

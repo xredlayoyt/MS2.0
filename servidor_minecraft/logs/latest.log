@@ -847,3 +847,14 @@ java.lang.Throwable: null
 [28Jul2025 23:43:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has reached the goal [Big Boy]
 [28Jul2025 23:43:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -4153.500000, 67.500000, -2380.500000]
 [28Jul2025 23:44:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 23:47:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 23:51:36.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Vampire, they gave up
+[28Jul2025 23:51:36.967] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-23.51.36.dat
+[28Jul2025 23:51:43.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 23:51:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -4162.500000, 65.500000, -2367.500000]
+[28Jul2025 23:51:49.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 23:51:53.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 23:54:46.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Disconnected
+[28Jul2025 23:54:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[28Jul2025 23:55:00.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.30.163.207:48263] logged in with entity id 103823 at (-4163.5124543244665, 71.0, -2369.699999988079)
+[28Jul2025 23:55:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
