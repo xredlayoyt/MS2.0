@@ -8281,3 +8281,20 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [28Jul2025 22:33:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has completed the challenge [Regicide]
 [28Jul2025 22:33:28.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/71814, l='ServerLevel[world]', x=921.39, y=76.00, z=-3489.39] died: Vampire Baron Level 1 was slain by mafe17_
 [28Jul2025 22:33:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Cover Me with Diamonds]
+[28Jul2025 22:34:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Bat Mode]
+[28Jul2025 22:34:59.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/73251, l='ServerLevel[world]', x=982.31, y=75.00, z=-3481.02] died: Vampire Baron Level 1 was slain by Vampire
+[28Jul2025 22:35:05.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has completed the challenge [Regicide]
+[28Jul2025 22:35:05.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/73148, l='ServerLevel[world]', x=893.59, y=90.92, z=-3572.53] died: Vampire Baron Level 2 was slain by RakanCharming
+[28Jul2025 22:35:09.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:35:09.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:35:22.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[28Jul2025 22:35:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:37:22.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/73646, l='ServerLevel[world]', x=963.20, y=78.00, z=-3660.66] died: Vampire Baron Level 1 was slain by RakanCharming
+[28Jul2025 22:38:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 992.500000, 97.500000, -3565.500000]
+[28Jul2025 22:38:57.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:39:06.952] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 4
+[28Jul2025 22:39:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 388.500000, 98.500000, -3434.500000]
+[28Jul2025 22:39:33.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[28Jul2025 22:39:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:40:09.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:40:09.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

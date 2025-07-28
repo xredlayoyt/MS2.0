@@ -3159,6 +3159,7 @@
       "apple": "2025-07-27 21:43:59 +0000",
       "mutton": "2025-07-28 00:01:34 +0000",
       "bread": "2025-07-27 23:09:54 +0000",
+      "golden_apple": "2025-07-28 22:30:53 +0000",
       "carrot": "2025-07-28 19:47:32 +0000"
     },
     "done": false
@@ -9677,6 +9678,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
@@ -9776,6 +9783,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_table_classic": {
     "criteria": {
       "dark_stone_vampirism_table_classic": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-07-28 22:35:05 +0000"
     },
     "done": true
   },
@@ -10109,6 +10122,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-28 21:42:34 +0000"
@@ -10130,6 +10149,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
     },
     "done": true
   },
@@ -10265,6 +10290,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-28 21:38:44 +0000"
@@ -10391,6 +10422,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/basic_bathtub": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
@@ -10436,6 +10473,12 @@
   "pfm:recipes/furniture/dark_wood_chair_modern": {
     "criteria": {
       "dark_wood_chair_modern": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 22:32:44 +0000"
     },
     "done": true
   },
@@ -10583,6 +10626,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -10655,6 +10704,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_dark_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -10709,9 +10764,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 22:32:44 +0000"
     },
     "done": true
   },
@@ -10805,6 +10872,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -10820,6 +10893,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-28 19:39:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 22:32:44 +0000"
     },
     "done": true
   },
@@ -10883,6 +10962,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -10892,6 +10977,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 22:32:44 +0000"
     },
     "done": true
   },
