@@ -9999,6 +9999,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-07-28 20:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"

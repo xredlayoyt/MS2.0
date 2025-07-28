@@ -8020,3 +8020,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 20:30:09.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 20:30:09.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jul2025 20:30:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Vampire Diaries]
+[28Jul2025 20:32:57.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Zombie, they gave up
+[28Jul2025 20:33:00.258] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 20:33:06.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:35:09.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 20:35:09.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 20:36:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -669.500000, 105.500000, -3434.500000]
+[28Jul2025 20:36:59.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 395.500000, 99.500000, -3435.500000]
+[28Jul2025 20:37:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:37:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Made mafe17_ a server operator]
+[28Jul2025 20:40:09.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 20:40:09.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

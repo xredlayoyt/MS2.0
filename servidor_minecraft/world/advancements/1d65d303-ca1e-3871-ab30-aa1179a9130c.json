@@ -8492,6 +8492,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-28 20:30:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
@@ -8766,6 +8772,12 @@
   "pfm:recipes/furniture/acacia_table_dinner": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-07-28 20:33:30 +0000"
     },
     "done": true
   },
