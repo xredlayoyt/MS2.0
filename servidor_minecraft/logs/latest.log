@@ -45,3 +45,5 @@
 [28Jul2025 01:02:55.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:44927] logged in with entity id 68040 at (376.50388257731504, 88.0, -3444.1361228678197)
 [28Jul2025 01:02:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
 [28Jul2025 01:09:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Zombie
+[28Jul2025 01:30:57.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Timed out
+[28Jul2025 01:30:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
