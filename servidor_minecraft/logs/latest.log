@@ -350,3 +350,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 20:36:59.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 395.500000, 99.500000, -3435.500000]
 [28Jul2025 20:37:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [28Jul2025 20:37:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Made mafe17_ a server operator]
+[28Jul2025 20:46:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Spider, they gave up
+[28Jul2025 20:46:43.913] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-20.46.43.dat
+[28Jul2025 20:47:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -977.500000, 29.500000, -2962.500000]
+[28Jul2025 20:47:51.212] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=470, y=97, z=-3443}
+[28Jul2025 20:48:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:49:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
