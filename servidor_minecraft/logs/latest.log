@@ -370,3 +370,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 21:10:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
 [28Jul2025 21:10:40.940] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-21.10.40.dat
 [28Jul2025 21:11:29.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/45738, l='ServerLevel[world]', x=399.45, y=101.17, z=-3555.92] died, message: 'Butcher was slain by Zombie'
+[28Jul2025 21:13:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -911.500000, 2.500000, -3008.500000]
+[28Jul2025 21:15:59.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
+[28Jul2025 21:15:59.039] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-21.15.59.dat
+[28Jul2025 21:16:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:20:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 21:21:32.986] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-937, y=-6, z=-2945}
