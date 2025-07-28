@@ -823,3 +823,27 @@ java.lang.Throwable: null
 [28Jul2025 23:30:33.862] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
 [28Jul2025 23:30:33.862] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
 [28Jul2025 23:30:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 23:35:36.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Zombie, they gave up
+[28Jul2025 23:35:36.636] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-23.35.36.dat
+[28Jul2025 23:35:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3704.500000, 70.500000, -2376.500000]
+[28Jul2025 23:38:14.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[28Jul2025 23:38:24.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3941.500000, 105.500000, -2384.500000]
+[28Jul2025 23:38:56.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4090.500000, 110.500000, -2425.500000]
+[28Jul2025 23:39:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4154.500000, 73.500000, -2360.500000]
+[28Jul2025 23:39:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 23:39:20.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/98330, l='ServerLevel[world]', x=-4202.01, y=68.00, z=-2367.59] died, message: 'Angry Villager was slain by Vampire'
+[28Jul2025 23:39:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
+[28Jul2025 23:39:33.586] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-23.39.33.dat
+[28Jul2025 23:39:34.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/98329, l='ServerLevel[world]', x=-4142.52, y=67.00, z=-2322.50] died, message: 'Angry Villager was slain by RakanCharming'
+[28Jul2025 23:39:34.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/98328, l='ServerLevel[world]', x=-4142.54, y=67.00, z=-2323.82] died, message: 'Angry Villager was slain by RakanCharming'
+[28Jul2025 23:39:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[28Jul2025 23:40:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Baby Skeleton, they gave up
+[28Jul2025 23:40:27.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -4159.500000, 70.500000, -2339.500000]
+[28Jul2025 23:40:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire
+[28Jul2025 23:41:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4156.500000, 65.500000, -2380.500000]
+[28Jul2025 23:42:26.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Baby Skeleton, they gave up
+[28Jul2025 23:42:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -4155.500000, 67.500000, -2380.500000]
+[28Jul2025 23:43:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Baby Skeleton, they gave up
+[28Jul2025 23:43:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has reached the goal [Big Boy]
+[28Jul2025 23:43:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -4153.500000, 67.500000, -2380.500000]
+[28Jul2025 23:44:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
