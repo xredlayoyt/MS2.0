@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -113,9 +131,21 @@
     },
     "done": true
   },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -161,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-27 22:06:31 +0000"
@@ -185,11 +221,23 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
@@ -200,6 +248,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -226,6 +280,12 @@
       "has_stick": "2025-07-27 21:32:07 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/cherry_table_modern_dinner": {
     "criteria": {
@@ -521,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -719,6 +785,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-07-27 21:31:28 +0000"
@@ -800,6 +872,12 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -896,6 +974,12 @@
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_bread": "2025-07-27 21:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -1097,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-27 23:58:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
@@ -1112,6 +1202,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_birch_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -1190,6 +1286,12 @@
   "vampirism:recipes/decorations/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -1487,6 +1589,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-28 00:11:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-07-27 21:44:40 +0000"
@@ -1538,6 +1646,12 @@
   "pfm:recipes/furniture/birch_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -1637,6 +1751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-27 23:24:33 +0000"
@@ -1721,6 +1841,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/empyreal_biomesoplenty_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
@@ -1744,6 +1876,12 @@
       "has_bed": "2025-07-27 21:42:04 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
@@ -2015,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-27 22:32:50 +0000"
@@ -2093,6 +2237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
@@ -2102,6 +2252,12 @@
   "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -2153,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
@@ -2180,6 +2342,12 @@
   "cfm:recipes/decorations/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -2222,6 +2390,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-07-27 21:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -2447,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -2591,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_table_log": {
     "criteria": {
       "has_log": "2025-07-27 22:30:19 +0000"
@@ -2639,9 +2825,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-27 23:58:22 +0000"
     },
     "done": true
   },
@@ -2705,9 +2903,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_garlic": "2025-07-27 23:58:34 +0000"
     },
     "done": true
   },
@@ -2729,6 +2939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-28 00:06:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -2744,6 +2960,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -2865,9 +3087,16 @@
     "criteria": {
       "porkchop": "2025-07-27 21:38:28 +0000",
       "apple": "2025-07-27 21:42:39 +0000",
-      "bread": "2025-07-27 21:44:47 +0000"
+      "bread": "2025-07-27 21:44:47 +0000",
+      "cooked_chicken": "2025-07-28 00:04:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -2929,6 +3158,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-27 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_birch_planks": "2025-07-27 21:32:04 +0000"
@@ -2964,6 +3205,12 @@
       "has_gate": "2025-07-27 23:13:59 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
@@ -3079,9 +3326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -3100,6 +3359,12 @@
   "pfm:recipes/furniture/palm_biomesoplenty_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-27 23:58:22 +0000"
     },
     "done": true
   },
@@ -3391,6 +3656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-07-27 22:10:02 +0000"
@@ -3469,9 +3740,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-27 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -3490,6 +3785,12 @@
   "pfm:recipes/furniture/cherry_chair_modern": {
     "criteria": {
       "has_planks": "2025-07-27 22:32:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -3741,6 +4042,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-27 23:42:52 +0000"
@@ -3843,6 +4150,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-27 22:30:19 +0000"
@@ -3942,6 +4255,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -4143,6 +4462,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/vampire/candle_stick": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
@@ -4239,6 +4564,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-27 22:09:56 +0000"
@@ -4260,6 +4591,12 @@
   "pfm:recipes/furniture/stripped_cherry_table_classic": {
     "criteria": {
       "has_planks": "2025-07-27 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
     },
     "done": true
   },
@@ -4338,6 +4675,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -4503,6 +4846,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jacaranda_biomesoplenty_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
@@ -4533,6 +4888,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-07-28 00:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -4542,6 +4903,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-07-27 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
     },
     "done": true
   },
@@ -4692,6 +5059,12 @@
   "pfm:recipes/furniture/birch_chair_modern": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-07-28 00:12:03 +0000"
     },
     "done": true
   },
@@ -4935,6 +5308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:44:11 +0000"
@@ -5031,6 +5410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-28 00:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 22:06:33 +0000"
@@ -5076,6 +5461,12 @@
   "pfm:recipes/furniture/birch_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-28 00:12:03 +0000"
     },
     "done": true
   },
@@ -5318,6 +5709,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-07-27 21:51:01 +0000"
@@ -5345,6 +5742,12 @@
   "pfm:recipes/furniture/stone_table_basic": {
     "criteria": {
       "stone_table_basic": "2025-07-27 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
     },
     "done": true
   },
@@ -5426,6 +5829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
@@ -5435,6 +5844,18 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -5495,6 +5916,18 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-07-28 00:04:29 +0000"
     },
     "done": true
   },
@@ -5624,9 +6057,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-27 22:13:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/general/injection_1": {
+    "criteria": {
+      "has_injection": "2025-07-28 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/general/injection_2": {
+    "criteria": {
+      "has_injection": "2025-07-28 00:10:43 +0000"
     },
     "done": true
   },
@@ -5816,6 +6267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
     "criteria": {
       "has_red_tulip": "2025-07-27 21:44:19 +0000"
@@ -5966,6 +6423,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-28 00:12:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -5975,6 +6438,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-07-27 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 00:10:13 +0000"
     },
     "done": true
   },
@@ -6038,6 +6507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dead_biomesoplenty_green_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-27 21:42:04 +0000"
@@ -6053,6 +6528,12 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-07-27 22:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:10:23 +0000"
     },
     "done": true
   },
@@ -6106,6 +6587,7 @@
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:53 +0000",
+      "minecraft:flower_forest": "2025-07-27 23:57:17 +0000",
       "minecraft:plains": "2025-07-27 21:53:32 +0000"
     },
     "done": false
@@ -6194,6 +6676,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-07-27 21:32:04 +0000"
@@ -6229,6 +6717,12 @@
       "has_cobblestone": "2025-07-27 21:32:30 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2025-07-28 00:12:18 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/warped_gray_simple_bed": {
     "criteria": {
@@ -6317,6 +6811,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-27 23:54:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:49 +0000"
     },
     "done": true
   },

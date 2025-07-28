@@ -8286,3 +8286,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Jul2025 23:54:26.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 23:54:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 23:55:47.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Zombie Villager
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-316 | 27 | -3596).
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 6(0) Rooms
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 5(0) Rooms
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27Jul2025 23:56:33.151] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 5(0) Rooms
+[27Jul2025 23:57:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[27Jul2025 23:57:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by Vampire Hunter
+[27Jul2025 23:57:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[27Jul2025 23:59:26.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 23:59:26.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:00:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire Hunter
+[28Jul2025 00:00:30.460] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:vampire 1
+[28Jul2025 00:00:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:01:14.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:01:37.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=73, z=-3337} BlockPos{x=145, y=71, z=-3337}
+[28Jul2025 00:02:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:04:26.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:04:26.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:06:06.907] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
+[28Jul2025 00:06:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:06:23.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=469, y=78, z=-3343} BlockPos{x=468, y=76, z=-3343}
+[28Jul2025 00:07:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:08:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 00:09:26.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:09:26.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:12:18.443] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:hunter 1
+[28Jul2025 00:13:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
+[28Jul2025 00:13:15.119] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:hunter 1
+[28Jul2025 00:14:26.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 00:14:26.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 00:15:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 880.500000, 78.500000, -3360.500000]
+[28Jul2025 00:15:36.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 00:15:38.244] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[28Jul2025 00:15:38.245] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[28Jul2025 00:15:38.256] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}

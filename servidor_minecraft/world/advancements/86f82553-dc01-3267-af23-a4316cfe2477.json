@@ -50,6 +50,7 @@
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:54 +0000",
+      "minecraft:flower_forest": "2025-07-27 23:56:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-27 21:31:28 +0000",
       "minecraft:deep_dark": "2025-07-27 23:10:25 +0000",
       "minecraft:meadow": "2025-07-27 23:16:19 +0000",
@@ -3135,6 +3136,7 @@
     "criteria": {
       "cooked_beef": "2025-07-27 22:13:06 +0000",
       "apple": "2025-07-27 21:43:59 +0000",
+      "mutton": "2025-07-28 00:01:34 +0000",
       "bread": "2025-07-27 23:09:54 +0000"
     },
     "done": false
@@ -5581,6 +5583,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
       "main": "2025-07-27 23:42:57 +0000"
@@ -5593,9 +5601,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -5653,15 +5685,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_table_basic": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -5773,6 +5829,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
@@ -5788,6 +5850,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -5821,6 +5889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -5830,6 +5904,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
     },
     "done": true
   },
@@ -5954,6 +6034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -5978,6 +6064,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_table_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -5996,6 +6088,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_chair": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6005,6 +6103,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6023,6 +6127,12 @@
   "pfm:recipes/furniture/stripped_cherry_table_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6050,9 +6160,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-07-27 23:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
     },
     "done": true
   },
@@ -6128,6 +6274,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-27 23:57:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-07-27 23:57:05 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_chair_classic": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
@@ -6137,6 +6295,18 @@
   "pfm:recipes/furniture/stripped_cherry_table_basic": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6152,9 +6322,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_table_log": {
     "criteria": {
       "has_log": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-27 23:56:00 +0000"
     },
     "done": true
   },
@@ -6182,9 +6370,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-28 00:07:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-27 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
     },
     "done": true
   },
@@ -6230,6 +6430,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-07-27 23:57:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
@@ -6260,6 +6484,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
@@ -6272,6 +6514,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_table_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
@@ -6281,6 +6529,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6305,6 +6559,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
     },
     "done": true
   },
@@ -6345,6 +6605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
@@ -6363,6 +6629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
@@ -6378,6 +6650,12 @@
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_log": "2025-07-27 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6411,9 +6689,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6465,6 +6761,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-27 23:57:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
@@ -6483,9 +6785,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_table_classic": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
     },
     "done": true
   },
@@ -6531,9 +6845,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
     },
     "done": true
   },
@@ -6543,9 +6875,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_chair": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-07-27 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
     },
     "done": true
   },
@@ -6558,6 +6908,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6585,6 +6941,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-27 23:32:10 +0000"
@@ -6594,6 +6956,18 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-07-27 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-27 23:57:28 +0000"
     },
     "done": true
   },
@@ -6624,6 +6998,12 @@
   "pfm:recipes/furniture/stripped_cherry_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
     },
     "done": true
   },
@@ -6681,9 +7061,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2025-07-27 23:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-28 00:07:05 +0000"
     },
     "done": true
   },
@@ -6696,6 +7100,12 @@
   "pfm:recipes/furniture/cherry_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:56:00 +0000"
     },
     "done": true
   },
@@ -6747,6 +7157,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-07-27 22:58:24 +0000"
@@ -6756,6 +7172,12 @@
   "pfm:recipes/furniture/cherry_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-07-27 23:23:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
     },
     "done": true
   },
@@ -6783,9 +7205,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-07-27 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 23:58:09 +0000"
     },
     "done": true
   },
@@ -6801,9 +7241,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-07-27 23:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6843,6 +7301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2025-07-27 22:58:28 +0000"
@@ -6852,6 +7316,12 @@
   "pfm:recipes/furniture/stripped_cherry_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-27 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
     },
     "done": true
   },
@@ -6891,6 +7361,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-27 22:54:47 +0000"
@@ -6903,9 +7385,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-07-27 23:42:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6915,15 +7409,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-27 23:56:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-07-27 23:23:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-28 00:13:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-27 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
@@ -6936,6 +7460,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
     },
     "done": true
   },
@@ -6954,6 +7484,18 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-27 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-27 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-07-27 23:58:52 +0000"
     },
     "done": true
   },
