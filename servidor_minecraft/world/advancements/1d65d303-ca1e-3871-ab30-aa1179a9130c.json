@@ -25,12 +25,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-28 20:21:55 +0000",
       "rocky_shrubland": "2025-07-27 21:28:45 +0000",
+      "old_growth_woodland": "2025-07-28 20:21:56 +0000",
       "orchard": "2025-07-27 21:38:01 +0000",
       "overgrown_greens": "2025-07-27 21:40:01 +0000",
       "lush_desert": "2025-07-27 21:56:29 +0000",
+      "volcano": "2025-07-28 20:22:31 +0000",
+      "rocky_rainforest": "2025-07-28 20:25:42 +0000",
+      "volcanic_plains": "2025-07-28 20:25:11 +0000",
       "pumpkin_patch": "2025-07-27 21:37:00 +0000",
-      "grassland": "2025-07-27 21:40:18 +0000"
+      "grassland": "2025-07-27 21:40:18 +0000",
+      "glowing_grotto": "2025-07-28 20:28:17 +0000",
+      "rainforest": "2025-07-28 20:22:30 +0000"
     },
     "done": false
   },
@@ -1567,6 +1574,7 @@
       "minecraft:sunflower_plains": "2025-07-27 22:04:38 +0000",
       "minecraft:birch_forest": "2025-07-28 00:22:54 +0000",
       "minecraft:badlands": "2025-07-27 21:55:10 +0000",
+      "minecraft:savanna_plateau": "2025-07-28 20:10:00 +0000",
       "minecraft:beach": "2025-07-27 21:57:58 +0000",
       "minecraft:sparse_jungle": "2025-07-27 21:48:33 +0000",
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:57 +0000",
@@ -1578,6 +1586,8 @@
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:53 +0000",
       "minecraft:flower_forest": "2025-07-27 23:57:17 +0000",
+      "minecraft:meadow": "2025-07-28 20:10:26 +0000",
+      "minecraft:savanna": "2025-07-28 20:19:02 +0000",
       "minecraft:plains": "2025-07-27 21:53:32 +0000"
     },
     "done": false
@@ -8128,6 +8138,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-28 20:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:34 +0000"
@@ -8338,6 +8354,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_3": "2025-07-28 20:20:52 +0000"
+    },
+    "done": false
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "main": "2025-07-28 19:36:12 +0000"
@@ -8371,6 +8393,12 @@
   "pfm:recipes/furniture/dark_oak_log_stool": {
     "criteria": {
       "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-28 20:11:04 +0000"
     },
     "done": true
   },
