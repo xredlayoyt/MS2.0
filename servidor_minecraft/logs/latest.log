@@ -30,3 +30,17 @@
 [28Jul2025 00:25:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1025.500000, 67.500000, -3662.500000]
 [28Jul2025 00:28:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
 [28Jul2025 00:31:29.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 00:43:04.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Enchanter]
+[28Jul2025 00:49:34.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Disconnected
+[28Jul2025 00:49:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[28Jul2025 00:49:34.164] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 00:49:48.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.116.82.32:47437] logged in with entity id 66011 at (393.13968255124684, 88.0, -3429.3432946151775)
+[28Jul2025 00:49:48.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[28Jul2025 00:55:21.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Disconnected
+[28Jul2025 00:55:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
+[28Jul2025 01:01:49.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:52733] logged in with entity id 67879 at (376.50388257731504, 88.0, -3444.1361228678197)
+[28Jul2025 01:01:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
+[28Jul2025 01:02:19.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Timed out
+[28Jul2025 01:02:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
+[28Jul2025 01:02:55.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:44927] logged in with entity id 68040 at (376.50388257731504, 88.0, -3444.1361228678197)
+[28Jul2025 01:02:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
