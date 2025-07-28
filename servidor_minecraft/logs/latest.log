@@ -254,3 +254,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 18:58:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
 [28Jul2025 19:02:31.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.30.163.207:54829] logged in with entity id 8461 at (394.96635990482116, 88.0, -3439.2669069351086)
 [28Jul2025 19:02:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[28Jul2025 19:22:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1265.500000, 68.500000, -1434.500000]
+[28Jul2025 19:22:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:24:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1178.500000, 85.500000, -3717.500000]
+[28Jul2025 19:24:59.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:27:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:29:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:29:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 208.500000, 3.500000, -3735.500000]

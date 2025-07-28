@@ -4133,3 +4133,65 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 19:02:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
 [28Jul2025 19:05:09.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 19:05:09.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:10:09.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:10:09.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:15:09.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:15:09.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:20:09.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:20:09.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:22:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1265.500000, 68.500000, -1434.500000]
+[28Jul2025 19:22:13.107] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jul2025 19:22:13.108] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jul2025 19:22:13.109] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jul2025 19:22:13.109] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jul2025 19:22:13.110] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[28Jul2025 19:22:13.110] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[28Jul2025 19:22:13.352] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[28Jul2025 19:22:13.352] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[28Jul2025 19:22:13.455] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.86 and blood value 13 for entity alexsmobs:anteater
+[28Jul2025 19:22:13.875] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[28Jul2025 19:22:15.517] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:15.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[28Jul2025 19:22:15.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[28Jul2025 19:22:15.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[28Jul2025 19:22:17.003] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:17.003] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:17.004] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:17.004] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:21.081] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:21.082] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:21.349] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:21.349] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:21.349] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jul2025 19:22:32.812] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[28Jul2025 19:22:39.741] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[28Jul2025 19:22:41.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:22:54.558] [Worker-Main-3/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[28Jul2025 19:23:20.798] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[28Jul2025 19:23:20.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[28Jul2025 19:23:26.648] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[28Jul2025 19:23:29.849] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:maned_wolf
+[28Jul2025 19:24:03.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[28Jul2025 19:24:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1178.500000, 85.500000, -3717.500000]
+[28Jul2025 19:24:30.009] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[28Jul2025 19:24:32.899] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:32.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:32.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:32.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:32.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:32.901] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[28Jul2025 19:24:42.203] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[28Jul2025 19:24:48.961] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.962] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.963] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.964] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.964] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.964] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:48.965] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[28Jul2025 19:24:59.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:25:09.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:25:09.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:27:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:29:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:29:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 208.500000, 3.500000, -3735.500000]
+[28Jul2025 19:29:56.559] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.7 and blood value 0 for entity alexsmobs:rhinoceros
