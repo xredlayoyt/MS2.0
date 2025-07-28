@@ -8298,3 +8298,10 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [28Jul2025 22:39:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [28Jul2025 22:40:09.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 22:40:09.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:43:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[28Jul2025 22:45:09.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:45:09.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:45:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[28Jul2025 22:50:09.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 22:50:09.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 22:50:40.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]

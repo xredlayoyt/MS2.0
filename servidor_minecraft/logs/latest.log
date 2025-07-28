@@ -520,3 +520,6 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [28Jul2025 22:39:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 388.500000, 98.500000, -3434.500000]
 [28Jul2025 22:39:33.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
 [28Jul2025 22:39:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 22:43:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[28Jul2025 22:45:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[28Jul2025 22:50:40.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
