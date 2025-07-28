@@ -29,11 +29,15 @@
       "shrubland": "2025-07-27 21:40:57 +0000",
       "rocky_shrubland": "2025-07-27 21:26:40 +0000",
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
+      "floodplain": "2025-07-28 23:00:47 +0000",
+      "mystic_grove": "2025-07-28 23:01:03 +0000",
+      "old_growth_woodland": "2025-07-28 23:09:30 +0000",
       "field": "2025-07-27 21:26:16 +0000",
       "orchard": "2025-07-27 21:37:36 +0000",
       "overgrown_greens": "2025-07-27 21:24:42 +0000",
       "spider_nest": "2025-07-28 21:18:13 +0000",
       "lush_desert": "2025-07-27 21:56:13 +0000",
+      "redwood_forest": "2025-07-28 23:08:03 +0000",
       "volcano": "2025-07-28 20:22:32 +0000",
       "rocky_rainforest": "2025-07-28 20:24:43 +0000",
       "volcanic_plains": "2025-07-28 20:24:57 +0000",
@@ -61,6 +65,7 @@
       "minecraft:desert": "2025-07-27 21:53:46 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-28 23:22:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:54 +0000",
       "minecraft:flower_forest": "2025-07-27 23:56:43 +0000",
       "minecraft:frozen_peaks": "2025-07-28 20:47:21 +0000",
@@ -1924,11 +1929,14 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 19:35:19 +0000",
       "minecraft:skeleton": "2025-07-27 21:38:57 +0000",
+      "minecraft:hoglin": "2025-07-28 23:14:38 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
       "minecraft:creeper": "2025-07-28 02:43:19 +0000",
       "minecraft:witch": "2025-07-28 21:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 21:06:34 +0000",
+      "minecraft:husk": "2025-07-28 23:10:28 +0000",
       "minecraft:cave_spider": "2025-07-28 21:02:40 +0000",
+      "minecraft:enderman": "2025-07-28 23:06:34 +0000",
       "minecraft:stray": "2025-07-28 21:02:31 +0000",
       "minecraft:zombie": "2025-07-27 21:41:19 +0000",
       "minecraft:zombie_villager": "2025-07-28 19:53:52 +0000"
@@ -3155,12 +3163,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-28 23:09:13 +0000",
       "cooked_beef": "2025-07-27 22:13:06 +0000",
       "baked_potato": "2025-07-28 21:09:36 +0000",
       "apple": "2025-07-27 21:43:59 +0000",
       "mutton": "2025-07-28 00:01:34 +0000",
       "bread": "2025-07-27 23:09:54 +0000",
       "golden_apple": "2025-07-28 22:30:53 +0000",
+      "golden_carrot": "2025-07-28 23:18:33 +0000",
       "carrot": "2025-07-28 19:47:32 +0000"
     },
     "done": false
@@ -9253,6 +9263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -9262,6 +9278,12 @@
   "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9280,6 +9302,12 @@
   "pfm:recipes/furniture/quartz_coffee_table_classic": {
     "criteria": {
       "quartz_coffee_table_classic": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
     },
     "done": true
   },
@@ -9322,6 +9350,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_basic": {
     "criteria": {
       "dark_stone_vampirism_coffee_table_basic": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9391,15 +9425,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-28 23:20:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_table": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9451,6 +9503,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -9493,6 +9551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/basic_crossbow": {
     "criteria": {
       "has_skill": "2025-07-28 22:16:40 +0000"
@@ -9508,6 +9572,18 @@
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
     },
     "done": true
   },
@@ -9529,6 +9605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_coffee_table_modern": {
     "criteria": {
       "quartz_coffee_table_modern": "2025-07-28 21:04:28 +0000"
@@ -9544,6 +9626,12 @@
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9571,6 +9659,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -9580,6 +9680,12 @@
   "pfm:recipes/furniture/dark_wood_coffee_table_modern": {
     "criteria": {
       "dark_wood_coffee_table_modern": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
     },
     "done": true
   },
@@ -9616,6 +9722,18 @@
   "pfm:recipes/furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9661,6 +9779,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-07-28 23:13:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 20:07:17 +0000"
@@ -9691,9 +9821,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
     },
     "done": true
   },
@@ -9766,6 +9914,12 @@
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -9895,6 +10049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-28 23:12:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -9913,6 +10073,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -9928,6 +10094,12 @@
   "cfm:recipes/decorations/dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
     },
     "done": true
   },
@@ -9976,6 +10148,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -10051,6 +10229,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_table_natural": {
     "criteria": {
       "quartz_table_natural": "2025-07-28 21:04:28 +0000"
@@ -10066,6 +10250,12 @@
   "cfm:recipes/decorations/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-07-28 23:00:52 +0000"
     },
     "done": true
   },
@@ -10099,6 +10289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
@@ -10123,6 +10319,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
@@ -10132,6 +10346,12 @@
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
     },
     "done": true
   },
@@ -10180,6 +10400,12 @@
   "pfm:recipes/furniture/acacia_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -10267,6 +10493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_table_modern_dinner": {
     "criteria": {
       "light_wood_table_modern_dinner": "2025-07-28 21:04:28 +0000"
@@ -10345,6 +10577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-28 23:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10399,6 +10637,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
@@ -10414,6 +10658,12 @@
   "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-07-28 23:00:53 +0000"
     },
     "done": true
   },
@@ -10555,6 +10805,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -10633,6 +10889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-07-28 22:35:06 +0000"
@@ -10681,6 +10943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-28 23:12:27 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-28 19:41:35 +0000"
@@ -10702,6 +10970,12 @@
   "pfm:recipes/furniture/quartz_chair_dinner": {
     "criteria": {
       "quartz_chair_dinner": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
     },
     "done": true
   },
@@ -10735,6 +11009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_table_log": {
     "criteria": {
       "has_log": "2025-07-28 20:07:17 +0000"
@@ -10753,6 +11033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10762,6 +11048,12 @@
   "cfm:recipes/decorations/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -10837,6 +11129,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_classic_nightstand": {
     "criteria": {
       "dark_stone_vampirism_classic_nightstand": "2025-07-28 19:27:36 +0000"
@@ -10858,6 +11156,18 @@
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
     "criteria": {
       "has_skill": "2025-07-28 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-28 23:04:36 +0000"
     },
     "done": true
   },
@@ -10903,6 +11213,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cursed_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 22:32:44 +0000"
@@ -10945,6 +11267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10960,6 +11288,12 @@
   "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },
@@ -11029,6 +11363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -11038,6 +11378,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 19:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-28 23:14:42 +0000"
     },
     "done": true
   },
@@ -11239,15 +11585,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_basic": {
     "criteria": {
       "dark_wood_table_basic": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:14:42 +0000"
     },
     "done": true
   },
@@ -11377,6 +11741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-28 19:27:36 +0000"
@@ -11407,9 +11777,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_tile_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:02:19 +0000"
     },
     "done": true
   },

@@ -28,11 +28,14 @@
       "woodland": "2025-07-28 20:21:55 +0000",
       "rocky_shrubland": "2025-07-27 21:28:45 +0000",
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
+      "floodplain": "2025-07-28 23:00:54 +0000",
+      "mystic_grove": "2025-07-28 23:01:12 +0000",
       "old_growth_woodland": "2025-07-28 20:21:56 +0000",
       "orchard": "2025-07-27 21:38:01 +0000",
       "overgrown_greens": "2025-07-27 21:40:01 +0000",
       "spider_nest": "2025-07-28 21:18:19 +0000",
       "lush_desert": "2025-07-27 21:56:29 +0000",
+      "redwood_forest": "2025-07-28 23:08:08 +0000",
       "volcano": "2025-07-28 20:22:31 +0000",
       "rocky_rainforest": "2025-07-28 20:25:42 +0000",
       "volcanic_plains": "2025-07-28 20:25:11 +0000",
@@ -1507,6 +1510,7 @@
       "minecraft:skeleton": "2025-07-27 23:20:13 +0000",
       "minecraft:spider": "2025-07-27 21:37:56 +0000",
       "minecraft:creeper": "2025-07-28 02:57:52 +0000",
+      "minecraft:wither_skeleton": "2025-07-28 23:14:27 +0000",
       "minecraft:enderman": "2025-07-28 03:22:50 +0000",
       "minecraft:stray": "2025-07-28 21:07:05 +0000",
       "minecraft:zombie": "2025-07-27 21:41:18 +0000"
@@ -1593,6 +1597,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:53 +0000",
       "minecraft:flower_forest": "2025-07-27 23:57:17 +0000",
       "minecraft:frozen_peaks": "2025-07-28 20:47:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-28 23:24:10 +0000",
       "minecraft:deep_dark": "2025-07-28 21:26:56 +0000",
       "minecraft:meadow": "2025-07-28 20:10:26 +0000",
       "minecraft:savanna": "2025-07-28 20:19:02 +0000",
@@ -7954,6 +7959,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2025-07-28 19:51:18 +0000"
@@ -8005,6 +8016,12 @@
   "pfm:recipes/furniture/magic_biomesoplenty_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8080,6 +8097,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:34 +0000"
@@ -8110,6 +8133,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_pink_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -8131,6 +8160,12 @@
   "pfm:recipes/furniture/acacia_chair": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2025-07-28 23:02:20 +0000"
     },
     "done": true
   },
@@ -8185,6 +8220,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8254,6 +8295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
@@ -8290,6 +8337,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-28 19:51:18 +0000"
@@ -8308,6 +8361,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -8317,6 +8376,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8332,9 +8397,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:04:31 +0000"
     },
     "done": true
   },
@@ -8374,6 +8451,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-07-28 23:13:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -8407,6 +8496,12 @@
   "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
     "criteria": {
       "has_pure_blood": "2025-07-28 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8479,6 +8574,12 @@
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-07-28 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8590,6 +8691,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -8626,6 +8733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-28 23:03:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
@@ -8635,6 +8748,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8698,9 +8817,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/umbran_biomesoplenty_pink_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-07-28 23:02:17 +0000"
     },
     "done": true
   },
@@ -8734,6 +8877,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-07-28 23:13:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2025-07-28 19:27:29 +0000"
@@ -8755,6 +8904,12 @@
   "pfm:recipes/furniture/acacia_table_basic": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:04:31 +0000"
     },
     "done": true
   },
@@ -8797,6 +8952,18 @@
   "pfm:recipes/furniture/mangrove_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -8908,6 +9075,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-28 19:37:04 +0000"
@@ -8986,6 +9159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pewen_alexscaves_pink_simple_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -9028,9 +9207,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-28 23:11:20 +0000"
     },
     "done": true
   },
@@ -9082,6 +9273,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_pink_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -9091,6 +9288,12 @@
   "pfm:recipes/furniture/cherry_pink_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-07-28 23:22:21 +0000"
     },
     "done": true
   },
@@ -9227,6 +9430,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-28 21:27:11 +0000"
@@ -9302,6 +9511,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_chair_classic": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-28 23:02:30 +0000"
     },
     "done": true
   },
@@ -9509,6 +9724,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-28 19:51:18 +0000"
@@ -9690,6 +9911,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-28 20:47:28 +0000"
@@ -9750,6 +9977,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jacaranda_biomesoplenty_pink_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -9771,6 +10004,12 @@
   "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -10026,6 +10265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-28 23:02:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/fir_biomesoplenty_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-07-28 21:43:00 +0000"
@@ -10062,9 +10307,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
@@ -10212,6 +10469,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/magic_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-28 23:04:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
@@ -10278,9 +10541,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-07-28 23:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-28 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 23:03:56 +0000"
     },
     "done": true
   },
