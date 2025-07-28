@@ -8042,3 +8042,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 20:49:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [28Jul2025 20:50:09.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 20:50:09.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 20:55:09.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 20:55:09.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 20:55:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Zombie, they gave up
+[28Jul2025 20:55:56.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-20.55.56.dat
+[28Jul2025 20:55:59.164] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 20:56:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:59:31.994] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!
+[28Jul2025 21:00:09.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 21:00:09.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 21:01:38.590] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!

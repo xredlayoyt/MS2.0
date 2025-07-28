@@ -356,3 +356,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 20:47:51.212] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=470, y=97, z=-3443}
 [28Jul2025 20:48:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [28Jul2025 20:49:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:55:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Zombie, they gave up
+[28Jul2025 20:55:56.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_28.07.2025-20.55.56.dat
+[28Jul2025 20:56:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 20:59:31.994] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!
+[28Jul2025 21:01:38.590] [Server thread/INFO] [Exile Log: com.robertx22.mine_and_slash.database.data.profession.Profession/]: minecraft:beetroots requires growth stage but doesn't have the age value!
