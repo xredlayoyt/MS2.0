@@ -1917,7 +1917,8 @@
       "minecraft:skeleton": "2025-07-27 21:38:57 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
       "minecraft:creeper": "2025-07-28 02:43:19 +0000",
-      "minecraft:zombie": "2025-07-27 21:41:19 +0000"
+      "minecraft:zombie": "2025-07-27 21:41:19 +0000",
+      "minecraft:zombie_villager": "2025-07-28 19:53:52 +0000"
     },
     "done": false
   },
@@ -3144,7 +3145,8 @@
       "cooked_beef": "2025-07-27 22:13:06 +0000",
       "apple": "2025-07-27 21:43:59 +0000",
       "mutton": "2025-07-28 00:01:34 +0000",
-      "bread": "2025-07-27 23:09:54 +0000"
+      "bread": "2025-07-27 23:09:54 +0000",
+      "carrot": "2025-07-28 19:47:32 +0000"
     },
     "done": false
   },
@@ -9270,6 +9272,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-28 19:51:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
@@ -9294,6 +9302,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-28 19:49:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
@@ -9315,6 +9329,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-28 19:47:52 +0000"
     },
     "done": true
   },
@@ -9369,6 +9389,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_chair_modern": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-28 19:48:54 +0000"
     },
     "done": true
   },
@@ -9486,6 +9512,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-28 19:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
@@ -9540,6 +9572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-28 19:57:43 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
@@ -9549,6 +9587,12 @@
   "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 19:53:49 +0000"
     },
     "done": true
   },
@@ -9660,6 +9704,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-28 19:41:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_modern": {
     "criteria": {
       "dark_stone_vampirism_coffee_table_modern": "2025-07-28 19:27:36 +0000"
@@ -9708,6 +9758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 19:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-28 19:39:50 +0000"
@@ -9753,6 +9809,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 19:22:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-28 19:46:41 +0000"
     },
     "done": true
   },

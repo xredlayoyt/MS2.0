@@ -4233,3 +4233,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 19:39:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Bloody Stream]
 [28Jul2025 19:40:09.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 19:40:09.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:41:40.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was killed trying to hurt Skeleton
+[28Jul2025 19:41:44.016] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 19:41:56.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:42:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was shot by Skeleton
+[28Jul2025 19:42:04.169] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 2
+[28Jul2025 19:42:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:42:09.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was killed trying to hurt Skeleton
+[28Jul2025 19:42:11.218] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 19:42:16.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was shot by Skeleton
+[28Jul2025 19:42:17.697] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 2
+[28Jul2025 19:42:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:42:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 700.500000, 97.500000, -3752.500000]
+[28Jul2025 19:42:34.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:42:46.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was shot by Skeleton, they gave up
+[28Jul2025 19:42:50.439] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 19:42:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:43:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 708.500000, 101.500000, -3761.500000]
+[28Jul2025 19:43:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:44:35.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:44:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was shot by Skeleton
+[28Jul2025 19:44:49.138] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 2
+[28Jul2025 19:44:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:44:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:45:09.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:45:09.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:45:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:45:22.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 19:45:58.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 839.500000, 60.500000, -3888.500000]
+[28Jul2025 19:46:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:46:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Mine? Mine? Mine?]
+[28Jul2025 19:47:52.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Good Demoman]
+[28Jul2025 19:48:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Junior Summoner]
+[28Jul2025 19:48:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Life turned out to be a comedy]
+[28Jul2025 19:49:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Dark Metallurgy]
+[28Jul2025 19:49:42.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Mine? Mine? Mine?]
+[28Jul2025 19:50:09.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:50:09.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:51:04.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has reached the goal [Fighting Nightmares]
+[28Jul2025 19:51:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Dark Metallurgy]
+[28Jul2025 19:52:09.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has reached the goal [Fighting Nightmares]
+[28Jul2025 19:52:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:53:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ was slain by RakanCharming
+[28Jul2025 19:53:22.864] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 1
+[28Jul2025 19:54:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[28Jul2025 19:55:09.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:55:09.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:57:21.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/23865, l='ServerLevel[world]', x=917.56, y=69.00, z=-4148.44] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[28Jul2025 19:59:26.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[28Jul2025 20:00:09.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 20:00:09.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

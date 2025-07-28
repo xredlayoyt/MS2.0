@@ -1571,6 +1571,7 @@
       "minecraft:sparse_jungle": "2025-07-27 21:48:33 +0000",
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:57 +0000",
       "minecraft:river": "2025-07-27 21:40:55 +0000",
+      "minecraft:stony_shore": "2025-07-28 19:47:36 +0000",
       "minecraft:forest": "2025-07-27 22:02:52 +0000",
       "minecraft:desert": "2025-07-27 21:53:55 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
@@ -7875,11 +7876,53 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2025-07-28 19:36:12 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
@@ -7899,9 +7942,123 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-07-28 19:37:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-28 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
     },
     "done": true
   },
@@ -7917,9 +8074,99 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-28 19:51:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_dark_spruce_vampirism_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
   },
@@ -7935,9 +8182,57 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
   },
@@ -7946,6 +8241,12 @@
       "main": "2025-07-28 19:36:12 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -7971,9 +8272,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-28 19:32:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
   },
@@ -7983,9 +8308,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
     },
     "done": true
   },
@@ -7995,9 +8344,33 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8007,9 +8380,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8025,15 +8422,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-07-28 19:36:12 +0000"
     },
     "done": false
   },
+  "pfm:recipes/furniture/dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
     },
     "done": true
   },
@@ -8043,9 +8494,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-28 19:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8061,6 +8542,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
@@ -8070,6 +8557,42 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_table_classic": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8086,6 +8609,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
@@ -8098,9 +8639,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_table_log": {
     "criteria": {
       "has_log": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8116,9 +8711,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-28 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_button": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-28 19:41:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8146,9 +8783,93 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cursed_spruce_planks": {
     "criteria": {
       "has_log": "2025-07-28 19:22:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
   },
@@ -8164,6 +8885,30 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-28 19:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-28 19:40:04 +0000"
@@ -8176,15 +8921,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-28 19:48:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-28 19:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
     },
     "done": true
   },
@@ -8200,15 +8993,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 19:23:05 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-28 19:49:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_dark_spruce_vampirism_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
     },
     "done": true
   },
@@ -8230,9 +9071,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8242,15 +9125,63 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-28 19:40:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8272,6 +9203,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:23:05 +0000"
@@ -8281,6 +9218,18 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-28 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:51:18 +0000"
     },
     "done": true
   },
@@ -8299,6 +9248,24 @@
   "vampirism:recipes/building_blocks/dark_spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-28 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-28 19:40:30 +0000"
     },
     "done": true
   },
