@@ -9262,6 +9262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
@@ -9325,6 +9331,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9490,6 +9502,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-28 21:57:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_coffee_table_modern": {
     "criteria": {
       "quartz_coffee_table_modern": "2025-07-28 21:04:28 +0000"
@@ -9505,6 +9529,12 @@
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-28 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9541,6 +9571,12 @@
   "pfm:recipes/furniture/light_wood_table_dinner": {
     "criteria": {
       "light_wood_table_dinner": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9625,6 +9661,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9718,6 +9760,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 21:04:28 +0000"
@@ -9748,6 +9796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -9775,6 +9829,12 @@
   "pfm:recipes/furniture/dark_wood_chair_dinner": {
     "criteria": {
       "dark_wood_chair_dinner": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9844,6 +9904,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2025-07-28 21:42:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -9853,6 +9919,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -9928,6 +10000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2025-07-28 19:28:08 +0000"
@@ -9976,6 +10054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_chair_modern": {
     "criteria": {
       "quartz_chair_modern": "2025-07-28 21:04:28 +0000"
@@ -10021,6 +10105,12 @@
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -10288,6 +10378,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_coffee_table_classic": {
     "criteria": {
       "light_wood_coffee_table_classic": "2025-07-28 21:04:28 +0000"
@@ -10345,6 +10453,12 @@
   "pfm:recipes/furniture/dark_wood_table_dinner": {
     "criteria": {
       "dark_wood_table_dinner": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -10444,6 +10558,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-28 21:57:50 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/quartz_chair_dinner": {
     "criteria": {
       "quartz_chair_dinner": "2025-07-28 21:04:28 +0000"
@@ -10465,6 +10585,12 @@
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -10630,6 +10756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10765,6 +10897,18 @@
   "pfm:recipes/furniture/stripped_dark_spruce_vampirism_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
@@ -10975,6 +11119,12 @@
   "pfm:recipes/furniture/dark_spruce_vampirism_chair": {
     "criteria": {
       "has_planks": "2025-07-28 19:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:42:34 +0000"
     },
     "done": true
   },
