@@ -1608,6 +1608,7 @@
       "minecraft:desert": "2025-07-27 21:53:55 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-29 21:37:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-27 21:58:53 +0000",
       "minecraft:flower_forest": "2025-07-27 23:57:17 +0000",
       "minecraft:frozen_peaks": "2025-07-28 20:47:16 +0000",
@@ -8251,9 +8252,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2025-07-28 19:36:12 +0000"
+      "main": "2025-07-28 19:36:12 +0000",
+      "flower": "2025-07-29 21:32:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {

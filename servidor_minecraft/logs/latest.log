@@ -257,3 +257,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 21:26:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
 [29Jul2025 21:26:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
 [29Jul2025 21:26:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 21:32:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Blood Cult]
+[29Jul2025 21:34:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[29Jul2025 21:35:21.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4164.500000, 71.500000, -1510.500000]
+[29Jul2025 21:35:27.962] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=301, y=123, z=302}
+[29Jul2025 21:35:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 21:36:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 21:36:45.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[29Jul2025 21:37:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3948.500000, 71.500000, -1324.500000]
+[29Jul2025 21:37:47.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 21:38:17.514] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[29Jul2025 21:38:17.515] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[29Jul2025 21:38:17.517] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[29Jul2025 21:38:17.517] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[29Jul2025 21:38:17.517] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[29Jul2025 21:38:17.527] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[29Jul2025 21:38:17.528] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[29Jul2025 21:38:17.528] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[29Jul2025 21:38:27.051] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[29Jul2025 21:38:27.052] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[29Jul2025 21:38:27.058] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[29Jul2025 21:38:27.059] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[29Jul2025 21:38:27.059] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[29Jul2025 21:38:47.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ was kicked for floating too long!
+[29Jul2025 21:38:47.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Disconnected
+[29Jul2025 21:38:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 21:38:47.261] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 21:39:17.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:44497] logged in with entity id 7416 at (-3875.126779543021, 64.77060898011881, -1218.6758479391046)
+[29Jul2025 21:39:18.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
