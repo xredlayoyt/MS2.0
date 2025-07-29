@@ -52,6 +52,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-29 00:06:33 +0000",
       "minecraft:cherry_grove": "2025-07-27 22:05:05 +0000",
       "minecraft:sunflower_plains": "2025-07-27 22:04:37 +0000",
       "minecraft:birch_forest": "2025-07-28 00:23:10 +0000",
@@ -10125,7 +10126,8 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_3": "2025-07-28 20:20:33 +0000"
+      "trickor_treat_3": "2025-07-28 20:20:33 +0000",
+      "trickor_treat_5": "2025-07-29 00:11:28 +0000"
     },
     "done": false
   },
@@ -10393,6 +10395,12 @@
     },
     "done": true
   },
+  "vampirism:main/jump_scare": {
+    "criteria": {
+      "main": "2025-07-29 00:14:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_chair": {
     "criteria": {
       "dark_stone_vampirism_chair": "2025-07-28 19:27:36 +0000"
@@ -10402,6 +10410,12 @@
   "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-29 00:05:19 +0000"
     },
     "done": true
   },
