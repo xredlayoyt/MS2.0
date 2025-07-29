@@ -251,3 +251,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 21:15:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
 [29Jul2025 21:16:19.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:42651] logged in with entity id 616 at (392.5, 93.5625, -3441.5)
 [29Jul2025 21:16:20.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 21:22:21.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
+[29Jul2025 21:22:32.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 21:26:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
+[29Jul2025 21:26:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 21:26:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
+[29Jul2025 21:26:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
