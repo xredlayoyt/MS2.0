@@ -463,3 +463,35 @@ java.lang.Throwable: null
 [29Jul2025 00:25:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was struck by lightning, they gave up
 [29Jul2025 00:25:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set mafe17_'s game mode to Creative Mode]
 [29Jul2025 00:25:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -8559.500000, 206.500000, -2910.500000]
+[29Jul2025 00:25:58.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/117849, l='ServerLevel[world]', x=-8550.91, y=207.00, z=-2908.36] died: Gearling was struck by lightning
+[29Jul2025 00:26:00.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118191, l='ServerLevel[world]', x=-8565.33, y=209.00, z=-2907.59] died: Gearling burned to death
+[29Jul2025 00:26:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[29Jul2025 00:26:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set mafe17_'s game mode to Survival Mode]
+[29Jul2025 00:27:00.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118514, l='ServerLevel[world]', x=-8565.28, y=213.00, z=-2905.46] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:13.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118575, l='ServerLevel[world]', x=-8565.95, y=213.00, z=-2905.95] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:15.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118549, l='ServerLevel[world]', x=-8565.61, y=212.00, z=-2902.57] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:46.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118550, l='ServerLevel[world]', x=-8554.84, y=207.00, z=-2906.44] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:47.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118516, l='ServerLevel[world]', x=-8556.11, y=207.00, z=-2906.61] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:47.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118358, l='ServerLevel[world]', x=-8555.38, y=207.00, z=-2906.57] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:48.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/117893, l='ServerLevel[world]', x=-8556.52, y=207.00, z=-2906.46] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:49.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118203, l='ServerLevel[world]', x=-8556.72, y=207.00, z=-2906.15] died: Gearling was slain by mafe17_
+[29Jul2025 00:27:49.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/118574, l='ServerLevel[world]', x=-8556.69, y=207.00, z=-2906.86] died: Gearling was slain by mafe17_
+[29Jul2025 00:28:00.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:29:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[29Jul2025 00:31:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:32:14.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 00:33:13.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 00:34:09.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Gearling'/118544, l='ServerLevel[world]', x=-8559.85, y=204.00, z=-2910.15] died: Gearling was struck by lightning
+[29Jul2025 00:34:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 00:35:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Double Trouble]
+[29Jul2025 00:36:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming went off with a bang
+[29Jul2025 00:36:13.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8603.500000, 280.500000, -2919.500000]
+[29Jul2025 00:41:45.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/122516, l='ServerLevel[world]', x=-8608.08, y=209.00, z=-2914.49] died: Gearling went off with a bang
+[29Jul2025 00:42:07.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/122517, l='ServerLevel[world]', x=-8614.84, y=211.00, z=-2912.85] died: Gearling was slain by mafe17_
+[29Jul2025 00:42:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 00:42:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[29Jul2025 00:42:44.994] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/123020, l='ServerLevel[world]', x=-8654.91, y=207.00, z=-2914.41] died: Gearling was slain by mafe17_
+[29Jul2025 00:42:45.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/123031, l='ServerLevel[world]', x=-8655.34, y=207.00, z=-2914.22] died: Gearling was slain by mafe17_
+[29Jul2025 00:42:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:44:06.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
+[29Jul2025 00:44:29.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]

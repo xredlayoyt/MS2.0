@@ -10587,6 +10587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_basic": {
     "criteria": {
       "dark_stone_vampirism_coffee_table_basic": "2025-07-29 00:19:10 +0000"
@@ -10641,6 +10647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
@@ -10650,6 +10662,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-29 00:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
     },
     "done": true
   },
@@ -10701,6 +10719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-29 00:34:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
     "criteria": {
       "has_white_lavender": "2025-07-29 00:09:44 +0000"
@@ -10728,6 +10752,12 @@
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
     },
     "done": true
   },
@@ -10773,9 +10803,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-07-29 00:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-29 00:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-29 00:35:02 +0000"
     },
     "done": true
   },
@@ -10869,6 +10917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-29 00:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
@@ -10935,9 +10989,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-29 00:34:30 +0000"
     },
     "done": true
   },
@@ -10956,6 +11022,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_table_modern_dinner": {
     "criteria": {
       "dark_stone_vampirism_table_modern_dinner": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-29 00:35:02 +0000"
     },
     "done": true
   },
@@ -10989,9 +11061,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-29 00:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-29 00:35:02 +0000"
     },
     "done": true
   },
