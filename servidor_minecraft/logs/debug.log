@@ -9507,3 +9507,62 @@ java.lang.Throwable: null
 [29Jul2025 22:31:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
 [29Jul2025 22:32:27.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 22:32:27.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 22:33:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:34:05.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3284.500000, -5.500000, -503.500000]
+[29Jul2025 22:34:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3323.500000, -5.500000, -518.500000]
+[29Jul2025 22:34:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3387.500000, -3.500000, -491.500000]
+[29Jul2025 22:35:06.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3454.500000, -1.500000, -451.500000]
+[29Jul2025 22:37:27.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 22:37:27.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 22:38:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3469.500000, -2.500000, -314.500000]
+[29Jul2025 22:38:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3431.500000, -1.500000, -257.500000]
+[29Jul2025 22:39:01.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3319.500000, -15.500000, -699.500000]
+[29Jul2025 22:39:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3257.500000, -20.500000, -814.500000]
+[29Jul2025 22:39:07.901] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:07.901] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:07.915] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:07.915] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:08.855] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (-3357 | 67 | -958)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_180 at (-3357 | 67 | -958)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_3 with rotation CLOCKWISE_90 at (-3348 | 67 | -958)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_3 with rotation CLOCKWISE_90 at (-3348 | 67 | -958)
+[29Jul2025 22:39:08.856] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:08.857] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:08.865] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:08.865] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:08.865] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_3 with rotation CLOCKWISE_90 at (-3348 | 67 | -958)
+[29Jul2025 22:39:08.866] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_3 with rotation CLOCKWISE_90 at (-3348 | 67 | -958)
+[29Jul2025 22:39:08.866] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:08.866] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-3348 | 67 | -949)
+[29Jul2025 22:39:11.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3160.500000, -38.500000, -702.500000]
+[29Jul2025 22:39:11.468] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-3323 | 67 | -978)
+[29Jul2025 22:39:11.468] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-3323 | 67 | -978)
+[29Jul2025 22:39:11.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-3325 | 67 | -974)
+[29Jul2025 22:39:11.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-3325 | 67 | -974)
+[29Jul2025 22:39:11.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-3330 | 67 | -974)
+[29Jul2025 22:39:11.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-3330 | 67 | -974)
+[29Jul2025 22:39:11.594] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-3323 | 67 | -978)
+[29Jul2025 22:39:11.595] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-3323 | 67 | -978)
+[29Jul2025 22:39:11.609] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-3335 | 67 | -974)
+[29Jul2025 22:39:11.609] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-3335 | 67 | -974)
+[29Jul2025 22:39:11.609] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:11.610] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:11.610] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-3352 | 67 | -980)
+[29Jul2025 22:39:11.611] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-3352 | 67 | -980)
+[29Jul2025 22:39:11.611] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-3330 | 67 | -974)
+[29Jul2025 22:39:11.611] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-3330 | 67 | -974)
+[29Jul2025 22:39:11.625] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:11.625] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-3347 | 67 | -963)
+[29Jul2025 22:39:11.625] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-3352 | 67 | -980)
+[29Jul2025 22:39:11.625] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (-3352 | 67 | -980)
+[29Jul2025 22:39:11.929] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-3379 | 67 | -989)
+[29Jul2025 22:39:11.930] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-3379 | 67 | -989)
+[29Jul2025 22:39:11.936] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-3379 | 67 | -989)
+[29Jul2025 22:39:11.936] [Worker-Main-36/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (-3379 | 67 | -989)
+[29Jul2025 22:39:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3440.500000, -42.500000, -433.500000]
+[29Jul2025 22:39:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Deceived Hopes]
+[29Jul2025 22:39:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:42:27.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 22:42:27.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

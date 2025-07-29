@@ -11677,6 +11677,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-07-29 22:39:23 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_tile_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
