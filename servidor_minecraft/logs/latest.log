@@ -567,3 +567,37 @@ java.lang.Throwable: null
 [29Jul2025 01:26:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1522.500000, 96.500000, -7317.500000]
 [29Jul2025 01:26:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1573.500000, 68.500000, -7446.500000]
 [29Jul2025 01:26:50.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[29Jul2025 01:27:20.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1632.500000, 101.500000, -7544.500000]
+[29Jul2025 01:27:27.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1711.500000, 105.500000, -7573.500000]
+[29Jul2025 01:27:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1822.500000, 86.500000, -7457.500000]
+[29Jul2025 01:27:58.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1796.500000, 106.500000, -7680.500000]
+[29Jul2025 01:28:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1872.500000, 111.500000, -7530.500000]
+[29Jul2025 01:28:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1843.500000, 111.500000, -7531.500000]
+[29Jul2025 01:28:24.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1873.500000, 142.500000, -7669.500000]
+[29Jul2025 01:28:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1914.500000, 314.500000, -7653.500000]
+[29Jul2025 01:28:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Super Creeps]
+[29Jul2025 01:28:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1955.500000, 193.500000, -7656.500000]
+[29Jul2025 01:30:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:30:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Super Creeps]
+[29Jul2025 01:30:41.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/150887, l='ServerLevel[world]', x=1904.68, y=193.12, z=-7664.76] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:30:45.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/150889, l='ServerLevel[world]', x=1908.25, y=195.01, z=-7663.06] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:30:45.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151105, l='ServerLevel[world]', x=1906.30, y=195.01, z=-7661.70] died: Dinnerbone was shot by Dinnerbone
+[29Jul2025 01:30:45.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151106, l='ServerLevel[world]', x=1907.18, y=195.01, z=-7661.08] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:30:46.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151210, l='ServerLevel[world]', x=1906.30, y=195.01, z=-7658.30] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:30:47.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/150888, l='ServerLevel[world]', x=1907.07, y=195.01, z=-7658.30] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:32:19.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151361, l='ServerLevel[world]', x=1915.41, y=195.01, z=-7645.46] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:32:23.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151362, l='ServerLevel[world]', x=1914.01, y=196.01, z=-7648.10] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:32:59.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151327, l='ServerLevel[world]', x=1924.65, y=203.01, z=-7668.82] died: Dinnerbone was shot by Dinnerbone
+[29Jul2025 01:33:06.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151468, l='ServerLevel[world]', x=1925.78, y=203.01, z=-7662.34] died: Dinnerbone was shot by Dinnerbone
+[29Jul2025 01:33:12.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was shot by Skeleton, they gave up
+[29Jul2025 01:33:12.690] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-01.33.12.dat
+[29Jul2025 01:33:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1907.500000, 199.500000, -7659.500000]
+[29Jul2025 01:33:36.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1907.500000, 199.500000, -7659.500000]
+[29Jul2025 01:34:19.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151326, l='ServerLevel[world]', x=1916.67, y=203.01, z=-7664.65] died: Dinnerbone was slain by mafe17_
+[29Jul2025 01:34:54.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151449, l='ServerLevel[world]', x=1933.76, y=211.01, z=-7675.22] died: Dinnerbone was shot by Dinnerbone
+[29Jul2025 01:35:08.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/150789, l='ServerLevel[world]', x=1930.41, y=211.01, z=-7668.58] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:35:13.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151448, l='ServerLevel[world]', x=1928.30, y=211.01, z=-7668.30] died: Dinnerbone was slain by mafe17_
+[29Jul2025 01:36:36.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Wither Skeleton
+[29Jul2025 01:36:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1914.500000, 207.500000, -7669.500000]
+[29Jul2025 01:36:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:37:03.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]

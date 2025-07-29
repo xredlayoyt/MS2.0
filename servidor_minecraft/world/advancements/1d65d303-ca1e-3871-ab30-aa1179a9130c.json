@@ -1515,6 +1515,7 @@
       "minecraft:spider": "2025-07-27 21:37:56 +0000",
       "minecraft:creeper": "2025-07-28 02:57:52 +0000",
       "minecraft:wither_skeleton": "2025-07-28 23:14:27 +0000",
+      "minecraft:cave_spider": "2025-07-29 01:32:52 +0000",
       "minecraft:enderman": "2025-07-28 03:22:50 +0000",
       "minecraft:stray": "2025-07-28 21:07:05 +0000",
       "minecraft:zombie": "2025-07-27 21:41:18 +0000"
@@ -1598,7 +1599,9 @@
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:57 +0000",
       "minecraft:river": "2025-07-27 21:40:55 +0000",
       "minecraft:stony_shore": "2025-07-28 19:47:36 +0000",
+      "minecraft:grove": "2025-07-29 01:30:25 +0000",
       "minecraft:swamp": "2025-07-29 01:18:45 +0000",
+      "minecraft:jagged_peaks": "2025-07-29 01:31:48 +0000",
       "minecraft:forest": "2025-07-27 22:02:52 +0000",
       "minecraft:desert": "2025-07-27 21:53:55 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
@@ -10817,6 +10820,12 @@
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-07-29 01:30:25 +0000"
     },
     "done": true
   },

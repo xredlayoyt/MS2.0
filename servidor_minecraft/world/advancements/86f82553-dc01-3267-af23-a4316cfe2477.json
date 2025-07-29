@@ -56,6 +56,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-29 01:29:03 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-29 01:00:56 +0000",
       "minecraft:taiga": "2025-07-29 00:06:33 +0000",
       "minecraft:cherry_grove": "2025-07-27 22:05:05 +0000",
@@ -70,7 +71,9 @@
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:58 +0000",
       "minecraft:river": "2025-07-27 21:26:13 +0000",
       "minecraft:stony_shore": "2025-07-28 00:27:37 +0000",
+      "minecraft:grove": "2025-07-29 01:28:35 +0000",
       "minecraft:swamp": "2025-07-29 01:18:35 +0000",
+      "minecraft:jagged_peaks": "2025-07-29 01:28:38 +0000",
       "minecraft:forest": "2025-07-27 22:02:52 +0000",
       "minecraft:desert": "2025-07-27 21:53:46 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
@@ -9306,6 +9309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-29 01:30:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
@@ -10621,6 +10630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-29 01:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
@@ -10666,6 +10681,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-07-29 01:28:32 +0000"
     },
     "done": true
   },
@@ -11755,6 +11776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-29 01:30:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
@@ -11788,6 +11815,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-28 19:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-29 01:30:37 +0000"
     },
     "done": true
   },
