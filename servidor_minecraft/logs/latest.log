@@ -495,3 +495,14 @@ java.lang.Throwable: null
 [29Jul2025 00:42:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
 [29Jul2025 00:44:06.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
 [29Jul2025 00:44:29.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 00:47:56.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Vampire Diaries]
+[29Jul2025 00:49:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1063.500000, 67.500000, -4297.500000]
+[29Jul2025 00:50:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:54:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[29Jul2025 00:55:00.873] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[29Jul2025 00:55:02.548] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[29Jul2025 00:55:02.548] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[29Jul2025 00:55:02.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[29Jul2025 00:55:02.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[29Jul2025 00:55:02.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[29Jul2025 00:55:02.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}

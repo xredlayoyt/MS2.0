@@ -10625,6 +10625,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-29 00:47:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 22:32:44 +0000"
