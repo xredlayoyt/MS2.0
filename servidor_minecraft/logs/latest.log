@@ -601,3 +601,236 @@ java.lang.Throwable: null
 [29Jul2025 01:36:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1914.500000, 207.500000, -7669.500000]
 [29Jul2025 01:36:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
 [29Jul2025 01:37:03.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:38:56.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152100, l='ServerLevel[world]', x=1907.36, y=219.01, z=-7647.69] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:38:57.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152238, l='ServerLevel[world]', x=1909.06, y=219.01, z=-7647.39] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:38:58.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152239, l='ServerLevel[world]', x=1908.87, y=219.01, z=-7646.72] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:38:58.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153487, l='ServerLevel[world]', x=1907.87, y=219.01, z=-7645.71] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:39:04.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152099, l='ServerLevel[world]', x=1909.73, y=219.01, z=-7656.16] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:39:11.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151500, l='ServerLevel[world]', x=1910.03, y=219.01, z=-7646.15] died: Dinnerbone was slain by mafe17_
+[29Jul2025 01:39:25.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:39:25.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:39:46.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.30.163.207:42525] logged in with entity id 153831 at (1911.4215468215364, 218.13863220884826, -7653.634886972188)
+[29Jul2025 01:39:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:40:05.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151501, l='ServerLevel[world]', x=1904.37, y=219.01, z=-7644.73] died: Dinnerbone was slain by RakanCharming
+[29Jul2025 01:40:16.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:40:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:41:02.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/150477, l='ServerLevel[world]', x=1786.70, y=99.00, z=-7775.50] died, message: 'Villager was killed'
+[29Jul2025 01:41:02.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/150478, l='ServerLevel[world]', x=1787.50, y=99.00, z=-7764.70] died, message: 'Leatherworker was killed'
+[29Jul2025 01:41:02.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/150479, l='ServerLevel[world]', x=1787.50, y=99.00, z=-7769.70] died, message: 'Villager was killed'
+[29Jul2025 01:41:02.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/150501, l='ServerLevel[world]', x=1788.46, y=100.50, z=-7784.49] died, message: 'Villager was killed'
+[29Jul2025 01:41:02.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151663, l='ServerLevel[world]', x=1907.92, y=219.01, z=-7662.18] died: Dinnerbone was killed
+[29Jul2025 01:41:02.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151664, l='ServerLevel[world]', x=1906.21, y=219.01, z=-7662.52] died: Dinnerbone was killed
+[29Jul2025 01:41:02.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151781, l='ServerLevel[world]', x=1907.73, y=219.01, z=-7676.38] died: Dinnerbone was killed
+[29Jul2025 01:41:02.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151782, l='ServerLevel[world]', x=1911.22, y=219.01, z=-7678.55] died: Dinnerbone was killed
+[29Jul2025 01:41:02.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/151783, l='ServerLevel[world]', x=1907.60, y=217.01, z=-7680.64] died: Dinnerbone was killed
+[29Jul2025 01:41:02.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152662, l='ServerLevel[world]', x=1932.37, y=227.01, z=-7663.98] died: Dinnerbone was killed
+[29Jul2025 01:41:02.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/152791, l='ServerLevel[world]', x=1908.44, y=219.01, z=-7659.76] died: Dinnerbone was killed
+[29Jul2025 01:41:02.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was killed
+[29Jul2025 01:41:02.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153102, l='ServerLevel[world]', x=1907.87, y=219.01, z=-7678.47] died: Dinnerbone was killed
+[29Jul2025 01:41:02.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153103, l='ServerLevel[world]', x=1906.05, y=219.01, z=-7678.54] died: Dinnerbone was killed
+[29Jul2025 01:41:02.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153121, l='ServerLevel[world]', x=1907.29, y=219.01, z=-7663.58] died: Dinnerbone was killed
+[29Jul2025 01:41:02.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153122, l='ServerLevel[world]', x=1909.63, y=219.01, z=-7660.37] died: Dinnerbone was killed
+[29Jul2025 01:41:02.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153155, l='ServerLevel[world]', x=1934.63, y=227.01, z=-7661.98] died: Dinnerbone was killed
+[29Jul2025 01:41:02.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153218, l='ServerLevel[world]', x=1936.24, y=227.01, z=-7665.43] died: Dinnerbone was killed
+[29Jul2025 01:41:02.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153393, l='ServerLevel[world]', x=1935.85, y=227.01, z=-7663.24] died: Dinnerbone was killed
+[29Jul2025 01:41:02.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153448, l='ServerLevel[world]', x=1934.52, y=227.01, z=-7662.92] died: Dinnerbone was killed
+[29Jul2025 01:41:02.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153521, l='ServerLevel[world]', x=1906.62, y=217.01, z=-7680.00] died: Dinnerbone was killed
+[29Jul2025 01:41:02.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153525, l='ServerLevel[world]', x=1918.50, y=227.01, z=-7645.99] died: Dinnerbone was killed
+[29Jul2025 01:41:02.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153526, l='ServerLevel[world]', x=1920.03, y=227.01, z=-7645.40] died: Dinnerbone was killed
+[29Jul2025 01:41:02.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153602, l='ServerLevel[world]', x=1909.94, y=219.01, z=-7661.35] died: Dinnerbone was killed
+[29Jul2025 01:41:02.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153776, l='ServerLevel[world]', x=1909.64, y=235.01, z=-7661.40] died: Dinnerbone was killed
+[29Jul2025 01:41:02.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153781, l='ServerLevel[world]', x=1919.44, y=227.01, z=-7647.66] died: Dinnerbone was killed
+[29Jul2025 01:41:02.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153873, l='ServerLevel[world]', x=1924.07, y=227.01, z=-7646.32] died: Dinnerbone was killed
+[29Jul2025 01:41:02.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153874, l='ServerLevel[world]', x=1919.32, y=227.01, z=-7645.41] died: Dinnerbone was killed
+[29Jul2025 01:41:02.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/153907, l='ServerLevel[world]', x=1922.86, y=227.01, z=-7645.57] died: Dinnerbone was killed
+[29Jul2025 01:41:02.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Killed 355 entities]
+[29Jul2025 01:41:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1900.500000, 205.500000, -7634.500000]
+[29Jul2025 01:41:27.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[29Jul2025 01:41:37.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[29Jul2025 01:41:51.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[29Jul2025 01:42:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[29Jul2025 01:42:53.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:38273] logged in with entity id 155163 at (1911.4215468215364, 218.13863220884826, -7653.634886972188)
+[29Jul2025 01:42:53.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:43:23.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:43:23.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:44:44.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:49619] logged in with entity id 155344 at (1911.4215468215364, 218.13863220884826, -7653.634886972188)
+[29Jul2025 01:44:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:44:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:44:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[29Jul2025 01:45:14.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:45:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:45:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[29Jul2025 01:46:20.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6762c470[id=<null>,name=mafe17_,properties={},legacy=false] (/127.187.54.197:44711) lost connection: Disconnected
+[29Jul2025 01:46:22.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[29Jul2025 01:46:30.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:59791] logged in with entity id 155568 at (1911.4215468215364, 218.13863220884826, -7653.634886972188)
+[29Jul2025 01:46:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:46:38.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:47:04.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ did not like the sun
+[29Jul2025 01:47:04.587] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-01.47.04.dat
+[29Jul2025 01:47:04.592] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 01:47:04.593] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 01:47:10.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[29Jul2025 01:47:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 2119.500000, 188.500000, -7772.500000]
+[29Jul2025 01:47:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:47:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ did not like the sun
+[29Jul2025 01:47:56.661] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 01:47:56.662] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 01:48:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 2459.500000, 177.500000, -7796.500000]
+[29Jul2025 01:48:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2473.500000, 151.500000, -7536.500000]
+[29Jul2025 01:48:32.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2489.500000, 136.500000, -7477.500000]
+[29Jul2025 01:48:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2534.500000, 104.500000, -7396.500000]
+[29Jul2025 01:48:51.492] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[29Jul2025 01:48:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2540.500000, 89.500000, -7324.500000]
+[29Jul2025 01:49:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2576.500000, 111.500000, -7221.500000]
+[29Jul2025 01:50:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:51:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[29Jul2025 01:53:18.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:55:04.786] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[29Jul2025 01:56:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming fell from a high place
+[29Jul2025 01:56:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2764.500000, 94.500000, -7112.500000]
+[29Jul2025 01:56:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2767.500000, 100.500000, -7038.500000]
+[29Jul2025 01:56:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2908.500000, 75.500000, -7029.500000]
+[29Jul2025 01:56:55.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 2985.500000, 63.500000, -6951.500000]
+[29Jul2025 01:57:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3024.500000, 83.500000, -6949.500000]
+[29Jul2025 01:57:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3110.500000, 111.500000, -6942.500000]
+[29Jul2025 01:57:16.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:57:20.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3141.500000, 99.500000, -6992.500000]
+[29Jul2025 01:57:32.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:57:32.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:57:38.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3271.500000, 89.500000, -6986.500000]
+[29Jul2025 01:57:44.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:57799] logged in with entity id 162114 at (3110.5, 111.0, -6942.5)
+[29Jul2025 01:57:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:57:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3388.500000, 64.500000, -7001.500000]
+[29Jul2025 01:58:15.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:58:15.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:58:15.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ died
+[29Jul2025 01:58:15.018] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-01.58.15.dat
+[29Jul2025 01:58:38.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:43687] logged in with entity id 163088 at (3110.5, 111.0, -6942.5)
+[29Jul2025 01:58:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:58:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 3110.500000, 111.500000, -6942.500000]
+[29Jul2025 01:59:07.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 3110.500000, 111.500000, -6942.500000]
+[29Jul2025 01:59:08.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:59:08.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:59:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3727.500000, 63.500000, -7064.500000]
+[29Jul2025 01:59:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 3767.500000, 65.500000, -7161.500000]
+[29Jul2025 01:59:28.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:46345] logged in with entity id 163878 at (3110.5, 111.5, -6942.5)
+[29Jul2025 01:59:28.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 01:59:51.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:59:58.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 01:59:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 01:59:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ died
+[29Jul2025 02:00:48.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:49479] logged in with entity id 164495 at (3110.5, 111.5, -6942.5)
+[29Jul2025 02:00:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 02:01:18.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 02:01:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 02:01:28.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:43103] logged in with entity id 164552 at (3110.5, 111.5, -6942.5)
+[29Jul2025 02:01:28.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 02:01:28.990] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['mafe17_'/164552, l='ServerLevel[world]', x=3110.50, y=111.50, z=-6942.50, removed=KILLED]
+[29Jul2025 02:01:50.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 3110.500000, 111.500000, -6942.500000]
+[29Jul2025 02:01:58.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 02:01:58.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 02:02:20.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 396.500000, 99.500000, -3432.500000]
+[29Jul2025 02:02:56.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jul2025 02:02:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jul2025 02:02:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jul2025 02:02:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jul2025 02:02:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jul2025 02:02:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jul2025 02:02:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dungeon_realm:dungeon
+[29Jul2025 02:02:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[29Jul2025 02:02:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jul2025 02:02:59.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_harvest:harvest
+[29Jul2025 02:02:59.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jul2025 02:02:59.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jul2025 02:02:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[29Jul2025 02:02:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[29Jul2025 02:02:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jul2025 02:02:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (harvest): All chunks are saved
+[29Jul2025 02:02:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jul2025 02:03:00.356] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Jul2025 02:03:00.357] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Jul2025 02:03:00.361] [Server thread/INFO] [Framework/]: Finished unloading server configs

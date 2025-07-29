@@ -32,13 +32,16 @@
       "floodplain": "2025-07-28 23:00:47 +0000",
       "highland": "2025-07-28 23:38:25 +0000",
       "jacaranda_glade": "2025-07-29 00:58:18 +0000",
+      "jade_cliffs": "2025-07-29 01:46:54 +0000",
       "mystic_grove": "2025-07-28 23:01:03 +0000",
       "old_growth_woodland": "2025-07-28 23:09:30 +0000",
       "maple_woods": "2025-07-28 23:39:01 +0000",
       "field": "2025-07-27 21:26:16 +0000",
       "orchard": "2025-07-27 21:37:36 +0000",
       "overgrown_greens": "2025-07-27 21:24:42 +0000",
+      "mediterranean_forest": "2025-07-29 01:47:27 +0000",
       "spider_nest": "2025-07-28 21:18:13 +0000",
+      "wasteland": "2025-07-29 01:57:53 +0000",
       "lush_desert": "2025-07-27 21:56:13 +0000",
       "redwood_forest": "2025-07-28 23:08:03 +0000",
       "volcano": "2025-07-28 20:22:32 +0000",
@@ -62,6 +65,7 @@
       "minecraft:cherry_grove": "2025-07-27 22:05:05 +0000",
       "minecraft:sunflower_plains": "2025-07-27 22:04:37 +0000",
       "minecraft:birch_forest": "2025-07-28 00:23:10 +0000",
+      "minecraft:wooded_badlands": "2025-07-29 01:58:37 +0000",
       "minecraft:badlands": "2025-07-27 21:55:11 +0000",
       "minecraft:savanna_plateau": "2025-07-28 15:39:01 +0000",
       "minecraft:beach": "2025-07-27 21:25:00 +0000",
@@ -9759,6 +9763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 01:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-28 21:57:50 +0000"
@@ -10780,6 +10790,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-07-29 02:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
@@ -10840,9 +10856,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-07-29 01:50:39 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-07-28 19:57:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 01:36:59 +0000"
     },
     "done": true
   },
@@ -11386,6 +11414,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 01:36:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
@@ -11926,6 +11960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-29 01:43:42 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
@@ -11947,6 +11987,12 @@
   "pfm:recipes/furniture/andesite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-07-29 01:50:39 +0000"
     },
     "done": true
   },
@@ -12013,6 +12059,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-29 01:36:59 +0000"
     },
     "done": true
   },
@@ -12235,6 +12287,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-07-29 01:36:04 +0000"
     },
     "done": true
   },
