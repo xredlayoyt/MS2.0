@@ -28,6 +28,7 @@
       "woodland": "2025-07-28 20:21:43 +0000",
       "shrubland": "2025-07-27 21:40:57 +0000",
       "rocky_shrubland": "2025-07-27 21:26:40 +0000",
+      "scrubland": "2025-07-29 23:25:10 +0000",
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
       "floodplain": "2025-07-28 23:00:47 +0000",
       "highland": "2025-07-28 23:38:25 +0000",
@@ -54,6 +55,7 @@
       "grassland": "2025-07-27 21:40:13 +0000",
       "prairie": "2025-07-29 01:00:07 +0000",
       "glowing_grotto": "2025-07-28 20:28:13 +0000",
+      "gravel_beach": "2025-07-29 23:47:19 +0000",
       "rainforest": "2025-07-28 20:22:31 +0000",
       "ominous_woods": "2025-07-29 00:23:05 +0000"
     },
@@ -12617,45 +12619,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_wildflower": "2025-07-29 22:55:03 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-07-29 21:53:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-07-29 22:15:11 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-07-29 21:49:27 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-07-29 22:55:15 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-07-29 21:39:12 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
-    "criteria": {
-      "has_heart_striker": "2025-07-29 22:15:19 +0000"
     },
     "done": true
   },
@@ -12665,15 +12631,69 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "ghostly_pickaxe": "2025-07-29 22:13:00 +0000"
+      "location0": "2025-07-29 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-29 21:53:22 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-07-29 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-07-29 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-29 22:15:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-07-29 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-07-29 22:55:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-29 22:55:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-07-29 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-07-29 23:21:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-07-29 23:36:14 +0000"
     },
     "done": true
   },

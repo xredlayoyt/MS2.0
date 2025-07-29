@@ -29,6 +29,7 @@
       "rocky_shrubland": "2025-07-27 21:28:45 +0000",
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
       "floodplain": "2025-07-28 23:00:54 +0000",
+      "highland": "2025-07-29 23:14:40 +0000",
       "jacaranda_glade": "2025-07-29 00:59:07 +0000",
       "jade_cliffs": "2025-07-29 01:49:04 +0000",
       "mystic_grove": "2025-07-28 23:01:12 +0000",
@@ -8276,9 +8277,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-07-29 23:40:07 +0000",
       "main": "2025-07-28 19:36:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/yuck": {
     "criteria": {
@@ -11324,6 +11326,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/basalt_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-29 23:51:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_tile_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
@@ -11333,6 +11341,12 @@
   "pfm:recipes/furniture/quartz_coffee_table_modern": {
     "criteria": {
       "quartz_coffee_table_modern": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-07-29 23:33:15 +0000"
     },
     "done": true
   },
@@ -11363,6 +11377,12 @@
   "pfm:recipes/furniture/light_wood_coffee_table_modern": {
     "criteria": {
       "light_wood_coffee_table_modern": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 23:51:53 +0000"
     },
     "done": true
   },
@@ -11612,6 +11632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-29 23:51:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_chair": {
     "criteria": {
       "dark_wood_chair": "2025-07-29 21:59:57 +0000"
@@ -11624,15 +11650,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-07-29 23:51:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_chair_dinner": {
     "criteria": {
       "quartz_chair_dinner": "2025-07-29 21:59:57 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/basalt_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-29 23:51:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_chair": {
     "criteria": {
       "light_wood_chair": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-29 23:33:15 +0000"
     },
     "done": true
   },
@@ -11660,9 +11704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-29 23:51:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_classic_nightstand": {
     "criteria": {
       "light_wood_classic_nightstand": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-29 23:33:15 +0000"
     },
     "done": true
   },
@@ -11738,6 +11794,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_normal_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-07-29 23:33:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 23:51:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-07-29 22:03:14 +0000"
@@ -11753,6 +11821,12 @@
   "pfm:recipes/furniture/dark_wood_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-29 23:51:53 +0000"
     },
     "done": true
   },
