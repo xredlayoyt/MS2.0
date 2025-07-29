@@ -29,6 +29,7 @@
       "rocky_shrubland": "2025-07-27 21:28:45 +0000",
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
       "floodplain": "2025-07-28 23:00:54 +0000",
+      "jacaranda_glade": "2025-07-29 00:59:07 +0000",
       "mystic_grove": "2025-07-28 23:01:12 +0000",
       "old_growth_woodland": "2025-07-28 20:21:56 +0000",
       "maple_woods": "2025-07-28 23:39:08 +0000",
@@ -1510,6 +1511,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 19:36:16 +0000",
       "minecraft:skeleton": "2025-07-27 23:20:13 +0000",
+      "minecraft:hoglin": "2025-07-29 01:04:13 +0000",
       "minecraft:spider": "2025-07-27 21:37:56 +0000",
       "minecraft:creeper": "2025-07-28 02:57:52 +0000",
       "minecraft:wither_skeleton": "2025-07-28 23:14:27 +0000",
@@ -1583,6 +1585,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-28 20:47:55 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-29 01:03:39 +0000",
       "minecraft:taiga": "2025-07-29 00:07:03 +0000",
       "minecraft:cherry_grove": "2025-07-27 22:05:11 +0000",
       "minecraft:sunflower_plains": "2025-07-27 22:04:38 +0000",
@@ -1590,6 +1593,7 @@
       "minecraft:badlands": "2025-07-27 21:55:10 +0000",
       "minecraft:savanna_plateau": "2025-07-28 20:10:00 +0000",
       "minecraft:beach": "2025-07-27 21:57:58 +0000",
+      "minecraft:dark_forest": "2025-07-29 01:02:12 +0000",
       "minecraft:sparse_jungle": "2025-07-27 21:48:33 +0000",
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:57 +0000",
       "minecraft:river": "2025-07-27 21:40:55 +0000",
@@ -10599,6 +10603,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
@@ -10608,6 +10618,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2025-07-29 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-29 01:05:23 +0000"
     },
     "done": true
   },
@@ -10683,6 +10699,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 00:59:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_table_classic": {
     "criteria": {
       "dark_stone_vampirism_table_classic": "2025-07-29 00:19:10 +0000"
@@ -10707,9 +10729,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-29 00:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-29 00:59:36 +0000"
     },
     "done": true
   },
@@ -10749,6 +10783,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:59:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-07-29 00:24:04 +0000"
@@ -10782,6 +10822,12 @@
   "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-29 01:09:09 +0000"
     },
     "done": true
   },
@@ -10833,6 +10879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-29 01:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-29 00:24:04 +0000"
@@ -10848,6 +10900,12 @@
   "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:59:36 +0000"
     },
     "done": true
   },
@@ -10893,9 +10951,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-29 01:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-07-29 01:03:38 +0000"
     },
     "done": true
   },
@@ -10989,6 +11059,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-29 00:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-07-29 00:34:30 +0000"
@@ -11010,6 +11086,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_chair_modern": {
     "criteria": {
       "dark_stone_vampirism_chair_modern": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-29 01:09:09 +0000"
     },
     "done": true
   },
@@ -11082,6 +11164,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:59:36 +0000"
     },
     "done": true
   },

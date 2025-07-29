@@ -31,6 +31,7 @@
       "fungal_jungle": "2025-07-28 22:59:55 +0000",
       "floodplain": "2025-07-28 23:00:47 +0000",
       "highland": "2025-07-28 23:38:25 +0000",
+      "jacaranda_glade": "2025-07-29 00:58:18 +0000",
       "mystic_grove": "2025-07-28 23:01:03 +0000",
       "old_growth_woodland": "2025-07-28 23:09:30 +0000",
       "maple_woods": "2025-07-28 23:39:01 +0000",
@@ -43,8 +44,10 @@
       "volcano": "2025-07-28 20:22:32 +0000",
       "rocky_rainforest": "2025-07-28 20:24:43 +0000",
       "volcanic_plains": "2025-07-28 20:24:57 +0000",
+      "lavender_field": "2025-07-29 00:56:21 +0000",
       "pumpkin_patch": "2025-07-27 21:37:01 +0000",
       "grassland": "2025-07-27 21:40:13 +0000",
+      "prairie": "2025-07-29 01:00:07 +0000",
       "glowing_grotto": "2025-07-28 20:28:13 +0000",
       "rainforest": "2025-07-28 20:22:31 +0000",
       "ominous_woods": "2025-07-29 00:23:05 +0000"
@@ -53,6 +56,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-29 01:00:56 +0000",
       "minecraft:taiga": "2025-07-29 00:06:33 +0000",
       "minecraft:cherry_grove": "2025-07-27 22:05:05 +0000",
       "minecraft:sunflower_plains": "2025-07-27 22:04:37 +0000",
@@ -61,6 +65,7 @@
       "minecraft:savanna_plateau": "2025-07-28 15:39:01 +0000",
       "minecraft:beach": "2025-07-27 21:25:00 +0000",
       "minecraft:stony_peaks": "2025-07-28 15:39:04 +0000",
+      "minecraft:dark_forest": "2025-07-29 01:02:10 +0000",
       "minecraft:sparse_jungle": "2025-07-27 21:47:28 +0000",
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:58 +0000",
       "minecraft:river": "2025-07-27 21:26:13 +0000",
@@ -1937,6 +1942,7 @@
       "minecraft:hoglin": "2025-07-28 23:14:38 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
       "minecraft:creeper": "2025-07-28 02:43:19 +0000",
+      "minecraft:phantom": "2025-07-29 01:04:25 +0000",
       "minecraft:witch": "2025-07-28 21:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 21:06:34 +0000",
       "minecraft:husk": "2025-07-28 23:10:28 +0000",
@@ -3176,6 +3182,7 @@
       "bread": "2025-07-27 23:09:54 +0000",
       "golden_apple": "2025-07-28 22:30:53 +0000",
       "golden_carrot": "2025-07-28 23:18:33 +0000",
+      "enchanted_golden_apple": "2025-07-29 01:08:40 +0000",
       "carrot": "2025-07-28 19:47:32 +0000"
     },
     "done": false
@@ -9706,6 +9713,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-28 23:02:19 +0000"
@@ -9751,6 +9764,12 @@
   "pfm:recipes/furniture/quartz_coffee_table_modern": {
     "criteria": {
       "quartz_coffee_table_modern": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -9820,6 +9839,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-28 20:09:49 +0000"
@@ -9883,6 +9908,18 @@
   "pfm:recipes/furniture/andesite_coffee_table_classic": {
     "criteria": {
       "andesite_coffee_table_classic": "2025-07-28 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -10090,6 +10127,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
     "criteria": {
       "has_skill": "2025-07-28 22:16:40 +0000"
@@ -10234,6 +10283,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-29 01:03:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_table_dinner": {
     "criteria": {
       "dark_stone_vampirism_table_dinner": "2025-07-28 19:27:36 +0000"
@@ -10327,6 +10382,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-28 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -10436,6 +10497,12 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-07-28 22:55:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -10607,6 +10674,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 21:24:17 +0000"
@@ -10715,6 +10788,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-29 00:05:19 +0000"
@@ -10766,6 +10845,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -10841,6 +10926,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -10853,9 +10944,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-29 01:03:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_table_classic": {
     "criteria": {
       "light_wood_table_classic": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11039,9 +11142,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-29 01:03:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_pure_blood": "2025-07-28 22:35:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11072,6 +11187,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-07-29 00:41:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11171,6 +11292,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
@@ -11204,6 +11331,12 @@
   "pfm:recipes/furniture/acacia_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11333,6 +11466,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-07-29 01:03:55 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-28 19:41:35 +0000"
@@ -11405,6 +11544,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_log": {
+    "criteria": {
+      "has_log": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-28 23:21:06 +0000"
@@ -11432,6 +11577,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-28 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11705,9 +11856,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -11849,6 +12012,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-29 00:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-07-29 00:29:40 +0000"
@@ -11882,6 +12051,12 @@
   "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-29 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -12032,6 +12207,12 @@
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },
@@ -12242,6 +12423,12 @@
   "pfm:recipes/furniture/quartz_table_dinner": {
     "criteria": {
       "quartz_table_dinner": "2025-07-28 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:57:47 +0000"
     },
     "done": true
   },

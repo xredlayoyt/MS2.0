@@ -506,3 +506,41 @@ java.lang.Throwable: null
 [29Jul2025 00:55:02.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
 [29Jul2025 00:55:02.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [29Jul2025 00:55:02.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[29Jul2025 00:58:00.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 983.500000, 116.500000, -5156.500000]
+[29Jul2025 00:58:08.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 925.500000, 67.500000, -5210.500000]
+[29Jul2025 00:58:12.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 932.500000, 66.500000, -5277.500000]
+[29Jul2025 00:58:18.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 828.500000, 80.500000, -5198.500000]
+[29Jul2025 00:58:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 778.500000, 84.500000, -5219.500000]
+[29Jul2025 00:58:29.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 712.500000, 90.500000, -5234.500000]
+[29Jul2025 00:58:33.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 640.500000, 100.500000, -5266.500000]
+[29Jul2025 00:58:44.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 836.500000, 89.500000, -5145.500000]
+[29Jul2025 00:58:48.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 933.500000, 63.500000, -5025.500000]
+[29Jul2025 00:59:52.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 571.500000, 108.500000, -5334.500000]
+[29Jul2025 01:00:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 472.500000, 82.500000, -5246.500000]
+[29Jul2025 01:00:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 652.500000, 114.500000, -5436.500000]
+[29Jul2025 01:00:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 719.500000, 74.500000, -5525.500000]
+[29Jul2025 01:00:45.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 752.500000, 73.500000, -5562.500000]
+[29Jul2025 01:00:47.393] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[29Jul2025 01:00:47.393] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[29Jul2025 01:00:47.394] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[29Jul2025 01:00:47.394] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[29Jul2025 01:00:47.981] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[29Jul2025 01:00:55.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 831.500000, 95.500000, -5643.500000]
+[29Jul2025 01:01:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:03:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[29Jul2025 01:03:38.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Ghost Riders In The Sky]
+[29Jul2025 01:03:54.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 01:03:55.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Ghost Riders In The Sky]
+[29Jul2025 01:04:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was doomed to fall
+[29Jul2025 01:04:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 996.500000, 208.500000, -5574.500000]
+[29Jul2025 01:04:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Wither Skeleton scorched mafe17_, they gave up
+[29Jul2025 01:04:25.517] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-01.04.25.dat
+[29Jul2025 01:04:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 975.500000, 226.500000, -5572.500000]
+[29Jul2025 01:05:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was burnt to a crisp whilst fighting Wither Skeleton
+[29Jul2025 01:05:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 985.500000, 222.500000, -5582.500000]
+[29Jul2025 01:07:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire
+[29Jul2025 01:07:15.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 971.500000, 212.500000, -5602.500000]
+[29Jul2025 01:07:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was shot by Skeleton
+[29Jul2025 01:07:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 975.500000, 211.500000, -5583.500000]
+[29Jul2025 01:08:28.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[29Jul2025 01:09:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Spooky Scary Skeleton]
