@@ -39,6 +39,7 @@
       "overgrown_greens": "2025-07-27 21:40:01 +0000",
       "mediterranean_forest": "2025-07-29 01:47:51 +0000",
       "spider_nest": "2025-07-28 21:18:19 +0000",
+      "forested_field": "2025-07-29 22:22:01 +0000",
       "lush_desert": "2025-07-27 21:56:29 +0000",
       "redwood_forest": "2025-07-28 23:08:08 +0000",
       "seasonal_forest": "2025-07-29 21:45:48 +0000",
@@ -11478,6 +11479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-07-29 22:17:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
@@ -11580,6 +11587,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-07-29 22:16:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
@@ -11637,6 +11650,12 @@
   "pfm:recipes/furniture/light_wood_table_natural": {
     "criteria": {
       "light_wood_table_natural": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-07-29 22:17:43 +0000"
     },
     "done": true
   },

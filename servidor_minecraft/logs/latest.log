@@ -404,3 +404,19 @@ java.lang.Throwable: null
 [29Jul2025 22:11:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3448.500000, -1.500000, -432.500000]
 [29Jul2025 22:11:47.868] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
 [29Jul2025 22:11:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:12:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Life turned out to be a comedy]
+[29Jul2025 22:13:00.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Ghost! Ghost! Toast?]
+[29Jul2025 22:14:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ fell from a high place, they gave up
+[29Jul2025 22:14:29.168] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-22.14.29.dat
+[29Jul2025 22:14:45.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3413.500000, -42.500000, -443.500000]
+[29Jul2025 22:15:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:21:19.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:21:38.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:22:15.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3428.500000, 33.500000, -339.500000]
+[29Jul2025 22:22:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:24:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3516.500000, 15.500000, -285.500000]
+[29Jul2025 22:25:46.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:28:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3628.500000, 20.500000, -276.500000]
+[29Jul2025 22:28:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3362.500000, 0.500000, -499.500000]
+[29Jul2025 22:29:18.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:31:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]

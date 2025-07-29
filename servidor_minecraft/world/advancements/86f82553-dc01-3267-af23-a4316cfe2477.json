@@ -41,6 +41,7 @@
       "overgrown_greens": "2025-07-27 21:24:42 +0000",
       "mediterranean_forest": "2025-07-29 01:47:27 +0000",
       "spider_nest": "2025-07-28 21:18:13 +0000",
+      "forested_field": "2025-07-29 22:29:29 +0000",
       "wasteland": "2025-07-29 01:57:53 +0000",
       "lush_desert": "2025-07-27 21:56:13 +0000",
       "redwood_forest": "2025-07-28 23:08:03 +0000",
@@ -12622,6 +12623,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-29 22:15:11 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-29 21:49:27 +0000"
@@ -12634,9 +12641,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-07-29 22:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-07-29 21:39:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-07-29 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-29 22:12:55 +0000"
     },
     "done": true
   },
