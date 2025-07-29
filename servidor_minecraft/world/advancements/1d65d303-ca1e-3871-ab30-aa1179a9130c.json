@@ -10581,6 +10581,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_basic": {
+    "criteria": {
+      "dark_stone_vampirism_coffee_table_basic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
@@ -10593,15 +10605,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_chair_classic": {
+    "criteria": {
+      "dark_stone_vampirism_chair_classic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10617,15 +10647,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-29 00:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-29 00:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_table_classic": {
+    "criteria": {
+      "dark_stone_vampirism_table_classic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_table_dinner": {
+    "criteria": {
+      "dark_stone_vampirism_table_dinner": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10647,9 +10707,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2025-07-29 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-29 00:20:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-07-29 00:23:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_chair": {
+    "criteria": {
+      "dark_stone_vampirism_chair": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10665,9 +10761,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/polished_dark_stone_wall": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_chair_dinner": {
+    "criteria": {
+      "dark_stone_vampirism_chair_dinner": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_classic": {
+    "criteria": {
+      "dark_stone_vampirism_coffee_table_classic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_table_basic": {
+    "criteria": {
+      "dark_stone_vampirism_table_basic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_modern": {
+    "criteria": {
+      "dark_stone_vampirism_coffee_table_modern": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10677,9 +10863,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-07-29 00:24:05 +0000"
     },
     "done": true
   },
@@ -10695,9 +10899,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_classic_nightstand": {
+    "criteria": {
+      "dark_stone_vampirism_classic_nightstand": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-29 00:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-29 00:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10707,15 +10941,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_chair_modern": {
+    "criteria": {
+      "dark_stone_vampirism_chair_modern": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_stone_vampirism_table_modern_dinner": {
+    "criteria": {
+      "dark_stone_vampirism_table_modern_dinner": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_table_natural": {
+    "criteria": {
+      "dark_stone_vampirism_table_natural": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },
@@ -10728,6 +10992,12 @@
   "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_stone_vampirism_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-29 00:19:10 +0000"
     },
     "done": true
   },

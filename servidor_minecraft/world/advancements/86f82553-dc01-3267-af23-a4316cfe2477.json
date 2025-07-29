@@ -46,7 +46,8 @@
       "pumpkin_patch": "2025-07-27 21:37:01 +0000",
       "grassland": "2025-07-27 21:40:13 +0000",
       "glowing_grotto": "2025-07-28 20:28:13 +0000",
-      "rainforest": "2025-07-28 20:22:31 +0000"
+      "rainforest": "2025-07-28 20:22:31 +0000",
+      "ominous_woods": "2025-07-29 00:23:05 +0000"
     },
     "done": false
   },
@@ -9518,6 +9519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-29 00:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 20:07:17 +0000"
@@ -9629,6 +9636,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-28 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-07-29 00:20:39 +0000"
     },
     "done": true
   },
@@ -10368,6 +10381,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-28 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-07-29 00:23:26 +0000"
     },
     "done": true
   },
@@ -11115,6 +11134,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-29 00:20:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-28 21:04:28 +0000"
@@ -11250,6 +11275,12 @@
   "vampirism:recipes/building_blocks/cursed_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-29 00:20:39 +0000"
     },
     "done": true
   },

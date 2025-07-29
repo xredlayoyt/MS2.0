@@ -427,3 +427,39 @@ java.lang.Throwable: null
 [29Jul2025 00:14:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8766.500000, 91.500000, -2869.500000]
 [29Jul2025 00:15:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
 [29Jul2025 00:15:15.845] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[29Jul2025 00:15:38.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8892.500000, 63.500000, -2940.500000]
+[29Jul2025 00:15:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8714.500000, 77.500000, -2804.500000]
+[29Jul2025 00:15:46.207] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[29Jul2025 00:15:46.835] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[29Jul2025 00:16:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 00:16:41.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/110331, l='ServerLevel[world]', x=-8772.29, y=104.00, z=-2854.23] died: Vampire Baron Level 1 was slain by RakanCharming
+[29Jul2025 00:16:48.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8708.500000, 67.500000, -2806.500000]
+[29Jul2025 00:16:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:17:15.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[29Jul2025 00:18:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:21:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8639.500000, 64.500000, -2975.500000]
+[29Jul2025 00:21:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8535.500000, 81.500000, -2928.500000]
+[29Jul2025 00:21:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8484.500000, 85.500000, -2907.500000]
+[29Jul2025 00:22:10.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:23:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8527.500000, 221.500000, -2963.500000]
+[29Jul2025 00:23:20.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:23:24.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Welcome To The Machine]
+[29Jul2025 00:23:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Welcome To The Machine]
+[29Jul2025 00:24:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 00:24:20.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116026, l='ServerLevel[world]', x=-8560.18, y=207.00, z=-2911.40] died: Gearling was struck by lightning
+[29Jul2025 00:24:27.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116030, l='ServerLevel[world]', x=-8566.49, y=207.00, z=-2911.89] died: Gearling was slain by mafe17_
+[29Jul2025 00:24:28.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116031, l='ServerLevel[world]', x=-8566.21, y=207.00, z=-2911.09] died: Gearling was slain by mafe17_
+[29Jul2025 00:24:31.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116112, l='ServerLevel[world]', x=-8565.99, y=207.00, z=-2911.60] died: Gearling was slain by mafe17_
+[29Jul2025 00:24:32.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116122, l='ServerLevel[world]', x=-8566.51, y=207.00, z=-2911.37] died: Gearling was slain by mafe17_
+[29Jul2025 00:24:32.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/116126, l='ServerLevel[world]', x=-8566.24, y=207.00, z=-2911.97] died: Gearling was slain by mafe17_
+[29Jul2025 00:24:43.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was struck by lightning, they gave up
+[29Jul2025 00:24:43.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-00.24.43.dat
+[29Jul2025 00:24:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was struck by lightning
+[29Jul2025 00:24:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[29Jul2025 00:24:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -8558.500000, 207.500000, -2911.500000]
+[29Jul2025 00:24:57.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8557.500000, 207.500000, -2909.500000]
+[29Jul2025 00:25:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was struck by lightning, they gave up
+[29Jul2025 00:25:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -8559.500000, 207.500000, -2910.500000]
+[29Jul2025 00:25:23.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was struck by lightning, they gave up
+[29Jul2025 00:25:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set mafe17_'s game mode to Creative Mode]
+[29Jul2025 00:25:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -8559.500000, 206.500000, -2910.500000]
