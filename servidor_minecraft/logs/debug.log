@@ -14410,3 +14410,14 @@ java.lang.Throwable: null
 [28Jul2025 23:55:00.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.30.163.207:48263] logged in with entity id 103823 at (-4163.5124543244665, 71.0, -2369.699999988079)
 [28Jul2025 23:55:00.067] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2dfbe50c into net.minecraft.network.Connection@2566d36c
 [28Jul2025 23:55:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[28Jul2025 23:55:09.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 23:55:09.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 23:58:18.830] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/98331, l='ServerLevel[world]', x=-4160.72, y=66.00, z=-2371.01] died, message: 'Angry Villager was slain by Vampire'
+[28Jul2025 23:59:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Vampire
+[28Jul2025 23:59:52.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 4
+[28Jul2025 23:59:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4155.500000, 66.500000, -2365.500000]
+[29Jul2025 00:00:09.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 00:00:09.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 00:05:09.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 00:05:09.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 00:05:16.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Pic-A-Nic Basket?]
