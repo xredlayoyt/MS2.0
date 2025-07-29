@@ -1519,6 +1519,7 @@
       "minecraft:spider": "2025-07-27 21:37:56 +0000",
       "minecraft:creeper": "2025-07-28 02:57:52 +0000",
       "minecraft:wither_skeleton": "2025-07-28 23:14:27 +0000",
+      "minecraft:husk": "2025-07-29 22:52:23 +0000",
       "minecraft:cave_spider": "2025-07-29 01:32:52 +0000",
       "minecraft:enderman": "2025-07-28 03:22:50 +0000",
       "minecraft:stray": "2025-07-28 21:07:05 +0000",
@@ -11389,6 +11390,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-29 22:45:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-29 21:59:57 +0000"
@@ -11476,6 +11483,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-29 22:51:55 +0000"
     },
     "done": true
   },
@@ -11632,6 +11645,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-07-29 21:59:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-29 22:59:33 +0000"
     },
     "done": true
   },

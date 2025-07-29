@@ -433,3 +433,55 @@ java.lang.Throwable: null
 [29Jul2025 22:39:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3440.500000, -42.500000, -433.500000]
 [29Jul2025 22:39:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Deceived Hopes]
 [29Jul2025 22:39:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:43:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:44:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3334.500000, 47.500000, -808.500000]
+[29Jul2025 22:44:22.947] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[29Jul2025 22:44:22.947] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[29Jul2025 22:44:22.948] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[29Jul2025 22:44:22.948] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[29Jul2025 22:44:22.948] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[29Jul2025 22:44:23.167] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[29Jul2025 22:44:23.168] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[29Jul2025 22:44:24.298] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[29Jul2025 22:44:24.298] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[29Jul2025 22:44:24.440] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[29Jul2025 22:45:10.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Chest Slayer]
+[29Jul2025 22:45:37.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:50:57.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3613.500000, 63.500000, -945.500000]
+[29Jul2025 22:51:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3368.500000, 64.500000, -376.500000]
+[29Jul2025 22:51:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 22:51:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[29Jul2025 22:51:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 3]
+[29Jul2025 22:51:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[29Jul2025 22:55:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has reached the goal [Exorcism]
+[29Jul2025 22:56:49.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Husk, they gave up
+[29Jul2025 22:56:49.375] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-22.56.49.dat
+[29Jul2025 22:56:57.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3321.500000, 96.500000, -401.500000]
+[29Jul2025 22:57:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Husk, they gave up
+[29Jul2025 22:57:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3321.500000, 96.500000, -405.500000]
+[29Jul2025 22:57:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Husk, they gave up
+[29Jul2025 22:57:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:57:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3321.500000, 96.500000, -402.500000]
+[29Jul2025 22:57:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:59:27.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[29Jul2025 22:59:33.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [The Wind Darkening]
+[29Jul2025 23:00:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3306.500000, 56.500000, -550.500000]
+[29Jul2025 23:00:09.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -2908.500000, 66.500000, -543.500000]
+[29Jul2025 23:00:18.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -2800.500000, 67.500000, -583.500000]
+[29Jul2025 23:00:26.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -2752.500000, 75.500000, -500.500000]
+[29Jul2025 23:00:27.066] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[29Jul2025 23:00:27.066] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[29Jul2025 23:00:27.089] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[29Jul2025 23:00:27.089] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[29Jul2025 23:00:27.089] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[29Jul2025 23:00:27.089] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[29Jul2025 23:00:27.090] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[29Jul2025 23:00:27.097] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[29Jul2025 23:00:27.098] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[29Jul2025 23:00:27.098] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[29Jul2025 23:00:28.556] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[29Jul2025 23:00:28.556] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[29Jul2025 23:00:28.707] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[29Jul2025 23:00:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -2731.500000, 67.500000, -442.500000]
+[29Jul2025 23:01:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -2784.500000, 71.500000, -298.500000]
+[29Jul2025 23:02:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
