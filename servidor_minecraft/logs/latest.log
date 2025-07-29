@@ -285,3 +285,122 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 21:38:47.261] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [29Jul2025 21:39:17.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:44497] logged in with entity id 7416 at (-3875.126779543021, 64.77060898011881, -1218.6758479391046)
 [29Jul2025 21:39:18.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 21:42:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
+[29Jul2025 21:43:02.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/8704, l='ServerLevel[world]', x=-4043.34, y=95.00, z=-1045.71] died: Vampire Baron Level 2 was slain by RakanCharming
+[29Jul2025 21:44:34.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/9545, l='ServerLevel[world]', x=-4137.90, y=92.83, z=-1018.90] died: Vampire Baron Level 2 was slain by mafe17_
+[29Jul2025 21:46:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Hippie Smell]
+[29Jul2025 21:47:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3765.500000, 87.500000, -534.500000]
+[29Jul2025 21:48:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3650.500000, 67.500000, -443.500000]
+[29Jul2025 21:48:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 21:48:54.511] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[29Jul2025 21:48:56.472] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[29Jul2025 21:48:56.473] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[29Jul2025 21:49:10.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ did not like the sun
+[29Jul2025 21:49:10.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_29.07.2025-21.49.10.dat
+[29Jul2025 21:49:10.182] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 21:49:10.184] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 21:49:10.186] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 21:49:10.187] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.13.jar%23173!/:1.20.1-1.10.13]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[29Jul2025 21:49:25.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to -3458.500000, 63.500000, -362.500000]
+[29Jul2025 21:51:47.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ moved too quickly! -9.799183847672339,0.0,-2.159411019604704
+[29Jul2025 21:52:19.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 21:52:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 21:52:38.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:40745] logged in with entity id 15109 at (-3532.190958985477, 33.0, -317.91232709254564)
+[29Jul2025 21:52:38.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 21:53:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Chest Slayer]
+[29Jul2025 21:53:54.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 21:53:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 21:53:55.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:56777] logged in with entity id 15350 at (-3490.472365027389, 33.0, -337.5074767287769)
+[29Jul2025 21:53:55.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 21:54:59.634] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 55
+[29Jul2025 21:55:10.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mafe17_ lost connection: Timed out
+[29Jul2025 21:55:10.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ left the game
+[29Jul2025 21:55:24.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mafe17_[/127.187.54.197:56489] logged in with entity id 15627 at (-3491.720736077889, 33.0, -319.04218162112386)
+[29Jul2025 21:55:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ joined the game
+[29Jul2025 22:11:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3448.500000, -1.500000, -432.500000]
+[29Jul2025 22:11:47.868] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[29Jul2025 22:11:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]

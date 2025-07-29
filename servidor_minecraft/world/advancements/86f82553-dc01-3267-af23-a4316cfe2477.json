@@ -44,6 +44,7 @@
       "wasteland": "2025-07-29 01:57:53 +0000",
       "lush_desert": "2025-07-27 21:56:13 +0000",
       "redwood_forest": "2025-07-28 23:08:03 +0000",
+      "seasonal_forest": "2025-07-29 21:45:53 +0000",
       "volcano": "2025-07-28 20:22:32 +0000",
       "rocky_rainforest": "2025-07-28 20:24:43 +0000",
       "volcanic_plains": "2025-07-28 20:24:57 +0000",
@@ -79,6 +80,7 @@
       "minecraft:swamp": "2025-07-29 01:18:35 +0000",
       "minecraft:jagged_peaks": "2025-07-29 01:28:38 +0000",
       "minecraft:forest": "2025-07-27 22:02:52 +0000",
+      "minecraft:lush_caves": "2025-07-29 21:57:12 +0000",
       "minecraft:desert": "2025-07-27 21:53:46 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
       "minecraft:ocean": "2025-07-27 22:02:16 +0000",
@@ -12611,6 +12613,30 @@
   "vampirism:recipes/combat/vampire/heart_seeker_normal_repair": {
     "criteria": {
       "has_heart_seeker": "2025-07-29 02:01:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-29 21:53:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-29 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-29 21:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-29 21:39:12 +0000"
     },
     "done": true
   },
