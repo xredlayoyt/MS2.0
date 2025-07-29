@@ -544,3 +544,26 @@ java.lang.Throwable: null
 [29Jul2025 01:07:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 975.500000, 211.500000, -5583.500000]
 [29Jul2025 01:08:28.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]
 [29Jul2025 01:09:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Spooky Scary Skeleton]
+[29Jul2025 01:18:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 862.500000, 78.500000, -5662.500000]
+[29Jul2025 01:18:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 850.500000, 72.500000, -5834.500000]
+[29Jul2025 01:18:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 962.500000, 67.500000, -5885.500000]
+[29Jul2025 01:18:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1059.500000, 80.500000, -5967.500000]
+[29Jul2025 01:18:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:18:49.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[29Jul2025 01:19:48.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[29Jul2025 01:23:40.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1498.500000, 89.500000, -6247.500000]
+[29Jul2025 01:23:47.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1569.500000, 64.500000, -6326.500000]
+[29Jul2025 01:23:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1594.500000, 75.500000, -6202.500000]
+[29Jul2025 01:24:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1574.500000, 68.500000, -6407.500000]
+[29Jul2025 01:24:31.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1603.500000, 69.500000, -6565.500000]
+[29Jul2025 01:24:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1587.500000, 71.500000, -6731.500000]
+[29Jul2025 01:25:20.125] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[29Jul2025 01:25:20.126] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[29Jul2025 01:25:20.126] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[29Jul2025 01:25:20.126] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[29Jul2025 01:25:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1469.500000, 95.500000, -6925.500000]
+[29Jul2025 01:25:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1570.500000, 102.500000, -7101.500000]
+[29Jul2025 01:26:14.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[29Jul2025 01:26:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1522.500000, 96.500000, -7317.500000]
+[29Jul2025 01:26:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1573.500000, 68.500000, -7446.500000]
+[29Jul2025 01:26:50.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 1]

@@ -1598,6 +1598,7 @@
       "minecraft:lukewarm_ocean": "2025-07-27 21:57:57 +0000",
       "minecraft:river": "2025-07-27 21:40:55 +0000",
       "minecraft:stony_shore": "2025-07-28 19:47:36 +0000",
+      "minecraft:swamp": "2025-07-29 01:18:45 +0000",
       "minecraft:forest": "2025-07-27 22:02:52 +0000",
       "minecraft:desert": "2025-07-27 21:53:55 +0000",
       "minecraft:jungle": "2025-07-27 22:01:45 +0000",
@@ -10675,6 +10676,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-29 00:20:34 +0000"
@@ -10705,6 +10712,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_table_classic": {
     "criteria": {
       "dark_stone_vampirism_table_classic": "2025-07-29 00:19:10 +0000"
@@ -10723,9 +10736,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-07-29 01:23:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
     },
     "done": true
   },
@@ -10861,6 +10886,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
@@ -10936,6 +10967,12 @@
   "pfm:recipes/furniture/dark_stone_vampirism_coffee_table_classic": {
     "criteria": {
       "dark_stone_vampirism_coffee_table_classic": "2025-07-29 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
     },
     "done": true
   },
@@ -11029,6 +11066,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-07-29 01:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-29 00:19:10 +0000"
@@ -11083,6 +11126,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_stone_vampirism_chair_modern": {
     "criteria": {
       "dark_stone_vampirism_chair_modern": "2025-07-29 00:19:10 +0000"
@@ -11098,6 +11147,12 @@
   "vampirism:recipes/building_blocks/polished_dark_stone": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
     },
     "done": true
   },
@@ -11122,6 +11177,18 @@
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-29 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-07-29 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-07-29 01:23:47 +0000"
     },
     "done": true
   },
