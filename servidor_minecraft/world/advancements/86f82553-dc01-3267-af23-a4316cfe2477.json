@@ -72,6 +72,7 @@
       "minecraft:sunflower_plains": "2025-07-27 22:04:37 +0000",
       "minecraft:birch_forest": "2025-07-28 00:23:10 +0000",
       "minecraft:wooded_badlands": "2025-07-29 01:58:37 +0000",
+      "minecraft:bamboo_jungle": "2025-07-30 04:24:51 +0000",
       "minecraft:badlands": "2025-07-27 21:55:11 +0000",
       "minecraft:savanna_plateau": "2025-07-28 15:39:01 +0000",
       "minecraft:beach": "2025-07-27 21:25:00 +0000",
@@ -13368,6 +13369,36 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13377,6 +13408,12 @@
   "mca:recipes/decorations/orange_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
     },
     "done": true
   },
@@ -13416,6 +13453,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_classic": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13428,6 +13477,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_chair_classic": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13437,6 +13492,12 @@
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13476,6 +13537,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13500,15 +13567,45 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_chair_modern": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13521,6 +13618,12 @@
   "mca:recipes/decorations/purple_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13602,6 +13705,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13626,9 +13735,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_raw_table_log": {
     "criteria": {
       "has_log": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13653,6 +13774,18 @@
   "mca:recipes/decorations/light_gray_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13686,6 +13819,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13707,6 +13852,12 @@
   "vampirism:recipes/building_blocks/cursed_spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
     },
     "done": true
   },
@@ -13734,6 +13885,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13758,6 +13921,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13767,6 +13936,18 @@
   "pfm:recipes/furniture/cursed_spruce_vampirism_simple_stool": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
     },
     "done": true
   },
@@ -13800,6 +13981,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13815,6 +14020,18 @@
   "pfm:recipes/furniture/cursed_spruce_vampirism_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-07-30 04:24:24 +0000"
     },
     "done": true
   },

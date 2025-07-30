@@ -471,3 +471,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 04:16:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
 [30Jul2025 04:18:49.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3570.500000, 134.500000, -3139.500000]
 [30Jul2025 04:21:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[30Jul2025 04:29:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[30Jul2025 04:30:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3581.500000, 112.500000, -3189.500000]
+[30Jul2025 04:30:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3550.500000, 112.500000, -3189.500000]
+[30Jul2025 04:30:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3555.500000, 112.500000, -3192.500000]
+[30Jul2025 04:31:18.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3589.500000, 104.500000, -3149.500000]
+[30Jul2025 04:31:49.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3556.500000, 104.500000, -3148.500000]
+[30Jul2025 04:33:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming fell from a high place
+[30Jul2025 04:33:58.231] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for RakanCharming with unique ID travelersbackpack.standard_30.07.2025-04.33.58.dat
+[30Jul2025 04:34:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3580.500000, 72.500000, -3135.500000]
+[30Jul2025 04:34:12.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3566.500000, 134.500000, -3159.500000]
+[30Jul2025 04:35:13.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 04:35:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Flexible Schedule]
+[30Jul2025 04:37:21.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
