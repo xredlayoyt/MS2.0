@@ -511,3 +511,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 05:17:41.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1360.500000, 78.187221, -4335.500000]
 [30Jul2025 05:17:49.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
 [30Jul2025 05:18:12.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 05:20:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[30Jul2025 05:21:30.417] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element vampirism:mother took 0 ms
+[30Jul2025 05:21:33.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1360.500000, 102.525375, -4335.500000]
+[30Jul2025 05:22:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 05:22:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [A Lighthouse in Your Eyes]
+[30Jul2025 05:22:16.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[30Jul2025 05:22:25.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 924.500000, 68.500000, -5695.500000]
+[30Jul2025 05:22:55.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3537.500000, 117.500000, -3287.500000]
+[30Jul2025 05:23:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8551.500000, 80.500000, -3193.500000]
+[30Jul2025 05:23:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 05:23:26.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8493.500000, 117.500000, -3312.500000]
+[30Jul2025 05:24:15.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/67045, l='ServerLevel[world]', x=-8502.37, y=115.00, z=-3294.03] died: Vampire Baron Level 1 was slain by RakanCharming
+[30Jul2025 05:24:52.867] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:abandoned_temple took 776 ms
+[30Jul2025 05:24:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -8335.500000, 117.609285, -3343.500000]
+[30Jul2025 05:26:15.138] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bandit_towers took 4194 ms
+[30Jul2025 05:26:15.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[30Jul2025 05:26:24.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -17215.500000, 138.362468, -9455.500000]
+[30Jul2025 05:26:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [What Happens in Las Vegas...]
+[30Jul2025 05:27:25.707] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Jul2025 05:27:25.710] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Jul2025 05:27:25.762] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Jul2025 05:27:25.763] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Jul2025 05:27:26.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7546ms or 150 ticks behind
+[30Jul2025 05:28:13.925] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[30Jul2025 05:29:04.999] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bathhouse took 733 ms
+[30Jul2025 05:29:15.421] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[30Jul2025 05:29:15.421] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[30Jul2025 05:29:15.421] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[30Jul2025 05:29:15.422] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[30Jul2025 05:29:15.422] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[30Jul2025 05:29:15.422] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[30Jul2025 05:29:17.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[30Jul2025 05:29:17.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[30Jul2025 05:29:17.159] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[30Jul2025 05:29:17.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -20159.500000, 209.498775, -9471.500000]
+[30Jul2025 05:29:17.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10107ms or 202 ticks behind

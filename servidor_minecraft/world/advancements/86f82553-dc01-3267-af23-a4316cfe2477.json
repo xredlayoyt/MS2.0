@@ -13705,6 +13705,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-07-30 05:26:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
@@ -13882,6 +13888,12 @@
   "pfm:recipes/furniture/cursed_spruce_vampirism_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-07-30 05:22:11 +0000"
     },
     "done": true
   },
