@@ -13365,5 +13365,371 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/stripped_cursed_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-30 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-30 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-30 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-30 03:52:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

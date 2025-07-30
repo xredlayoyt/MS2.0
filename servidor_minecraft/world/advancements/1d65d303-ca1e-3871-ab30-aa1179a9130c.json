@@ -12942,5 +12942,149 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/stripped_cursed_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 03:58:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
