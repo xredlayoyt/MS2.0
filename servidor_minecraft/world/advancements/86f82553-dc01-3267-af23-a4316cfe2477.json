@@ -12813,6 +12813,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
@@ -12867,6 +12879,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_crimson_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-07-30 01:54:40 +0000"
@@ -12876,6 +12894,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
@@ -12945,9 +12969,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/yellow_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-07-30 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-30 02:33:40 +0000"
     },
     "done": true
   },
@@ -13017,9 +13059,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
@@ -13032,6 +13086,12 @@
   "pfm:recipes/furniture/blackstone_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
@@ -13071,6 +13131,24 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-30 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_table_basic": {
     "criteria": {
       "blackstone_table_basic": "2025-07-30 01:54:40 +0000"
@@ -13092,6 +13170,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
@@ -13137,6 +13221,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_crimson_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-07-30 01:54:40 +0000"
@@ -13155,9 +13245,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-30 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
@@ -13230,6 +13332,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-30 02:36:54 +0000"
     },
     "done": true
   },
