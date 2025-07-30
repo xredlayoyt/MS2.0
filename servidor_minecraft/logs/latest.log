@@ -1160,3 +1160,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 03:13:01.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RakanCharming[/127.248.185.103:47713] logged in with entity id 21183 at (393.1164971224536, 100.0, -3432.2457212526947)
 [30Jul2025 03:13:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming joined the game
 [30Jul2025 03:13:32.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[30Jul2025 03:20:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 949.500000, 71.500000, -3427.500000]
+[30Jul2025 03:20:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 901.500000, 87.500000, -3572.500000]
+[30Jul2025 03:21:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
