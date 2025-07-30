@@ -469,3 +469,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 04:10:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
 [30Jul2025 04:16:06.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -4183.500000, 89.500000, -1894.500000]
 [30Jul2025 04:16:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 04:18:49.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -3570.500000, 134.500000, -3139.500000]
+[30Jul2025 04:21:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]

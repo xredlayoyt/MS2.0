@@ -1955,8 +1955,10 @@
       "minecraft:skeleton": "2025-07-27 21:38:57 +0000",
       "minecraft:ravager": "2025-07-29 00:27:41 +0000",
       "minecraft:hoglin": "2025-07-28 23:14:38 +0000",
+      "minecraft:vindicator": "2025-07-30 04:19:24 +0000",
       "minecraft:spider": "2025-07-27 23:10:50 +0000",
       "minecraft:creeper": "2025-07-28 02:43:19 +0000",
+      "minecraft:evoker": "2025-07-30 04:19:42 +0000",
       "minecraft:phantom": "2025-07-29 01:04:25 +0000",
       "minecraft:witch": "2025-07-28 21:27:00 +0000",
       "minecraft:wither_skeleton": "2025-07-28 21:06:34 +0000",
@@ -1964,6 +1966,7 @@
       "minecraft:cave_spider": "2025-07-28 21:02:40 +0000",
       "minecraft:enderman": "2025-07-28 23:06:34 +0000",
       "minecraft:stray": "2025-07-28 21:02:31 +0000",
+      "minecraft:vex": "2025-07-30 04:19:49 +0000",
       "minecraft:zombie": "2025-07-27 21:41:19 +0000",
       "minecraft:zombie_villager": "2025-07-28 19:53:52 +0000"
     },
@@ -13371,6 +13374,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
@@ -13455,6 +13464,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13497,9 +13518,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_basic": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
@@ -13512,6 +13545,12 @@
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_chair": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
@@ -13533,15 +13572,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_modern_stool": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
@@ -13560,6 +13617,12 @@
   "vampirism:recipes/building_blocks/stripped_cursed_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-30 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
@@ -13587,6 +13650,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-07-30 04:13:04 +0000"
@@ -13602,6 +13671,12 @@
   "pfm:recipes/furniture/cursed_spruce_vampirism_chair_dinner": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
@@ -13695,6 +13770,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
     "criteria": {
       "has_beef": "2025-07-30 03:52:06 +0000"
@@ -13719,9 +13806,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_classic_stool": {
     "criteria": {
       "has_planks": "2025-07-30 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"
     },
     "done": true
   },
