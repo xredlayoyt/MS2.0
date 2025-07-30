@@ -12216,6 +12216,12 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-07-30 02:26:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cursed_spruce_vampirism_table_classic": {
     "criteria": {
       "has_planks": "2025-07-30 02:05:43 +0000"
@@ -12333,6 +12339,12 @@
   "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
     "criteria": {
       "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-07-30 02:19:46 +0000"
     },
     "done": true
   },

@@ -1123,3 +1123,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 02:08:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 772.500000, 107.500000, -3572.500000]
 [30Jul2025 02:09:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Minecraft Comes Alive]
 [30Jul2025 02:10:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 390.500000, 99.500000, -3437.500000]
+[30Jul2025 02:19:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement ['Til Death Do Us Part]
+[30Jul2025 02:19:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement ['Til Death Do Us Part]
+[30Jul2025 02:23:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RakanCharming> ./mca propose
+[30Jul2025 02:23:54.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RakanCharming> ./mca propose RakanCharming
+[30Jul2025 02:25:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [You Monster!]
+[30Jul2025 02:26:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [You Monster!]

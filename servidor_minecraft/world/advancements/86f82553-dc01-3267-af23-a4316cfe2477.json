@@ -12957,6 +12957,12 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-07-30 02:25:10 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
@@ -13116,6 +13122,12 @@
   "pfm:recipes/furniture/blackstone_crimson_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-07-30 02:19:46 +0000"
     },
     "done": true
   },
