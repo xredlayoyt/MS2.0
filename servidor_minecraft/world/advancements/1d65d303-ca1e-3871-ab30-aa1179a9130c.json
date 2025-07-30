@@ -11508,6 +11508,12 @@
     },
     "done": true
   },
+  "vampirism:main/jump_scare": {
+    "criteria": {
+      "main": "2025-07-30 00:13:59 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-29 22:51:55 +0000"

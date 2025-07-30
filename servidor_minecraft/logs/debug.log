@@ -19256,3 +19256,25 @@ java.lang.Throwable: null
 [30Jul2025 00:15:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
 [30Jul2025 00:15:30.000] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
 [30Jul2025 00:15:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1372.500000, 96.500000, -4327.500000]
+[30Jul2025 00:15:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was killed by Ancient Cristal using magic
+[30Jul2025 00:15:52.496] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:15:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Ghost, they gave up
+[30Jul2025 00:15:55.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1372.500000, 96.500000, -4325.500000]
+[30Jul2025 00:15:56.344] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 5
+[30Jul2025 00:16:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1372.500000, 95.500000, -4328.500000]
+[30Jul2025 00:16:01.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 00:16:18.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[30Jul2025 00:17:05.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1382.500000, 100.500000, -4324.500000]
+[30Jul2025 00:17:14.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 00:17:41.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:17:41.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:18:47.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 670.500000, 63.500000, -3299.500000]
+[30Jul2025 00:18:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[30Jul2025 00:19:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 00:20:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[30Jul2025 00:22:41.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:22:41.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:23:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 899.500000, 81.500000, -3523.500000]
+[30Jul2025 00:24:34.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 376.500000, 88.500000, -3438.500000]
+[30Jul2025 00:25:21.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Disconnected
+[30Jul2025 00:25:21.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
