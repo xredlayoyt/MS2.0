@@ -5308,3 +5308,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 01:57:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 89.500000, 82.500000, -233.500000]
 [30Jul2025 01:57:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Those Were the Days]
 [30Jul2025 01:57:49.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[30Jul2025 01:58:14.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 01:58:14.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 02:00:42.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the weather to clear]
+[30Jul2025 02:03:14.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:03:14.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 02:07:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 360.500000, 103.500000, -3489.500000]
+[30Jul2025 02:07:38.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 341.500000, 107.500000, -3543.500000]
+[30Jul2025 02:08:14.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:08:14.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 02:08:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 529.500000, 99.500000, -3534.500000]
+[30Jul2025 02:08:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 708.500000, 116.500000, -3527.500000]
+[30Jul2025 02:08:34.245] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[30Jul2025 02:08:34.246] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[30Jul2025 02:08:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 772.500000, 107.500000, -3572.500000]
+[30Jul2025 02:08:47.304] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[30Jul2025 02:09:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Minecraft Comes Alive]
+[30Jul2025 02:10:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 390.500000, 99.500000, -3437.500000]
+[30Jul2025 02:13:14.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:13:14.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 02:18:14.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 02:18:14.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

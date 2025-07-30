@@ -12108,9 +12108,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cactus": {
     "criteria": {
       "has_cactus": "2025-07-30 01:52:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
     },
     "done": true
   },
@@ -12120,9 +12192,195 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-07-30 01:55:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_classic": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-07-30 02:10:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-07-30 01:55:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_log": {
+    "criteria": {
+      "has_log": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_table_basic": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_chair": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cursed_spruce_vampirism_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-30 01:52:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cursed_spruce_vampirism_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:05:43 +0000"
     },
     "done": true
   },

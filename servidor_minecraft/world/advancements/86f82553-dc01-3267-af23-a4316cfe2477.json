@@ -46,6 +46,7 @@
       "wasteland": "2025-07-29 01:57:53 +0000",
       "lush_desert": "2025-07-27 21:56:13 +0000",
       "redwood_forest": "2025-07-28 23:08:03 +0000",
+      "visceral_heap": "2025-07-30 01:57:13 +0000",
       "seasonal_forest": "2025-07-29 21:45:53 +0000",
       "volcano": "2025-07-28 20:22:32 +0000",
       "rocky_rainforest": "2025-07-28 20:24:43 +0000",
@@ -56,6 +57,7 @@
       "prairie": "2025-07-29 01:00:07 +0000",
       "glowing_grotto": "2025-07-28 20:28:13 +0000",
       "gravel_beach": "2025-07-29 23:47:19 +0000",
+      "undergrowth": "2025-07-30 01:57:01 +0000",
       "rainforest": "2025-07-28 20:22:31 +0000",
       "ominous_woods": "2025-07-29 00:23:05 +0000"
     },
@@ -12715,6 +12717,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-30 01:56:10 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/blackstone_crimson_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
@@ -12730,6 +12750,66 @@
   "travelersbackpack:recipes/misc/cactus": {
     "criteria": {
       "has_cactus": "2025-07-30 01:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_classic_nightstand": {
+    "criteria": {
+      "blackstone_classic_nightstand": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_natural": {
+    "criteria": {
+      "blackstone_table_natural": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair_dinner": {
+    "criteria": {
+      "blackstone_chair_dinner": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_modern_dinner": {
+    "criteria": {
+      "blackstone_table_modern_dinner": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12757,15 +12837,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-30 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-30 01:56:21 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_crimson_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_coffee_table_basic": {
+    "criteria": {
+      "blackstone_coffee_table_basic": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12781,9 +12897,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-30 01:56:08 +0000"
     },
     "done": true
   },
@@ -12796,6 +12924,12 @@
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair_modern": {
+    "criteria": {
+      "blackstone_chair_modern": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12817,9 +12951,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_classic": {
+    "criteria": {
+      "blackstone_table_classic": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12829,15 +13005,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-07-30 01:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-30 01:50:50 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_chair_classic": {
+    "criteria": {
+      "blackstone_chair_classic": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-07-30 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_basic": {
+    "criteria": {
+      "blackstone_table_basic": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12853,9 +13083,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-07-30 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
     },
     "done": true
   },
@@ -12865,9 +13113,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_crimson_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_crimson_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_coffee_table_modern": {
+    "criteria": {
+      "blackstone_coffee_table_modern": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12883,15 +13149,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_table_dinner": {
+    "criteria": {
+      "blackstone_table_dinner": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_coffee_table_classic": {
+    "criteria": {
+      "blackstone_coffee_table_classic": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-30 01:56:08 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/blackstone_chair": {
+    "criteria": {
+      "blackstone_chair": "2025-07-30 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 01:58:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
@@ -12904,6 +13206,12 @@
   "mca:recipes/decorations/yellow_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-30 01:57:22 +0000"
     },
     "done": true
   },
@@ -12922,6 +13230,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-30 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-30 01:54:40 +0000"
     },
     "done": true
   },
