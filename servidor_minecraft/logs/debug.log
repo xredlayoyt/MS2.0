@@ -19206,3 +19206,53 @@ java.lang.Throwable: null
 [30Jul2025 00:02:41.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 00:02:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
 [30Jul2025 00:04:36.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[30Jul2025 00:07:41.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:07:41.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:08:10.818] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element vampirism:mother took 0 ms
+[30Jul2025 00:08:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1360.500000, 88.000000, -4335.500000]
+[30Jul2025 00:08:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[30Jul2025 00:08:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[30Jul2025 00:08:53.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to RakanCharming]
+[30Jul2025 00:10:10.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:10:10.660] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for RakanCharming with unique ID travelersbackpack.standard_30.07.2025-00.10.10.dat
+[30Jul2025 00:10:12.151] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:10:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[30Jul2025 00:12:41.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:12:41.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:13:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[30Jul2025 00:13:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:13:17.438] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:13:19.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to mafe17_]
+[30Jul2025 00:13:22.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 00:13:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[30Jul2025 00:13:53.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:13:56.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:13:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Ghost, they gave up
+[30Jul2025 00:13:59.827] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mafe17_ with unique ID travelersbackpack.fox_30.07.2025-00.13.59.dat
+[30Jul2025 00:13:59.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Jump Scare]
+[30Jul2025 00:14:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1382.500000, 100.500000, -4324.500000]
+[30Jul2025 00:14:01.836] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 5
+[30Jul2025 00:14:02.923] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Jul2025 00:14:13.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:14:15.152] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:14:18.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1375.500000, 95.500000, -4329.500000]
+[30Jul2025 00:14:20.201] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Jul2025 00:14:20.202] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Jul2025 00:14:20.203] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Jul2025 00:14:20.203] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Jul2025 00:14:20.203] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[30Jul2025 00:14:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:14:23.431] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:14:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1375.500000, 95.500000, -4329.500000]
+[30Jul2025 00:14:27.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 00:14:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1375.500000, 95.500000, -4329.500000]
+[30Jul2025 00:14:53.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[30Jul2025 00:15:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:15:12.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After mafe17_ was slain by Ghost, they gave up
+[30Jul2025 00:15:13.509] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:15:13.698] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: mafe17_ has new faction level vampirism:vampire 5
+[30Jul2025 00:15:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1372.500000, 96.500000, -4327.500000]
+[30Jul2025 00:15:20.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 1376.500000, 95.500000, -4329.500000]
+[30Jul2025 00:15:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Ghost
+[30Jul2025 00:15:30.000] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: RakanCharming has new faction level vampirism:hunter 5
+[30Jul2025 00:15:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 1372.500000, 96.500000, -4327.500000]

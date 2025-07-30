@@ -12685,6 +12685,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:03:35 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-07-29 23:21:58 +0000"
@@ -12694,6 +12706,12 @@
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-07-29 23:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:03:35 +0000"
     },
     "done": true
   },
