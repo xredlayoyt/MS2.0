@@ -13095,6 +13095,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-07-30 02:54:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_burning_blossom": "2025-07-30 01:56:21 +0000"

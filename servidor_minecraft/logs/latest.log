@@ -1142,3 +1142,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 02:35:24.338] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
 [30Jul2025 02:44:25.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 924.500000, 94.500000, -3633.500000]
 [30Jul2025 02:46:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 375.500000, 88.500000, -3432.500000]
+[30Jul2025 02:49:39.830] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jul2025 02:49:39.830] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jul2025 02:52:23.507] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jul2025 02:52:23.507] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jul2025 02:54:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Friendship Found]
+[30Jul2025 02:54:47.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mafe17_ has made the advancement [Friendship Found]
+[30Jul2025 02:58:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Creative Mode]
+[30Jul2025 02:58:31.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Survival Mode]
+[30Jul2025 03:04:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to 390.500000, 99.500000, -3437.500000]
+[30Jul2025 03:04:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported mafe17_ to RakanCharming]
+[30Jul2025 03:05:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set the time to 13000]
+[30Jul2025 03:07:32.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Disconnected
+[30Jul2025 03:07:32.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
+[30Jul2025 03:07:32.076] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jul2025 03:08:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mafe17_: Teleported mafe17_ to 382.500000, 88.500000, -3446.500000]
