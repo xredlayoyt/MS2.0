@@ -14089,6 +14089,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_ceryneian_hind": {
+    "criteria": {
+      "location0": "2025-07-30 05:31:02 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-30 04:19:06 +0000"

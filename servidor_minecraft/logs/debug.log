@@ -6538,3 +6538,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 05:29:17.159] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
 [30Jul2025 05:29:17.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -20159.500000, 209.498775, -9471.500000]
 [30Jul2025 05:29:17.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10107ms or 202 ticks behind
+[30Jul2025 05:29:41.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[30Jul2025 05:29:41.033] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[30Jul2025 05:29:41.034] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[30Jul2025 05:29:41.034] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[30Jul2025 05:29:42.131] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[30Jul2025 05:30:06.751] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:ceryneian_hind took 26605 ms
+[30Jul2025 05:30:06.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26718ms or 534 ticks behind
+[30Jul2025 05:30:14.385] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.72 and blood value 15 for entity hiccups_legacy:yak
+[30Jul2025 05:30:14.394] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.72 and blood value 15 for entity hiccups_legacy:yak
+[30Jul2025 05:30:14.394] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.72 and blood value 15 for entity hiccups_legacy:yak
+[30Jul2025 05:30:14.533] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.72 and blood value 15 for entity hiccups_legacy:yak
+[30Jul2025 05:30:20.026] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.72 and blood value 15 for entity hiccups_legacy:yak
+[30Jul2025 05:30:52.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Teleported RakanCharming to -35455.500000, 124.297636, -14303.500000]
+[30Jul2025 05:30:52.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6182ms or 123 ticks behind
+[30Jul2025 05:30:52.870] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity hiccups_legacy:smother_smoke
+[30Jul2025 05:31:16.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RakanCharming: Set own game mode to Spectator Mode]
+[30Jul2025 05:31:33.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RakanCharming lost connection: Disconnected
+[30Jul2025 05:31:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming left the game
+[30Jul2025 05:31:39.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jul2025 05:31:39.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jul2025 05:31:39.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jul2025 05:31:39.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jul2025 05:31:39.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jul2025 05:31:42.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jul2025 05:31:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[30Jul2025 05:31:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dungeon_realm:dungeon
+[30Jul2025 05:31:42.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_harvest:harvest
+[30Jul2025 05:31:42.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jul2025 05:31:42.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 05:31:42.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 05:31:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jul2025 05:31:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jul2025 05:31:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[30Jul2025 05:31:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[30Jul2025 05:31:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (harvest): All chunks are saved
+[30Jul2025 05:31:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jul2025 05:31:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jul2025 05:31:46.011] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Jul2025 05:31:46.013] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/MS2.0/servidor_minecraft/config/refurbished_furniture.server.toml
+[30Jul2025 05:31:46.013] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Jul2025 05:31:46.017] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Jul2025 05:31:46.017] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[30Jul2025 05:31:46.017] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[30Jul2025 05:35:49.140] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 381.926s
